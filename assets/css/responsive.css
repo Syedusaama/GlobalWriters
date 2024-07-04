@@ -1,3 +1,15 @@
+:root {
+    --buton: #7e489c;
+    --light_white: #f8f8f8;
+    --black: #000;  
+    --white: #fff;
+    --primary_color: #542a74;
+    --secondary_color: #250c33;
+    --header: #471758;
+    --text_color: #141414;
+    --hover_color: #723DD2;
+  }
+
 @media (min-width: 1200px) and (max-width: 1700px) {
     /* headerCss */
     .headerCta {
@@ -5,7 +17,7 @@
     }
 
     .HeaderCtaPhoneEmail {
-        border-left: 1px solid #619d87;
+        border-left: 1px solid #8b3fb5;
     }
 
     .logoMain img {
@@ -62,7 +74,7 @@
     }
 
     header {
-        border-bottom: 1px solid #629d87;
+        border-bottom: 1px solid #8b3fb5;
     }
 
     /* headercss end */

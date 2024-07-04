@@ -46,6 +46,19 @@ a {
 
 /*start home css*/
 
+:root {
+    --buton: #7e489c;
+    --light_purple: #8b3fb5;
+    --section_purple: #d7c2ee;
+    --black: #000;  
+    --white: #fff;
+    --primary_color: #542a74;
+    --secondary_color: #250c33;
+    --header: #471758;
+    --text_color: #141414;
+    --hover_color: #723DD2;
+  }
+
 .abtLeft h2,
 .bannerContent h1,
 .heading2,
@@ -58,12 +71,12 @@ a {
 }
 
 .BannerHome {
-    /*background: url('../images/bannerBgHome.webp') bottom center/cover no-repeat;*/
+    background: url('/assets/images/banner.jpg') bottom center/cover no-repeat;
     height: auto;
     overflow: hidden;
     position: relative;
-    background: rgb(38,98,71);
-    background: linear-gradient(177deg, rgba(38,98,71,1) 0%, rgba(161,175,82,1) 100%);
+    /* background: rgb(38,98,71);
+    background: linear-gradient(177deg, rgba(38,98,71,1) 0%, rgba(161,175,82,1) 100%); */
 }
 
 .BannerHome:after {
@@ -93,7 +106,7 @@ a {
 
 a.btnPrimary,
 a.btnSecondary {
-    color: #1a1302 !important;
+    color: var(--white) !important;
     display: inline-block;
     border-radius: 50px;
     font-size: 14px;
@@ -111,7 +124,7 @@ a.btnSecondary {
 
 .BookTitle a.btnYellow svg {
     width: 16px;
-    background: #ffb703 !important;
+    background: var(--buton) !important;
     height: 16px;
     color: #fff;
     font-size: 14px;
@@ -142,7 +155,7 @@ a.btnSecondary {
 }
 
 a.btnPrimary {
-    background: #ffb703;
+    background: var(--buton);
     padding: 15px 60px 15px 30px;
 }
 
@@ -150,7 +163,7 @@ a.btnPrimary:after {
     content: "";
     width: 28px;
     height: 28px;
-    background: #1a1302 !important;
+    background: var(--primary_color) !important;
     position: absolute;
     border-radius: 100%;
     right: 12px;
@@ -190,7 +203,7 @@ a.btnSecondary {
 .abtSection {
     /*background: url('../images/sec2bg.webp') bottom center/cover no-repeat;*/
     padding: 90px 0 0;
-    background-color: #eaf0cd;
+    background-color: var(--section_purple);
 }
 
 span.smallTitleLine {
@@ -300,20 +313,20 @@ a.ctaLinePhone svg {
     position: absolute;
     left: -8px;
     top: -3px;
-    background: #292f0a;
+    background: var(--primary_color);
     width: 23px;
     height: 23px;
     box-sizing: border-box;
     padding: 15px;
     border-radius: 100%;
-    color: #ffb705;
+    color: var(--white);
 }
 
 .coreServices {
     /*background: url('../images/greenBannerbg.webp') bottom center/cover no-repeat;*/
     padding: 90px 0;
-    background: rgb(14,39,34);
-    background: linear-gradient(177deg, rgba(14,39,34,1) 0%, rgba(22,62,54,1) 100%);
+    background: var(--secondary_color);
+    /* background: linear-gradient(177deg, rgba(14,39,34,1) 0%, rgba(22,62,54,1) 100%); */
 }
 
 .coreServices .abtLeft h2,
@@ -329,21 +342,21 @@ a.ctaLinePhone svg {
 }
 
 .coreServices .aboutCta a.ctaLinePhone {
-    color: #ffb703 !important;
+    color: var(--buton) !important;
 }
 
 .coreServices a.ctaLinePhone svg {
-    background: #ffb705;
-    color: #292f0a;
+    background: var(--buton);
+    color: var(--white);
 }
 
 .coreServices span.smallTitleLine,
 .whychooeIconBoxInner .letsconnect p b {
-    color: #ffb705;
+    color: var(--buton);
 }
 
 .coreServices span.smallTitleLine:before {
-    background: #ffb705;
+    background: var(--buton);
 }
 
 .swiper-button-next:after,
@@ -378,7 +391,7 @@ a.ctaLinePhone svg {
 }
 
 .custom-tab-list ul li a {
-    color: #9ab3ae !important;
+    color: var(--white) !important;
     font-weight: 700;
     font-size: 36px;
     transition: 0.3s;
@@ -391,7 +404,7 @@ a.ctaLinePhone svg {
 }
 
 .tabCont .heading3 {
-    color: #9fdccb;
+    color: var(--light_purple);
     font-size: 28px;
     line-height: 38px;
     margin-bottom: 15px;
@@ -414,23 +427,23 @@ a.ctaLinePhone svg {
 .heading2 {
     font-size: 42px;
     line-height: 54px;
-    color: #292e0a;
+    color: var(--white);
     text-align: center;
 }
 
 .custom-tab-list ul li.active a,
 .custom-tab-list ul li:hover a {
-    color: #ffb705 !important;
+    color: var(--light_purple) !important;
 }
 
 section.sec4.servicesMainboxes {
     /*background: url('../images/headphonebg.webp') bottom right/cover no-repeat;*/
     padding: 90px 0;
-    background-color: #e7f2df;
+    background-color: var(--section_purple);
 }
 
 .serviceBoxinner {
-    background: #54ac94;
+    background: var(--primary_color);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -473,7 +486,7 @@ section.sec4.servicesMainboxes {
 .servicesMainboxesContent {
     /*background: url('../images/contentbg.webp') bottom right/cover no-repeat;*/
     padding: 90px 0;
-    background-color: #eaf0cd;
+    background-color: var(--secondary_color);
 }
 
 p {
@@ -582,7 +595,7 @@ section.sec5.platforms {
 
 .circle:after {
     content: "";
-    background: #ffb703;
+    background: var(--light_purple);
     width: 100%;
     height: 100%;
     position: absolute;
@@ -696,13 +709,13 @@ span.nameClient {
 }
 
 .BookTitle a.btnYellow {
-    background: #1b1402;
-    color: #ffb703 !important;
+    background: var(--primary_color);
+    color: var(--white) !important;
 }
 
 .BookTitle:before {
     content: "";
-    background: #292e0a;
+    background: var(--white);
     width: 2px;
     height: 35px;
     left: 0;
@@ -1271,7 +1284,12 @@ span.blogTitle {
     justify-content: start;
     margin-top: 0 !important;
 }
-
+.contentLeft>p{
+    color: var(--white);
+}
+.contentRight>p{
+    color: var(--white);
+}
 .formFields input,
 .formFields textarea {
     background: 0 0;
@@ -3644,7 +3662,7 @@ button.btnPrimary span svg {
 }
 
 .headerMenuWrap ul.dropDown li:hover a {
-    background: #fdb710;
+    background: #d7c2ee;
 }
 
 .headerMenuWrap ul.dropDown > li + li {
@@ -3822,7 +3840,7 @@ header {
 }
 
 .HederCtaRight a svg {
-    color: #fdb710;
+    color: var(--light_purple);
     margin-right: 10px;
 }
 
@@ -4415,7 +4433,7 @@ span.h4BookCate {
 header.sticky-header {
     position: fixed;
     width: 100%;
-    background: #2c6647;
+    background: var(--header);
     z-index: 9999;
 }
 
