@@ -49,11 +49,11 @@ a {
 :root {
     --buton: #7e489c;
     --light_purple: #8b3fb5;
-    --section_purple: #d7c2ee;
+    --section_purple: #f8f2ff;
     --black: #000;  
     --white: #fff;
     --primary_color: #542a74;
-    --secondary_color: #250c33;
+    --secondary_color: #4f2c62;
     --header: #471758;
     --text_color: #141414;
     --hover_color: #723DD2;
@@ -71,11 +71,11 @@ a {
 }
 
 .BannerHome {
-    background: url('/assets/images/banner.jpg') bottom center/cover no-repeat;
+    background: url('../images/banner.jpg') bottom center/cover no-repeat;
     height: auto;
     overflow: hidden;
     position: relative;
-    /* background: rgb(38,98,71);
+     /* background: rgb(38,98,71);
     background: linear-gradient(177deg, rgba(38,98,71,1) 0%, rgba(161,175,82,1) 100%); */
 }
 
@@ -444,7 +444,7 @@ section.sec4.servicesMainboxes {
 }
 
 .serviceBoxinner {
-    background: var(--primary_color);
+    background: var(--secondary_color);
     display: flex;
     align-items: center;
     justify-content: center;
