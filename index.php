@@ -468,7 +468,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 philImageLeft">
-                    <img src="https://theuniversalwriters.com/assets/images/leftImageBook.webp"  alt="Platform Images"/>
+                    <img src="./assets/images/leftImageBook.webp"  alt="Platform Images"/>
                 </div>
                 <div class="col-md-6 philContentRight">
                     <div class="abtLeft">

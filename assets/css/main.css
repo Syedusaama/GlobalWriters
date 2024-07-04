@@ -207,7 +207,7 @@ a.btnSecondary {
 }
 
 span.smallTitleLine {
-    color: #292e0a;
+    color: var(--white);
     font-size: 14px;
     line-height: 24px;
     font-weight: 700;
@@ -221,14 +221,14 @@ span.smallTitleLine:before {
     content: "";
     width: 35px;
     height: 2px;
-    background: #292e0a;
+    background: var(--white);
     position: absolute;
     left: 0;
     top: 12px;
 }
 
 .abtLeft h2 {
-    color: #292e0a;
+    color: var(--white);
     font-size: 42px;
     line-height: 56px;
     padding-right: 120px;
@@ -236,7 +236,7 @@ span.smallTitleLine:before {
 
 .abtRight p {
     font-size: 20px;
-    color: #212121;
+    color: var(--white);
     line-height: 33px;
     margin-top: 40px;
 }
@@ -280,7 +280,7 @@ p {
 .aboutCta a.ctaLinePhone {
     margin-left: 30px;
     text-decoration: none;
-    color: #292e0a !important;
+    color: var(--buton) !important;
     font-size: 26px;
     font-weight: 700;
     display: flex;
@@ -314,7 +314,7 @@ a.ctaLinePhone svg {
     position: absolute;
     left: -8px;
     top: -3px;
-    background: var(--primary_color);
+    background: var(--buton);
     width: 23px;
     height: 23px;
     box-sizing: border-box;
@@ -334,7 +334,7 @@ a.ctaLinePhone svg {
 .coreServices .abtLeft span.smallTitleLine,
 .whiteCta .aboutCta a.ctaLinePhone span.smallTitleLine,
 .whiteTitle .heading2 {
-    color: #fff;
+    color: var(--black);
 }
 
 .coreServices .abtRight p {
@@ -729,12 +729,12 @@ span.nameClient {
 .processMain {
     /*background: url('../images/processBG.webp') center center/cover no-repeat;*/
     padding: 90px 0;
-    background: var(--secondary_color);
+    background: var(--section_purple);
     /* background: linear-gradient(73deg, rgba(57,131,119,1) 0%, rgba(97,188,153,1) 100%); */
 }
 
 .whiteTitle .smallHeading {
-    color: #fff;
+    color: var(--black);
     display: table;
     margin: 0 auto 20px;
     position: relative;
@@ -744,7 +744,7 @@ span.nameClient {
     content: "";
     width: 35px;
     height: 2px;
-    background: #fff;
+    background: var(--black);
     position: absolute;
     left: 0;
     top: 11px;
@@ -870,7 +870,7 @@ span.nameClient {
     /*background: url('../images/yellowBg.webp') center top/cover no-repeat;*/
     border-top: 2px solid #fff;
     border-bottom: 2px solid var(--primary_color);
-    background-color: #eaf0cd;
+    background-color: var(--secondary_color);
 }
 
 .philImageLeft img,
@@ -891,12 +891,14 @@ span.nameClient {
 }
 
 .abtLeft h4 {
-    color: #292e0a;
+    color: var(--section_purple);
     font-size: 54px;
     line-height: 70px;
     padding-right: 0;
 }
-
+.abtLeft p{
+    color: var(--section_purple);
+}
 .makesTitle span,
 .whyChooseLeft .abtLeft h4 {
     font-size: 42px;
@@ -904,7 +906,7 @@ span.nameClient {
 }
 
 .makesTitle span {
-    color: #292e0a;
+    color: var(--section_purple);
 }
 
 .makesTitle {
@@ -919,7 +921,7 @@ span.nameClient {
 }
 
 .makesContent ul li {
-    color: #292e0a;
+    color: var(--section_purple);
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 15px;
@@ -1394,7 +1396,9 @@ a.btnSecondary svg {
     margin: 0 auto;
     text-align: center;
 }
-
+.bookContentmain p{
+    color: var(--white) !important;
+}
 .aboutSec2Content .row {
     display: flex;
     align-items: start;
@@ -3986,7 +3990,7 @@ a.btnPrimary span svg {
 
 .processMain p {
     text-align: center;
-    color: #fff;
+    color: var(--black);
     font-size: 20px;
     line-height: 30px;
     max-width: 950px;
