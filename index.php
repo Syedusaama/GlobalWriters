@@ -142,13 +142,13 @@
     <section class="sec3 abtSection coreServices">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 abtLeft">
+                <div class="col-md-6 abtLeft-light">
                     <span class="smallTitleLine">Our Fundamental Offers</span>
                     <h2>
                         Innovating One-size-fits-all Ghostwriter's Expertise!
                     </h2>
                 </div>
-                <div class="col-md-6 abtRight">
+                <div class="col-md-6 abtRight-light">
                     <p>
                         Writing a book is a procedure that must be carried out step-by-step; it is more complex than purely conscripting a manuscript. A wide range of subjects, including ghostwriting, editing, publishing, and marketing, form the substance of book writing. The Universal Writers provides <b>ghostwriters for hire</b> with a laser-like focus that collaborates with eminent ghostwriters who are extremely skilled in their profession!
                     </p>

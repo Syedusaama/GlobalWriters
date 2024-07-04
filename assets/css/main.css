@@ -240,7 +240,19 @@ span.smallTitleLine:before {
     line-height: 33px;
     margin-top: 40px;
 }
+.abtLeft-light h2 {
+    color: var(--secondary_color);
+    font-size: 42px;
+    line-height: 56px;
+    padding-right: 120px;
+}
 
+.abtRight-light p {
+    font-size: 20px;
+    color: var(--secondary_color);
+    line-height: 33px;
+    margin-top: 40px;
+}
 .cupImage {
     padding: 30px 0;
 }
