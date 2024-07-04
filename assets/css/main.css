@@ -221,12 +221,31 @@ span.smallTitleLine:before {
     content: "";
     width: 35px;
     height: 2px;
-    background: var(--white);
+    background: var(--buton);
     position: absolute;
     left: 0;
     top: 12px;
 }
+span.smallTitleLine-light {
+    color: var(--primary_color);
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    padding-left: 50px;
+    position: relative;
+    margin-bottom: 20px;
+    display: block;
+}
 
+span.smallTitleLine-light:before {
+    content: "";
+    width: 35px;
+    height: 2px;
+    background: var(--primary_color);
+    position: absolute;
+    left: 0;
+    top: 12px;
+}
 .abtLeft h2 {
     color: var(--white);
     font-size: 42px;
@@ -346,7 +365,7 @@ a.ctaLinePhone svg {
 .coreServices .abtLeft span.smallTitleLine,
 .whiteCta .aboutCta a.ctaLinePhone span.smallTitleLine,
 .whiteTitle .heading2 {
-    color: var(--black);
+    color: var(--white);
 }
 
 .coreServices .abtRight p {
@@ -436,8 +455,7 @@ a.ctaLinePhone svg {
     /*! text-transform: uppercase; */
 }
 
-.BookTitle span,
-.heading2 {
+.BookTitle span {
     font-size: 42px;
     line-height: 54px;
     color: var(--white);
@@ -476,6 +494,18 @@ section.sec4.servicesMainboxes {
 .heading2 {
     display: block;
     margin-bottom: 50px;
+    font-size: 42px;
+    line-height: 54px;
+    color: var(--white);
+    text-align: center;
+}
+.heading2-light {
+    display: block;
+    margin-bottom: 50px;
+    font-size: 42px;
+    line-height: 54px;
+    color: var(--primary_color);
+    text-align: center;
 }
 
 .BlogMain .abtLeft h4,
@@ -915,6 +945,7 @@ span.nameClient {
 .whyChooseLeft .abtLeft h4 {
     font-size: 42px;
     line-height: 56px;
+    color: var(--primary_color);
 }
 
 .makesTitle span {
@@ -1122,6 +1153,7 @@ span.nameClient {
     font-size: 42px;
     line-height: 56px;
     margin-bottom: 50px;
+    color: var(--primary_color);
 }
 
 .testLeft {
@@ -2769,13 +2801,13 @@ span.faqtitlemain {
 }
 
 section.sec11.faqsMain {
-    background: var(--light_purple);
+    background: var(--secondary_color);
     padding: 120px 0 80px;
     border-bottom: 2px solid #fff;
 }
 
 .accordion__button {
-    color: var(--secondary_color) !important;
+    color: var(--light_purple) !important;
     font-family: 'ivy_moderegular';
     font-size: 24px;
     line-height: 36px;

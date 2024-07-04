@@ -113,8 +113,8 @@
     <section class="sec2 abtSection">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 abtLeft">
-                    <span class="smallTitleLine">The Universal Writers</span>
+                <div class="col-md-6 abtLeft-light">
+                    <span class="smallTitleLine-light">The Universal Writers</span>
                     <h2>
                         Hire Top-Notch Book Ghostwriters to Write Inspiring Tales!
                     </h2>
@@ -122,7 +122,7 @@
                         <img src="./assets/images/cup.webp"  alt="Cup Image"/>
                     </div>
                 </div>
-                <div class="col-md-6 abtRight">
+                <div class="col-md-6 abtRight-light">
                     <p>
                         Not only does using an army of <a href="https://theuniversalwriters.com/" class="anchor-text">best ghostwriters</a> for books allow you to avoid hiring hundreds of new employees, but it also allows you to generate a variety of well-written work quickly! Our ghostwriters are experts and know how to produce great content for book publishing, structuring, SEO, and editing. When it comes to excellent writing, our talented authors make it their job to create stories that will touch the hearts of the audience!
                     </p>
@@ -142,13 +142,13 @@
     <section class="sec3 abtSection coreServices">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 abtLeft-light">
+                <div class="col-md-6 abtLeft">
                     <span class="smallTitleLine">Our Fundamental Offers</span>
                     <h2>
                         Innovating One-size-fits-all Ghostwriter's Expertise!
                     </h2>
                 </div>
-                <div class="col-md-6 abtRight-light">
+                <div class="col-md-6 abtRight">
                     <p>
                         Writing a book is a procedure that must be carried out step-by-step; it is more complex than purely conscripting a manuscript. A wide range of subjects, including ghostwriting, editing, publishing, and marketing, form the substance of book writing. The Universal Writers provides <b>ghostwriters for hire</b> with a laser-like focus that collaborates with eminent ghostwriters who are extremely skilled in their profession!
                     </p>
@@ -249,7 +249,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 serviceTitle">
-                    <span class="heading2">An Array of Services </span>
+                    <span class="heading2-light">An Array of Services </span>
                 </div>
                 <div class="col-md-4 servicebox">
                     <div class="serviceBoxinner">
@@ -396,7 +396,7 @@
         <div class="row">
             <div class="col-md-12 platformsTitle">
                 <span class="smallHeading">Your book will be available</span>
-                <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
@@ -434,7 +434,7 @@
         <div class="row">
             <div class="col-md-12 processTitle whiteTitle">
                 <span class="smallHeading lineBar">Process We Follow</span>
-                <span class="heading2">How We Create a Masterpiece</span>
+                <span class="heading2-light">How We Create a Masterpiece</span>
                 <p>Let us take you on a step-by-step guide to our processes; we work through a chronology and practice
                     timely submissions that are tweaked to your liking before the final publishing stage.</p>
             </div>
@@ -683,7 +683,7 @@
                 </div>
                 <div class="col-md-6 testCenter">
                     <div class="abtLeft">
-                        <span class="smallTitleLine">Testimonials</span>
+                        <span class="smallTitleLine-light">Testimonials</span>
                         <h4>Don't take our word for it; see for yourself!</h4>
                     </div>
                     <div class="testSliderContent">
@@ -829,7 +829,7 @@
         <div class="row">
             <div class="col-md-4 whyChooseLeft">
                 <div class="abtLeft">
-                    <span class="smallTitleLine">OUR BLOG</span>
+                    <span class="smallTitleLine-light">OUR BLOG</span>
                     <h4>Stories & Latest News</h4>
                     <p>Dive into the World of Creativity</p>
                 </div>
