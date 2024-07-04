@@ -979,80 +979,9 @@
             </Marquee>
         </div>
     </section>
+<!-- ContactForm -->
+<!-- ContactForm -->
 
-    <section class="sec13 contactFormBottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 contactFormContentLeft">
-                <div class="contactContentLeft">
-                    <div class="abtLeft">
-                        <h4>
-                            Begin Your Road To Success
-                        </h4>
-                        <span>Contact us now and consult our experts</span>
-                        <p>We will be happy to assist you </p>
-                    </div>
-                </div>
-                <div class="ctaWrap">
-                    <div class="aboutCta">
-                        <a href="tel:2393009418" class="ctaLinePhone">
-                            <i class="fa-solid fa-phone"></i>
-                            <span class="smallTitleLine">We will be happy to assist you</span>
-                                (239) 300-9418
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 contactFormRight">
-                <div class="contactFormFields">
-                    <form action="/mail.php" method="post" autocomplete="off">
-                        <div class="formFields">
-                            <input type="text" placeholder="Name (required)" name='Name' required/>
-                        </div>
-                        <div class="formFields">
-                            <input type="text" placeholder="Email (required)" name='Email' required/>
-                        </div>
-                        <div class="formFields">
-                            <input type="text" placeholder="Phone (required)" name='Number'
-                                   onKeyPress={handleKeyPress}
-                                   onChange={handleChange} required/>
-                        </div>
-                        <div class="formFields">
-                            <textarea placeholder="Message" name='msg'></textarea>
-                        </div>
-                        <div class="formFields FieldButton">
-                            <button type="submit" class="btnPrimary"><span>Submit <i class="fa-solid fa-arrow-right"></i></span></button>
-                        </div>
-                           <div class="hidden-fields">
-                               <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-                    <!-- Customer Info -->
-                    <input type="hidden" name="fullpageurl" value=""/>
-                    <input type="hidden" name="pageurl" value=""/>
-                    <!-- ip2Location -->
-                    <input type="hidden" name="ip2loc_ip" value=""/>
-                    <input type="hidden" name="ip2loc_isp" value=""/>
-                    <input type="hidden" name="ip2loc_org" value=""/>
-                    <input type="hidden" name="ip2loc_country"
-                           value=""/>
-                    <input type="hidden" name="ip2loc_region"
-                           value=""/>
-                    <input type="hidden" name="ip2loc_city" value=""/>
-                    <input type="hidden" name="pc" value="">
-                    <input type="hidden" name="hiddencapcha" value="">
-                    <input type="hidden" name="setCookie" value="setBannerCookie">
-                    <input type="hidden" name="pack_name" class="has-Pack" value="">
-                    <input type="hidden" name="setURL" class="packname" value="">
-                    <input type="hidden" name="pac" class="packp" value="">
-                    <input type="hidden" id="location" name="locationURL"
-                           value="http://theuniversalwriters.com/"/>
-                    <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
-                </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 <!-- Footer -->
 <?php include "./components/footer.php"?>
 
