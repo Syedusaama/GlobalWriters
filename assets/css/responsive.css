@@ -313,7 +313,7 @@
         content: "";
         width: 28px;
         height: 28px;
-        background: #1a1302 !important;
+        background: var(--primary_color) !important;
         position: absolute;
         border-radius: 100%;
         right: 36.5%;

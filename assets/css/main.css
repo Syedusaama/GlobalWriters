@@ -297,6 +297,7 @@ p {
     margin: 0;
     line-height: 17px;
     padding-left: 35px;
+    color: var(--buton);
 }
 
 .aboutCta a.ctaLinePhone span.smallTitleLine:before {
@@ -352,7 +353,7 @@ a.ctaLinePhone svg {
 
 .coreServices span.smallTitleLine,
 .whychooeIconBoxInner .letsconnect p b {
-    color: var(--buton);
+    /* color: var(--buton); */
 }
 
 .coreServices span.smallTitleLine:before {
@@ -508,7 +509,7 @@ section.sec5.platforms {
     /* background: url('../images/logobg.webp') bottom right/cover no-repeat; */
     padding: 80px 0;
     border-top: 1px solid #fff;
-    background-color: #d9e5d3;
+    background-color: var(--section_purple);
 }
 
 .platformsInner {
@@ -728,8 +729,8 @@ span.nameClient {
 .processMain {
     /*background: url('../images/processBG.webp') center center/cover no-repeat;*/
     padding: 90px 0;
-    background: rgb(57,131,119);
-    background: linear-gradient(73deg, rgba(57,131,119,1) 0%, rgba(97,188,153,1) 100%);
+    background: var(--secondary_color);
+    /* background: linear-gradient(73deg, rgba(57,131,119,1) 0%, rgba(97,188,153,1) 100%); */
 }
 
 .whiteTitle .smallHeading {
@@ -868,7 +869,7 @@ span.nameClient {
 .philMain {
     /*background: url('../images/yellowBg.webp') center top/cover no-repeat;*/
     border-top: 2px solid #fff;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid var(--primary_color);
     background-color: #eaf0cd;
 }
 
@@ -937,9 +938,9 @@ span.nameClient {
 
 .testimonialMain,
 .whyChosseUs {
-    background: #e7f0e6;
+    background: var(--section_purple);
     padding: 90px 0;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid var(--primary_color);
 }
 
 .trustpilotGoogleBox {
@@ -981,7 +982,7 @@ span.nameClient {
     display: flex;
     align-items: stretch;
     justify-content: space-between;
-    border-bottom: 1px solid #cae2d6;
+    border-bottom: 1px solid var(--primary_color);
     padding-bottom: 40px;
     margin-bottom: 40px;
 }
@@ -1015,7 +1016,7 @@ span.nameClient {
 }
 
 .whychooeIconBoxInner .letsconnect {
-    background: #55ac94;
+    background: var(--primary_color);
     padding: 40px;
     border-radius: 20px;
 }
@@ -1039,20 +1040,24 @@ span.nameClient {
 }
 
 .mainCOntentSlider {
-    background: #e6ecc9;
+    background: var(--primary_color);
     padding: 60px 60px 0;
-    border-bottom: 50px solid #e7f0e6;
+    border-bottom: 50px solid var(--primary_color);
 }
 
 .testCon p {
     font-size: 24px;
     line-height: 38px;
+    color: var(--white);
 }
-
+.ServicClient{
+    color: var(--white);
+}
 .contactFormContentLeft .aboutCta a.ctaLinePhone,
 span.nameClient {
     font-size: 34px;
     line-height: 48px;
+    color: var(--white);
 }
 
 .testImageName {
@@ -1170,7 +1175,7 @@ span.nameClient {
 }
 
 .servicesMarque ul li {
-    color: #292e0a;
+    color: var(--section_purple);
     font-size: 140px;
     line-height: 170px;
     text-align: center;
@@ -1193,7 +1198,7 @@ span.nameClient {
 
 .BlogMain {
     /*background: url('../images/blogBG.webp') right top/cover no-repeat;*/
-    background-color: #d8e3d6;
+    background-color: var(--section_purple);
     padding: 90px 0;
 }
 
@@ -2735,7 +2740,7 @@ span.ghostTitleheading {
 }
 
 span.faqtitlemain {
-    color: #292e0a;
+    color: var(--white);
     font-family: 'ivy_moderegular';
     font-size: 48px;
     line-height: 66px;
@@ -2748,13 +2753,13 @@ span.faqtitlemain {
 }
 
 section.sec11.faqsMain {
-    background: #e7f0e6;
+    background: var(--light_purple);
     padding: 120px 0 80px;
     border-bottom: 2px solid #fff;
 }
 
 .accordion__button {
-    color: #292e0a !important;
+    color: var(--secondary_color) !important;
     font-family: 'ivy_moderegular';
     font-size: 24px;
     line-height: 36px;
@@ -2771,6 +2776,9 @@ section.sec11.faqsMain {
     margin-top: 0;
     margin-bottom: 30px;
     display: none;
+}
+.accordion__panel>p{
+    color: var(--white);
 }
 
 span.ctatilefaq {
@@ -3202,18 +3210,18 @@ div#swal2-html-container {
 }
 
 footer {
-    background: #223a36;
+    background: var(--secondary_color);
 }
 
 .footerLeft {
     padding: 80px 0;
-    border-right: 1px solid #2a4743;
+    border-right: 1px solid var(--light_purple);
     padding-right: 50px;
     height: 100%;
 }
 
 span.footerTitle {
-    color: #9ab3ae;
+    color: var(--white);
     font-family: 'ivy_moderegular';
     font-size: 52px;
     line-height: 66px;
@@ -3223,7 +3231,7 @@ span.footerTitle {
 }
 
 ul.footerContactDetails li a {
-    color: #9ab3ae !important;
+    color: var(--white) !important;
     font-family: 'ivy_moderegular';
     font-size: 28px;
     line-height: 46px;
@@ -3244,11 +3252,11 @@ ul.socialFooter {
 }
 
 ul.socialFooter li a {
-    color: #9ab3ae !important;
+    color: var(--white);
     font-size: 16px;
     line-height: 26px;
     text-decoration: none !important;
-    border: 1px solid #9ab3ae !important;
+    border: 1px solid var(--white) !important;
     display: block;
     width: 140px;
     padding: 10px 20px;
@@ -3256,7 +3264,7 @@ ul.socialFooter li a {
 }
 
 ul.socialFooter li a:after {
-    background: #9ab3ae !important;
+    background: var(--buton) !important;
     width: 15px;
     height: 15px;
     position: absolute;
@@ -3284,9 +3292,11 @@ ul.socialFooter li + li {
 ul.socialFooter {
     margin-top: 30px;
 }
-
+ul.socialFooter li a span {
+    color: var(--white);
+}
 ul.FooterMenu li a {
-    color: #9ab3ae !important;
+    color: var(--white) !important;
     font-size: 16px;
     line-height: 30px;
     text-decoration: none !important;
@@ -3319,7 +3329,7 @@ ul.FooterMenu li + li {
 }
 
 span.FooterMenuTitle {
-    color: #9ab3ae !important;
+    color: var(--light_purple) !important;
     font-size: 18px;
     line-height: 40px;
     text-decoration: none !important;
@@ -3346,7 +3356,7 @@ ul.FooterMenu.lightMenu li {
 
 ul.FooterMenu.lightMenu li a:before {
     content: "";
-    background: #9ab3ae !important;
+    background: var(--light_purple) !important;
     width: 12px;
     height: 1px;
     position: absolute;
@@ -3366,7 +3376,7 @@ ul.FooterMenu.padingRight {
     display: block;
     width: 100%;
     padding: 0;
-    color: #9ab3ae !important;
+    color: var(--white) !important;
 }
 
 .copyRighgtBottom ul {
@@ -3395,7 +3405,7 @@ ul.FooterMenu.padingRight {
 
 .copyRightContent p {
     margin: 0;
-    color: #9ab3ae !important;
+    color: var(--white) !important;
     margin-right: 12px;
     font-weight: 700 !important;
     font-size: 15px;
@@ -3425,13 +3435,13 @@ footer .container-fluid .col-md-8 {
 }
 
 .copyRighgtBottom {
-    border-top: 1px solid #2a4743;
+    border-top: 1px solid var(--light_purple);
     margin-top: 30px !important;
     padding-top: 40px;
 }
 
 span.FooterMenuTitle a {
-    color: #9ab3ae !important;
+    color: var(--white) !important;
     text-decoration: none !important;
 }
 
@@ -3534,7 +3544,7 @@ span.popTitMainup {
 
 /* form button css */
 button.btnPrimary {
-    background: #ffb703;
+    background: var(--buton);
     color: #1a1302 !important;
     font-size: 18px;
     text-transform: uppercase;
@@ -3555,6 +3565,7 @@ button.btnPrimary {
 
 button.btnPrimary span {
     position: relative;
+    color: var(--white);
     z-index: 9;
 }
 
@@ -3562,7 +3573,7 @@ button.btnPrimary span svg {
     position: absolute;
     right: -32px;
     top: 3px;
-    color: #fff;
+    color: var(--white);
     font-size: 15px;
     transform: rotate(-45deg);
     transition: 0.3s;
@@ -4096,7 +4107,7 @@ a.btnPrimary span svg {
 }
 
 .accordion__item .set {
-    border-bottom: 1px solid #747873;
+    border-bottom: 1px solid var(--secondary_color);
 }
 
 .accordion__button.active:after {
