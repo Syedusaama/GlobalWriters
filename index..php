@@ -5,6 +5,7 @@
     <title>Ghost Writers for Hire | Hire Best Ghostwriters for Book & eBooks</title>
     <?php include "./components/head.php"?>
 </head>
+
 <body>
 <div class="wrapper">
 
@@ -13,101 +14,8 @@
     <div class="loading-bg-black"></div>
 </div>
 <!-- Header -->
+<?php include "./components/header.php"?>
 
-<header>
-    <div class="headerMain">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-2 logoMainWrap">
-                    <div class="logoMain">
-                        <a href="https://theuniversalwriters.com/">
-                            <img src="/assets/images/logo.webp" alt="Logo"/>
-                        </a>
-                        <div class="mobileMenuIcon">
-                            <img src="/assets/images/menuIcon.svg" alt="MenuIcon"/>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-7 headerMenuMain">
-                    <div class="closeMenu mobileMenuIcon">
-                        <img src="/assets/images/closeMenu.svg" alt="Close Menu"/>
-                    </div>
-                    <div class="headerMenuWrap">
-                        <ul>
-                            <li><a href="/about-us/">ABOUT US</a></li>
-                            <li class="hasChild parentMenu">
-                    <span><a href="javascript:;">Ghostwriting <i class="fa-solid fa-chevron-down"></i></a>
-                            <ul class="dropDown">
-                              <li><a href="/ghostwriting-services/">Ghostwriting</a></li>
-                              <li><a href="/ebook-writing/">Ebook Writers</a></li>
-                              <li><a href="/memoir-writing/">Memoir Writing</a></li>
-                              <li><a href="/biography-writing/">Biography Writing</a></li>
-                              <li><a href="/business-book-writing/">Business Book Writing</a></li>
-                              <li><a href="/non-fiction-writing/">Non-Fiction</a></li>
-                              <li><a href="/children-book-writing/">Children's Book Writing</a></li>
-                            </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Fiction Writing <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                          <li><a href="/fiction-writing/">Fiction Writing</a></li>
-                          <li><a href="/action-writing/">Action Adventure</a></li>
-                          <li><a href="/fantasy-writing/">Fantasy Writing</a></li>
-                          <li><a href="/science-fiction-writing/">Sci-Fi Writing</a></li>
-                          <li><a href="/horror-book-writing/">Horror Writing</a></li>
-                          <li><a href="/drama-writing/">Drama Writing</a></li>
-                          <li><a href="/adventure-writing/">Adventure Writing</a></li>
-                          <li><a href="/suspense-thriller-writing/">Suspense/Thriller Writing</a></li>
-                          <li><a href="/romance-writing/">Romance Writing</a></li>
-                          <li><a href="/mystery-writing/">Mystery Writing</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Editing & Formatting <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                            <li><a href="/book-editing-services/">Book Editing</a></li>
-                          <li><a href="/book-formatting-services/">Book Formatting</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Other Services <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                            <li><a href="/book-marketing/">Book Marketing</a></li>
-                          <li><a href="/book-publishing/">Book Publishing</a></li>
-                          <li><a href="/audiobook-narrators/">Audio Books</a></li>
-                          <li><a href="/author-website-design/">Author Web Design</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                             <li><a href="/blogs/">BLOG</a></li>
-                            <li><a href="/contact-us/">CONTACT</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 ctaRight">
-                    <div class="HederCtaRight">
-                        <div class="headerCta">
-                            <a href="javascript:;" class="openPopup">Request A Quote <i
-                                        class="fa-solid fa-arrow-right-long"></i></a>
-                        </div>
-                        <div class="HeaderCtaPhoneEmail">
-                            <a href="tel:2393009418"><i class="fa-solid fa-phone"></i> (239) 300-9418</a>
-                            <a href="mailto:hello@theuniversalwriters.com"><i class="fa-solid fa-envelope"></i>
-                                hello@theuniversalwriters.com</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
 <!-- Header -->
     <section class="sec1 BannerHome">
         <div class="container-fluid">
@@ -1295,9 +1203,9 @@
 </div>
 </div>
 
-<script src="/assets/js/plugin.js"></script>
-<script src="/assets/js/jquery.fancybox.min.js"></script>
+<script src="./assets/js/plugin.js"></script>
+<script src="./assets/js/jquery.fancybox.min.js"></script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
-<script src="/assets/js/custom.js?v=25874"></script>
+<script src="./assets/js/custom.js?v=25874"></script>
 </body>
 </html>
