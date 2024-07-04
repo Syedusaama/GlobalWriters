@@ -2352,11 +2352,11 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .ebookBanner {
-    background: url('../images/fictionbanners/ebookBanner.webp') bottom center / cover no-repeat;
+    background: url('../images/ebookBanner.webp') bottom center / cover no-repeat;
 }
 
 .fantasyBanner {
-    background: url('../images/fictionbanners/fantasyBanner.webp') bottom center / cover no-repeat;
+    background: url('../images/fantasyBanner.webp') bottom center / cover no-repeat;
 }
 
 .fictionBanner {
