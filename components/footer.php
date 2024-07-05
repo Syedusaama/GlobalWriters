@@ -145,9 +145,9 @@
                         <li><a href="tel:2393009418">(239) 300-9418</a></li>
                     </ul>
                     <ul class='socialFooter'>
-                        <li><a href="https://www.facebook.com/TheUniversalWriters#" target="_blank"><span>Facebook</span></a></li>
-                        <li><a href="https://www.instagram.com/theuniversalwriters1/" target="_blank"><span>Instagram</span></a></li>
-                        <li><a href="https://twitter.com/TheUniversalWr" target="_blank"><span>Twitter</span></a></li>
+                        <li><a href="#" target="_blank"><span>Facebook</span></a></li>
+                        <li><a href="#" target="_blank"><span>Instagram</span></a></li>
+                        <li><a href="#" target="_blank"><span>Twitter</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -155,39 +155,39 @@
                 <div class='footerRightTop'>
                     <div class='footerRightWrap'>
                         <ul class='FooterMenu padingRight'>
-                            <li><a href="/author-website-design/">Author Website Design</a></li>
-                            <li><a href="/ebook-writing/">E-Book Writers</a></li>
-                            <li><a href="/business-book-writing/">Business Book</a></li>
-                            <li><a href="/audiobook-narrators/">Audiobook</a></li>
-                            <li><a href="/blogs/">Blog</a></li>
+                            <li><a href="./author-website-design.php">Author Website Design</a></li>
+                            <li><a href="./ebook-writing.php">E-Book Writers</a></li>
+                            <li><a href="./business-book-writing.php">Business Book</a></li>
+                            <li><a href="./audiobook-narrators.php">Audiobook</a></li>
+                            <li><a href="./blogs.php">Blog</a></li>
                         </ul>
                     </div>
                     <div class='footerRightWrap'>
-                        <span class='FooterMenuTitle'><a href="https://theuniversalwriters.com/ghostwriting-services">Ghostwriting</a></span>
+                        <span class='FooterMenuTitle'><a href="./ghostwriting-services.php">Ghostwriting</a></span>
                         <ul class='FooterMenu lightMenu'>
-                            <li><a href="/fiction-writing/">Fiction</a></li>
-                            <li><a href="/non-fiction-writing/">Non-Fiction</a></li>
-                            <li><a href="/biography-writing/">Biography Writing</a></li>
-                            <li><a href="/memoir-writing/">Memoir Writing</a></li>
+                            <li><a href="./fiction-writing.php">Fiction</a></li>
+                            <li><a href="./non-fiction-writing.php">Non-Fiction</a></li>
+                            <li><a href="./biography-writing.php">Biography Writing</a></li>
+                            <li><a href="./memoir-writing.php">Memoir Writing</a></li>
                         </ul>
                     </div>
                     <div class='footerRightWrap'>
-                        <span class='FooterMenuTitle'><a href="/book-editing-services/">Book Editing</a></span>
+                        <span class='FooterMenuTitle'><a href="./book-editing-services.php">Book Editing</a></span>
                         <ul class='FooterMenu lightMenu'>
-                            <li><a href="/book-formatting-services/">Formatting</a></li>
+                            <li><a href="./book-formatting-services.php">Formatting</a></li>
                         </ul>
                         <ul class='FooterMenu padingRight'>
-                            <li><a href="/book-publishing/">Book Publishing</a></li>
-                            <li><a href="/book-marketing/">Book Marketing</a></li>
+                            <li><a href="./book-publishing.php">Book Publishing</a></li>
+                            <li><a href="./book-marketing.php">Book Marketing</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class='copyRighgtBottom'>
                     <ul>
                         <li><a href="/terms-refund/">Terms & Refund</a></li>
-                        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a href="./privacy-policy.php">Privacy Policy</a></li>
                         <li><a href="/disclaimer/">Disclaimer</a></li>
-                        <li><a href="/terms-condition/">Terms & Conditions</a></li>
+                        <li><a href="./terms-condition.php">Terms & Conditions</a></li>
                     </ul>
                     <div class='copyRightContent'>
                         <p>
@@ -209,7 +209,7 @@
         <ul>
             <li><a href="javascript:;" class="openPopup"><img src="./assets/images/ctaFormfixed.png" alt="Sticky Cta"/></a></li>
             <li><a href="tel:2393009418"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
-            <!--<li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/ctaChatfixed.png" alt="Sticky Cta"/></a>-->
+            <!--<li><a href="javascript:;"><img src="./assets/images/ctaChatfixed.png" alt="Sticky Cta"/></a>-->
             <!--</li>-->
         </ul>
     </div>
@@ -218,7 +218,7 @@
     <div class='popuInner'>
         <div class='popupBox'>
             <div class='popupClose'>
-                <img src="https://theuniversalwriters.com/assets/images/popupClose.svg" alt="Popup Close"/>
+                <img src="./assets/images/popupClose.svg" alt="Popup Close"/>
             </div>
             <div class='popuptitle'>
                 <span class='popTitMain'>50% Discount!</span>
@@ -228,15 +228,15 @@
             <div class='popupForm BannerFields'>
                 <form action="/mail.php" method="post" autocomplete="off">
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/nameicon.svg" alt="Icon"/>
+                        <img src="./assets/images/nameicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Enter Your Name" name='Name' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/emailicon.svg" alt="Icon"/>
+                        <img src="./assets/images/emailicon.svg" alt="Icon"/>
                         <input type="email" placeholder="Enter Your Email" name='Email' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/phoneicon.svg" alt="Icon"/>
+                        <img src="./assets/images/phoneicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Your Phone Number" name='Number' required/>
                     </div>
                     <div class="formFields textareapopup">
