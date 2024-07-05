@@ -2459,7 +2459,7 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .fictionInnerCate {
-  background: #eef4d1;
+  background: var(--logo-section);
   padding: 80px 0;
 }
 
@@ -2522,7 +2522,7 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .bannerList ul li svg {
-  color: #ffb705;
+  color: var(--primary_color);
   margin-right: 5px;
 }
 
@@ -3083,7 +3083,7 @@ span.sepTitle {
 span.offertitle {
   display: block;
   text-align: center;
-  color: #ffb703;
+  color: var(--light_purple);
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;

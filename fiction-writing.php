@@ -125,7 +125,7 @@
         <div class="row">
             <div class="col-md-12 platformsTitle">
                 <span class="smallHeading">Your book will be available</span>
-                <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
@@ -142,7 +142,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7 reliable-agencyLeft">
-                    <div class="abtLeft">
+                    <div class="abtLeft-light">
                         <h4>Give Your Stories Life with Our Fiction Writing</h4>
                         <p>
                             There are several professional writing services that offer fiction writing services. Fiction

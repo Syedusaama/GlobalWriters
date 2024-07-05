@@ -136,7 +136,7 @@
         <div class="row">
             <div class="col-md-12 platformsTitle">
                 <span class="smallHeading">Your book will be available</span>
-                <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
@@ -153,7 +153,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7 reliable-agencyLeft">
-                    <div class="abtLeft">
+                    <div class="abtLeft-light">
                         <h4>All-Encompassing Fiction a Ghostwriting Services For You</h4>
                         <p>
                             We provide quality Fiction Ghostwriting Services to people of all ages. Whether you want a
@@ -337,7 +337,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4 whyChooseLeft">
-                <div class="abtLeft">
+                <div class="abtLeft-white">
                     <span class="smallTitleLine">Testimonials</span>
                     <h4>Don't take our word for it; see for yourself!</h4>
                 </div>

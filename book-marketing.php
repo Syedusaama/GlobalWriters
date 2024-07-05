@@ -57,15 +57,15 @@
             <div class="BannerFields">
                 <form action="/mail.php" method="post">
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/nameicon.svg" alt="Icon"/>
+                        <img src="./assets/images/nameicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Enter Your Name" name='Name' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/emailicon.svg" alt="Icon"/>
+                        <img src="./assets/images/emailicon.svg" alt="Icon"/>
                         <input type="email" placeholder="Enter Your Email" name='Email' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/phoneicon.svg" alt="Icon"/>
+                        <img src="./assets/images/phoneicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Your Phone Number" name='Number' required/>
                     </div>
                     <div class="formFields FieldButton">
@@ -110,9 +110,9 @@
             <div class="col-md-12">
                 <div class="reviewLogos">
                     <ul>
-                        <li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/rev1.webp" alt="Review Images"/></a></li>
-                        <li><a target="_blank" href="https://www.trustpilot.com/review/theuniversalwriters.com"><img src="https://theuniversalwriters.com/assets/images/rev2.webp" alt="Review Images"/></a></li>
-                        <li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/rev3.webp" alt="Review Images"/></a></li>
+                        <li><a href="javascript:;"><img src="./assets/images/rev1.webp" alt="Review Images"/></a></li>
+                        <li><a target="_blank" href="https://www.trustpilot.com/review/theuniversalwriters.com"><img src="./assets/images/rev2.webp" alt="Review Images"/></a></li>
+                        <li><a href="javascript:;"><img src="./assets/images/rev3.webp" alt="Review Images"/></a></li>
                     </ul>
                 </div>
             </div>
@@ -130,10 +130,10 @@
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
-                    <img src="https://theuniversalwriters.com/assets/images/logoMain.webp" alt="Platform Images"/>
+                    <img src="./assets/images/logoMain.webp" alt="Platform Images"/>
                 </div>
                 <div class="platformsInner proMobile">
-                    <img src="https://theuniversalwriters.com/assets/images/logoMainMobile.webp" alt="Platform Images"/>
+                    <img src="./assets/images/logoMainMobile.webp" alt="Platform Images"/>
                 </div>
             </div>
         </div>
@@ -179,7 +179,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 reliable-agencyRight bookmarketingRightImage">
-                    <img src="https://theuniversalwriters.com/assets/images/bookmarketingImage.webp" alt="HandBook Images"/>
+                    <img src="./assets/images/bookmarketingImage.webp" alt="HandBook Images"/>
                 </div>
             </div>
         </div>
@@ -197,7 +197,7 @@
                                 <a href="javascript:;">
                                     <div class="tabsicon">
                                         <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/book-marketing/AuthorWebsiteCreation.json"
+                                                src="./assets/images/animations/book-marketing/AuthorWebsiteCreation.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                     </div>
                                     <div class="tabsContent">
@@ -214,7 +214,7 @@
                                 <a href="javascript:;">
                                     <div class="tabsicon">
                                         <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/book-marketing/EBookSEOMarketing.json"
+                                                src="./assets/images/animations/book-marketing/EBookSEOMarketing.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                     </div>
                                     <div class="tabsContent">
@@ -229,7 +229,7 @@
                                 <a href="javascript:;">
                                     <div class="tabsicon">
                                         <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/book-marketing/BookDistributionandPublication.json"
+                                                src="./assets/images/animations/book-marketing/BookDistributionandPublication.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                     </div>
                                     <div class="tabsContent">
@@ -243,7 +243,7 @@
                                 <a href="javascript:;">
                                     <div class="tabsicon">
                                         <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/book-marketing/LeadGeneratingStrategies.json"
+                                                src="./assets/images/animations/book-marketing/LeadGeneratingStrategies.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                     </div>
                                     <div class="tabsContent">
@@ -360,7 +360,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 bookmarketMobileRight">
-                    <img src="https://theuniversalwriters.com/assets/images/bookmarketingmobilescreen.webp" alt="Mobile Images"/>
+                    <img src="./assets/images/bookmarketingmobilescreen.webp" alt="Mobile Images"/>
                 </div>
             </div>
         </div>
@@ -378,7 +378,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                         <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/book-marketing/PremiumMarketingServices.json"
+                                                src="./assets/images/animations/book-marketing/PremiumMarketingServices.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 </div>
                                 <div class="contentChoose">
@@ -392,7 +392,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/book-marketing/NoCompromiseonQuality.json"
+                                            src="./assets/images/animations/book-marketing/NoCompromiseonQuality.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 </div>
                                 <div class="contentChoose">
@@ -408,7 +408,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/book-marketing/ExpertPublishing.json"
+                                            src="./assets/images/animations/book-marketing/ExpertPublishing.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 </div>
                                 <div class="contentChoose">
@@ -423,7 +423,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/book-marketing/RealTimeResults.json"
+                                            src="./assets/images/animations/book-marketing/RealTimeResults.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 </div>
                                 <div class="contentChoose">
@@ -442,7 +442,7 @@
                 <div class="col-md-4 connectMain">
                     <div class="connectMainwrap">
     <div class="connectMaininner">
-        <img src="https://theuniversalwriters.com/assets/images/connectimage.webp" alt="Connact Image"/>
+        <img src="./assets/images/connectimage.webp" alt="Connact Image"/>
         <div class="connectCOntent">
             <p>We provide tailored services to accomplish your goals, ensuring your contentment and gratification. We do
                 not just write stories; we bring life to them.
@@ -483,13 +483,13 @@
                                     <div class="reviewBTn">
                                         <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
                                            target="_blank">
-                                            <img src="https://theuniversalwriters.com/assets/images/trustpilot.webp"
+                                            <img src="./assets/images/trustpilot.webp"
                                                  alt="Trustpilot Images"/>
                                         </a>
                                     </div>
                                     <div class="reviewBTn">
                                         <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                            <img src="https://theuniversalwriters.com/assets/images/google.webp"
+                                            <img src="./assets/images/google.webp"
                                                  alt="Google Images"/>
                                         </a>
                                     </div>
@@ -560,7 +560,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 proconImageLeft">
-                    <img src="https://theuniversalwriters.com/assets/images/proImage.webp" alt="Platform Images"/>
+                    <img src="./assets/images/proImage.webp" alt="Platform Images"/>
                 </div>
             </div>
         </div>
@@ -578,12 +578,12 @@
             <div class="col-md-12 Processimage">
                 <div class="proImag proDesktop">
                     <lottie-player
-                            src="https://theuniversalwriters.com/assets/images/animations/our-process.json"
+                            src="./assets/images/animations/our-process.json"
                             background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                 </div>
                 <div class="proImag proMobile">
                     <lottie-player
-                            src="https://theuniversalwriters.com/assets/images/animations/our-process-mobile.json"
+                            src="./assets/images/animations/our-process-mobile.json"
                             background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                 </div>
             </div>
@@ -622,7 +622,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 proconImageLeft">
-                    <img src="https://theuniversalwriters.com/assets/images/bookmarketingImage2.webp" alt="HandBook Images"/>
+                    <img src="./assets/images/bookmarketingImage2.webp" alt="HandBook Images"/>
                 </div>
             </div>
         </div>
@@ -657,13 +657,13 @@
                                     <div class="reviewBTn">
                                         <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
                                            target="_blank">
-                                            <img src="https://theuniversalwriters.com/assets/images/trustpilot.webp"
+                                            <img src="./assets/images/trustpilot.webp"
                                                  alt="Trustpilot Images"/>
                                         </a>
                                     </div>
                                     <div class="reviewBTn">
                                         <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                            <img src="https://theuniversalwriters.com/assets/images/google.webp"
+                                            <img src="./assets/images/google.webp"
                                                  alt="Google Images"/>
                                         </a>
                                     </div>
