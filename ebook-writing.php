@@ -113,7 +113,7 @@
         <div class="row">
             <div class="col-md-12 platformsTitle">
                 <span class="smallHeading">Your book will be available</span>
-                <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
@@ -130,7 +130,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-7 reliable-agencyLeft">
-                    <div class="abtLeft">
+                    <div class="abtLeft-light">
                         <h4>Boost Your Content with Professional EBook Writing Services</h4>
                         <p>
                             Are you looking for a way to take your content marketing to the next level? An e-book is a
