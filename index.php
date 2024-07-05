@@ -562,12 +562,12 @@
                     <div class="col-md-12 Processimage">
                         <div class="proImag proDesktop">
                             <lottie-player
-                                src="https://theuniversalwriters.com/assets/images/animations/our-process.json"
+                                src="./assets/images/animations/our-process.json"
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                         </div>
                         <div class="proImag proMobile">
                             <lottie-player
-                                src="https://theuniversalwriters.com/assets/images/animations/our-process-mobile.json"
+                                src="./assets/images/animations/our-process-mobile.json"
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                         </div>
                     </div>
