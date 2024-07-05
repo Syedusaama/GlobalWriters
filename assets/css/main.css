@@ -436,7 +436,7 @@ a.ctaLinePhone svg {
 }
 
 .tabCont .heading3 {
-    color: var(--light_purple);
+    color: var(--buton);
     font-size: 28px;
     line-height: 38px;
     margin-bottom: 15px;
@@ -464,7 +464,7 @@ a.ctaLinePhone svg {
 
 .custom-tab-list ul li.active a,
 .custom-tab-list ul li:hover a {
-    color: var(--light_purple) !important;
+    color: var(--buton) !important;
 }
 
 section.sec4.servicesMainboxes {
@@ -2807,7 +2807,7 @@ section.sec11.faqsMain {
 }
 
 .accordion__button {
-    color: var(--light_purple) !important;
+    color: var(--section_purple) !important;
     font-family: 'ivy_moderegular';
     font-size: 24px;
     line-height: 36px;
@@ -2830,7 +2830,7 @@ section.sec11.faqsMain {
 }
 
 span.ctatilefaq {
-    color: #292e0a;
+    color: var(--white);
     font-size: 30px;
     line-height: 40px;
     padding-right: 0px;

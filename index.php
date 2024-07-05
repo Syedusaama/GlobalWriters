@@ -323,8 +323,8 @@
                                 background="transparent" speed="1" loop="" autoplay="">
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                            <lord-icon src="https://cdn.lordicon.com/nvrrlies.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#7e489c,quinary:#6c16c7,senary:#6c16c7"
+                            <lord-icon src="https://cdn.lordicon.com/rymzvwiu.json" trigger="loop" delay="2000"
+                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#c69cf4,quinary:#a866ee,senary:#8930e8,septenary:#8930e8,octonary:#c69cf4,nonary:#a866ee"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Article and Blog Writing</span>
@@ -337,8 +337,8 @@
                                 background="transparent" speed="1" loop="" autoplay="">
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                            <lord-icon src="https://cdn.lordicon.com/nvrrlies.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#7e489c,quinary:#6c16c7,senary:#6c16c7"
+                            <lord-icon src="https://cdn.lordicon.com/hdublzcw.json" trigger="loop" delay="2000"
+                                colors="primary:#000000,secondary:#c69cf4,tertiary:#8930e8,quaternary:#b4b4b4"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Video Trailers and Teasers</span>

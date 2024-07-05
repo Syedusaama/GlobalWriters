@@ -39,7 +39,7 @@
                     <div class="faqctaimage">
                         <span class="ctatilefaq">The All-in-One Problem Solver for Ghostwriting Services!</span>
                         <div class="faqgirlimg">
-                            <img src="https://theuniversalwriters.com/assets/images/faqImage.webp" alt="Platform Images"/>
+                            <img src="./assets/images/faqImage.webp" alt="Platform Images"/>
                         </div>
                     </div>
                 </div>
@@ -207,8 +207,8 @@
 <div class="StickyCta">
     <div class="StickeyCtaInner">
         <ul>
-            <li><a href="javascript:;" class="openPopup"><img src="/assets/images/ctaFormfixed.png" alt="Sticky Cta"/></a></li>
-            <li><a href="tel:2393009418"><img src="/assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
+            <li><a href="javascript:;" class="openPopup"><img src="./assets/images/ctaFormfixed.png" alt="Sticky Cta"/></a></li>
+            <li><a href="tel:2393009418"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
             <!--<li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/ctaChatfixed.png" alt="Sticky Cta"/></a>-->
             <!--</li>-->
         </ul>
