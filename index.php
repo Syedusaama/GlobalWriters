@@ -931,12 +931,12 @@
                                 </div>
                             </div>
                             <div class="prevArrow">
-                                <img src="https://theuniversalwriters.com/assets/images/testarrowRight.webp"
+                                <img src="./assets/images/testarrowRight.webp"
                                     alt="Test Arrow" />
                                 <span>Prev</span>
                             </div>
                             <div class="nextArrow">
-                                <img src="https://theuniversalwriters.com/assets/images/testarrowRight.webp"
+                                <img src="./assets/images/testarrowRight.webp"
                                     alt="Test Arrow" />
                                 <span>Next</span>
                             </div>

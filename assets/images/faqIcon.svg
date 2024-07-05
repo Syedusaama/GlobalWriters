@@ -4,22 +4,20 @@
 	 viewBox="0 0 31.5 17.7" style="enable-background:new 0 0 31.5 17.7;" xml:space="preserve">
 <style type="text/css">
 	
-		.st0{clip-path:url(#SVGID_00000153693453468064856740000014689283274637564587_);fill-rule:evenodd;clip-rule:evenodd;fill:#8B3FB5;}
+		.st0{clip-path:url(#SVGID_00000070115674829758290400000010695804951547556240_);fill-rule:evenodd;clip-rule:evenodd;fill:#8B3FB5;}
 </style>
 <g>
 	<g>
-		<g>
-			<defs>
-				<rect id="SVGID_1_" width="31.5" height="17.7"/>
-			</defs>
-			<clipPath id="SVGID_00000181798781504876540200000000578990739236607624_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			
-				<path style="clip-path:url(#SVGID_00000181798781504876540200000000578990739236607624_);fill-rule:evenodd;clip-rule:evenodd;fill:#8B3FB5;" d="
-				M17.1,17.1L30.9,3.3c0.8-0.8,0.8-2,0-2.8s-2-0.8-2.8,0L15.7,13L3.3,0.6c-0.8-0.8-2-0.8-2.8,0s-0.8,2,0,2.8l13.8,13.8
-				C15.1,17.9,16.4,17.9,17.1,17.1z"/>
-		</g>
+		<defs>
+			<rect id="SVGID_1_" width="31.5" height="17.7"/>
+		</defs>
+		<clipPath id="SVGID_00000157276563125077134030000000829289850253864327_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<path style="clip-path:url(#SVGID_00000157276563125077134030000000829289850253864327_);fill-rule:evenodd;clip-rule:evenodd;fill:#8B3FB5;" d="
+			M17.1,17.1L30.9,3.3c0.8-0.8,0.8-2,0-2.8c-0.8-0.8-2-0.8-2.8,0L15.7,13L3.3,0.6c-0.8-0.8-2-0.8-2.8,0s-0.8,2,0,2.8l13.8,13.8
+			C15.1,17.9,16.4,17.9,17.1,17.1z"/>
 	</g>
 </g>
 </svg>
