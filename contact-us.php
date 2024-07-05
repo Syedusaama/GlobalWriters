@@ -3,31 +3,11 @@
 <html lang="en">
 <head>
     <title>Contact The Universal Writers for More Details</title>
-    <meta name="description"
-          content="Keep in touch with The Universal Writers for the profound writing services"/>
-    <meta name="ip2loc" content="">
-<meta name="ip2loc" content="101.53.226.166">
-<meta name="page_url" content="theuniversalwriters.com/contact-us/">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<link rel="icon" href="https://theuniversalwriters.com/assets/images/favicon.png" type="image/gif" sizes="16x16">
-    <link rel="stylesheet" href="https://theuniversalwriters.com/assets/css/layout.css" />
-<link rel="stylesheet" href="https://theuniversalwriters.com/assets/css/main.css?var=25874" />
-<link rel="stylesheet" href="https://theuniversalwriters.com/assets/css/responsive.css?var=987558" />
-<link rel="stylesheet" href="https://theuniversalwriters.com/assets/css/jquery.fancybox.min.css" />
-<link rel="canonical" href="https://theuniversalwriters.com/contact-us/">
+    <!-- head -->
+    <?php include "./components/head.php" ?>
 
-<!-- Begin Inspectlet Asynchronous Code -->
-<script type="text/javascript">
-(function() {
-window.__insp = window.__insp || [];
-__insp.push(['wid', 1262128767]);
-var ldinsp = function(){
-if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js?wid=1262128767&r=' + Math.floor(new Date().getTime()/3600000); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
-setTimeout(ldinsp, 0);
-})();
-</script>
-<!-- End Inspectlet Asynchronous Code --></head>
+    <!-- head -->
+</head>
 <body>
 <div class="wrapper">
 
@@ -35,100 +15,10 @@ setTimeout(ldinsp, 0);
     <div class="loading-bg-primary"></div>
     <div class="loading-bg-black"></div>
 </div>
-<header>
-    <div class="headerMain">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-2 logoMainWrap">
-                    <div class="logoMain">
-                        <a href="https://theuniversalwriters.com/">
-                            <img src="https://theuniversalwriters.com/assets/images/logo.webp" alt="Logo"/>
-                        </a>
-                        <div class="mobileMenuIcon">
-                            <img src="https://theuniversalwriters.com/assets/images/menuIcon.svg" alt="MenuIcon"/>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-7 headerMenuMain">
-                    <div class="closeMenu mobileMenuIcon">
-                        <img src="https://theuniversalwriters.com/assets/images/closeMenu.svg" alt="Close Menu"/>
-                    </div>
-                    <div class="headerMenuWrap">
-                        <ul>
-                            <li><a href="https://theuniversalwriters.com/about-us/">ABOUT US</a></li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Ghostwriting <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                            <ul class="dropDown">
-                              <li><a href="https://theuniversalwriters.com/ghostwriting-services/">Ghostwriting</a></li>
-                              <li><a href="https://theuniversalwriters.com/ebook-writing/">Ebook Writers</a></li>
-                              <li><a href="https://theuniversalwriters.com/memoir-writing/">Memoir Writing</a></li>
-                              <li><a href="https://theuniversalwriters.com/biography-writing/">Biography Writing</a></li>
-                              <li><a href="https://theuniversalwriters.com/business-book-writing/">Business Book Writing</a></li>
-                              <li><a href="https://theuniversalwriters.com/non-fiction-writing/">Non-Fiction</a></li>
-                              <li><a href="https://theuniversalwriters.com/children-book-writing/">Children's Book Writing</a></li>
-                            </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Fiction Writing <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                          <li><a href="https://theuniversalwriters.com/fiction-writing/">Fiction Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/action-writing/">Action Adventure</a></li>
-                          <li><a href="https://theuniversalwriters.com/fantasy-writing/">Fantasy Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/science-fiction-writing/">Sci-Fi Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/horror-book-writing/">Horror Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/drama-writing/">Drama Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/adventure-writing/">Adventure Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/suspense-thriller-writing/">Suspense/Thriller Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/romance-writing/">Romance Writing</a></li>
-                          <li><a href="https://theuniversalwriters.com/mystery-writing/">Mystery Writing</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Editing & Formatting <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                            <li><a href="https://theuniversalwriters.com/book-editing-services/">Book Editing</a></li>
-                          <li><a href="https://theuniversalwriters.com/book-formatting-services/">Book Formatting</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                            <li class="hasChild parentMenu"><span><a href="javascript:;">Other Services <i
-                                                class="fa-solid fa-chevron-down"></i></a>
-                        <ul class="dropDown">
-                            <li><a href="https://theuniversalwriters.com/book-marketing/">Book Marketing</a></li>
-                          <li><a href="https://theuniversalwriters.com/book-publishing/">Book Publishing</a></li>
-                          <li><a href="https://theuniversalwriters.com/audiobook-narrators/">Audio Books</a></li>
-                          <li><a href="https://theuniversalwriters.com/author-website-design/">Author Web Design</a></li>
-                        </ul>
-                        <div class="openDropdown"><i class="fa-solid fa-chevron-down"></i></div>
-                     </span>
-                            </li>
-                             <li><a href="https://theuniversalwriters.com/blogs/">BLOG</a></li>
-                            <li><a href="https://theuniversalwriters.com/contact-us/">CONTACT</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 ctaRight">
-                    <div class="HederCtaRight">
-                        <div class="headerCta">
-                            <a href="javascript:;" class="openPopup">Request A Quote <i
-                                        class="fa-solid fa-arrow-right-long"></i></a>
-                        </div>
-                        <div class="HeaderCtaPhoneEmail">
-                            <a href="tel:2393009418"><i class="fa-solid fa-phone"></i> (239) 300-9418</a>
-                            <a href="mailto:hello@theuniversalwriters.com"><i class="fa-solid fa-envelope"></i>
-                                hello@theuniversalwriters.com</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
+    <!-- header -->
+    <?php include "./components/header.php" ?>
+
+    <!-- header -->
 
     <section class="sec1 innerBanner contactUsBanner">
         <div class="container">
