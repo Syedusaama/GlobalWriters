@@ -595,7 +595,7 @@
                         <div class="abtLeft">
                             <span class="smallTitleLine">OUR PHILOSOPHY</span>
                             <h4>Have You Considered the Upcoming Best-Selling Idea?</h4>
-                            <p>The Universal Writers (TUW) highly values your creativity and ideas. We invite you to
+                            <p class="p-light">The Universal Writers (TUW) highly values your creativity and ideas. We invite you to
                                 talk with our talented authors to ensure your novel uses your ideas. Our skilled ghost
                                 book writers pay special attention to detail and consider your point of view through
                                 selecting manuscripts.</p>

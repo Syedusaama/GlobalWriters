@@ -1008,6 +1008,12 @@ span.nameClient {
         color: var(--white);
 
 }
+.p-light{
+  color: var(--section_purple);
+}
+path{
+  stroke: rgb(172, 46, 30) !important;
+}
 /* .abtLeft p {
   color: var(--section_purple);
 } */
