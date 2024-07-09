@@ -883,12 +883,11 @@
             </div>
         </div>
     </section>
-<!-- 
-    <!-- footer -->
+     <!-- footer -->
             
-            <?php include "./components/footer.php" ?
-    > -->
+     <?php include "./components/footer.php" ?>
 
-    <!-- footer -->
+<!-- footer -->
+
 </body>
 </html>

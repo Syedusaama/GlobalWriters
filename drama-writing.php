@@ -254,10 +254,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/drama-writing/CaptivatingWritingStyle.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Captivating Writing Style</span>
                                     <p>
@@ -270,10 +275,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/drama-writing/YourIdeasOurWords.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Your Ideas; Our Words </span>
                                     <p>
@@ -287,10 +297,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/drama-writing/TimelyDeliveries.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Timely Deliveries </span>
                                     <p>
@@ -303,10 +318,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/drama-writing/CostfreeRevisions.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Cost-free Revisions </span>
                                     <p>
