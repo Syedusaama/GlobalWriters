@@ -465,7 +465,7 @@ span.smalWhite::before {
   max-width: 70% !important;
   margin: 50px auto 0 !important;
   padding-left: 30px !important;
-  border-left: 1px solid #9ab3ae;
+  border-left: 1px solid var(--buton);
 }
 
 .custom-tab-list ul {
@@ -989,6 +989,9 @@ span.nameClient {
   max-width: 40% !important;
   display: flex;
   align-items: center;
+}
+.h4-darkback{
+    color: var(--section_purple) !important;
 }
 
 .abtLeft h4 {
@@ -1515,7 +1518,7 @@ a.btnSecondary svg {
   text-align: center;
 }
 .bookContentmain p {
-  color: var(--white) !important;
+  color: var(--primary_color) !important;
 }
 .aboutSec2Content .row {
   display: flex;

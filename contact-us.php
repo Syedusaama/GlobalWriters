@@ -35,7 +35,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 bookContentmain">
-                    <h3 class="heading2">
+                    <h3 class="heading2-light">
                         Need Help? Say Hello
                     </h3>
                     <p>
