@@ -1529,7 +1529,7 @@ a.btnSecondary svg {
   text-align: center;
 }
 .bookContentmain p {
-  color: var(--primary_color) !important;
+  color: var(--white) !important;
 }
 .aboutSec2Content .row {
   display: flex;
