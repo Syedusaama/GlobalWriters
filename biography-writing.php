@@ -249,9 +249,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/Biography-Writing/In-depthResearch.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>            
+                                            
                                 </div>
                                 <div class="contentChoose">
                                     <span>In-depth Research </span>
@@ -265,9 +271,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/Biography-Writing/AttributeDevelopment.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>         
                                 </div>
                                 <div class="contentChoose">
                                     <span>Attribute Development </span>
@@ -281,9 +293,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/Biography-Writing/ProfessionalBioWriters.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>  
+                                            
                                 </div>
                                 <div class="contentChoose">
                                     <span>Professional Bio Writers</span>
@@ -297,9 +315,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/Biography-Writing/EncyclopedicBiographyWriting.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>   
                                 </div>
                                 <div class="contentChoose">
                                     <span>Encyclopedic Biography Writing </span>
@@ -695,9 +719,11 @@
             <div class="col-md-12 blogSlider">
                 <div class="swiper mySwiper">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide blogMainBox">
+                        <!-- <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="./assets/images/blog1.webp" alt="Book Image"/>
+                                <img src="./as
+                                
+                                sets/images/blog1.webp" alt="Book Image"/> -->
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span

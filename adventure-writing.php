@@ -245,10 +245,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/adventure-writing/WeAcethePaceofEpicAdventureTales.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>We Ace the Pace of Epic Adventure Tales </span>
                                     <p>
@@ -260,10 +265,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/adventure-writing/InnovativeAdventureBookWriting.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Innovative Adventure Book Writing </span>
                                     <p>
@@ -281,10 +291,15 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/adventure-writing/QuickDeliveries.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Quick Deliveries</span>
                                     <p>
@@ -298,10 +313,15 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/adventure-writing/GenreSpecificWritingServices.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                 
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Genre-Specific Writing Services</span>
                                     <p>

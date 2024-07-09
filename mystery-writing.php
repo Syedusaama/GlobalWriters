@@ -240,9 +240,14 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/mystery-writing/ExcitingandUniquePlotlines.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon> 
                                 </div>
                                 <div class="contentChoose">
                                     <span>Exciting and Unique Plotlines </span>
@@ -257,9 +262,14 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/mystery-writing/OngoingSupport.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon> 
                                 </div>
                                 <div class="contentChoose">
                                     <span>Ongoing Support </span>
@@ -276,9 +286,14 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/mystery-writing/ChoosetheMostAffordableServices.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>   
                                 </div>
                                 <div class="contentChoose">
                                     <span>Choose the Most Affordable Services </span>
@@ -295,9 +310,14 @@
 
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/mystery-writing/UnravelMultipleTonesandAtmospheres.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>  
                                 </div>
                                 <div class="contentChoose">
                                     <span>Unravel Multiple Tones and Atmospheres </span>
@@ -707,9 +727,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    <!-- </section>
     <!-- footer -->
-    <?php include "./components/footer.php" ?>
+     
+    <?php include "./components/footer.php" ?> -->
 
     <!-- footer -->
 </body>
