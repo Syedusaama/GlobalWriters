@@ -1008,9 +1008,9 @@ span.nameClient {
         color: var(--white);
 
 }
-.abtLeft p {
+/* .abtLeft p {
   color: var(--section_purple);
-}
+} */
 .makesTitle span,
 .whyChooseLeft .abtLeft h4 {
   font-size: 42px;
@@ -1844,12 +1844,13 @@ span.countHas b:last-child {
 
 .formField input,
 .formField textarea {
-  background: #ccdac8;
+  background: #7c5d8d;
   border: none;
   outline: none;
   width: 100%;
   padding: 16px;
   resize: none;
+  color: #fff;
 }
 
 .formfieldmain.halfField .formField {
