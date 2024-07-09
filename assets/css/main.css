@@ -355,7 +355,18 @@ a.ctaLinePhone {
   position: relative;
   padding-left: 60px;
 }
-
+.ctaLinePhone-light svg{
+  background: var(--white);
+  color: var(--buton);
+  left: -8px;
+  top: -3px;
+  background: var(--buton);
+  width: 23px;
+  height: 23px;
+  box-sizing: border-box;
+  padding: 15px;
+  border-radius: 100%;
+}
 a.ctaLinePhone svg {
   position: absolute;
   left: -8px;
@@ -1598,7 +1609,7 @@ a.btnSecondary svg {
 }
 
 .bioBanner {
-  background: url("../images/bio.webp") bottom center / cover no-repeat;
+  background: url("../images/bio-ban.webp") bottom center / cover no-repeat;
 }
 
 .bookmarketingBanner {
@@ -1780,7 +1791,7 @@ span.countHas b:last-child {
 }
 
 .businessBanner {
-  background: url("../images/business.webp") bottom center / cover no-repeat;
+  background: url("../images/business-ban.webp") bottom center / cover no-repeat;
 }
 
 .mainboxpayment {
@@ -3093,7 +3104,7 @@ span.sepTitle {
 span.offertitle {
   display: block;
   text-align: center;
-  color: var(--light_purple);
+  color: #d17cff;
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;
