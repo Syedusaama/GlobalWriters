@@ -253,7 +253,7 @@
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
                                             delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                            style="width:150px;height:150px">
+                                            style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
                                     <div class="contentChoose">
@@ -274,7 +274,7 @@
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
                                             delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                            style="width:150px;height:150px">
+                                            style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
                                     <div class="contentChoose">
@@ -297,7 +297,7 @@
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
                                             delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                            style="width:150px;height:150px">
+                                            style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
                                     <div class="contentChoose">
@@ -319,7 +319,7 @@
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
                                             delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                            style="width:150px;height:150px">
+                                            style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
                                     <div class="contentChoose">

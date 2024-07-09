@@ -253,10 +253,16 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/horror-book-writing/ProfessionalHorrorGhostWritersintheUSA.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                            
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Professional Horror Ghost Writers in the USA </span>
                                     <p>
@@ -273,10 +279,16 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/horror-book-writing/LeaveanImpactwithYourHorrorStory2.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                             
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Leave an Impact with Your Horror Story </span>
                                     <p>
@@ -293,10 +305,16 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/horror-book-writing/MasterTheHorrorGenre.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                              
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Master The Horror Genre  </span>
                                     <p>
@@ -312,10 +330,16 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/horror-book-writing/ContinuousAssistance.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
-                                </div>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>                                             
+                                        </div>
                                 <div class="contentChoose">
                                     <span>Continuous Assistance  </span>
                                     <p>
@@ -859,9 +883,11 @@
             </div>
         </div>
     </section>
-
+<!-- 
     <!-- footer -->
-    <?php include "./components/footer.php" ?>
+            
+            <?php include "./components/footer.php" ?
+    > -->
 
     <!-- footer -->
 </body>
