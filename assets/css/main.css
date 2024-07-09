@@ -355,7 +355,7 @@ a.ctaLinePhone {
   position: relative;
   padding-left: 60px;
 }
-.ctaLinePhone-light svg{
+.ctaLinePhone-light svg {
   background: var(--white);
   color: var(--buton);
   left: -8px;
@@ -980,7 +980,7 @@ span.nameClient {
 
 .philMain {
   /*background: url('../images/yellowBg.webp') center top/cover no-repeat;*/
-  border-top: 2px solid #fff;
+  /* border-top: 2px solid #fff; */
   border-bottom: 2px solid var(--primary_color);
   background-color: var(--secondary_color);
 }
@@ -1001,8 +1001,8 @@ span.nameClient {
   display: flex;
   align-items: center;
 }
-.h4-darkback{
-    color: var(--section_purple) !important;
+.h4-darkback {
+  color: var(--section_purple) !important;
 }
 
 .abtLeft h4 {
@@ -1016,16 +1016,15 @@ span.nameClient {
   font-size: 44px;
   padding-right: 0;
 }
-.abtLeft-white h4{
-    font-size: 42px;
-        line-height: 56px;
-        color: var(--white);
-
+.abtLeft-white h4 {
+  font-size: 42px;
+  line-height: 56px;
+  color: var(--white);
 }
-.p-light{
+.p-light {
   color: var(--section_purple);
 }
-path{
+path {
   stroke: rgb(172, 46, 30) !important;
 }
 /* .abtLeft p {
@@ -2673,9 +2672,10 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .ghostTabs {
-  background: #e7f0e6 url("../images/tabsbbg.webp") bottom right / cover
-    no-repeat;
+  /* background: #e7f0e6 url("../images/tabsbbg.webp") bottom right / cover
+    no-repeat; */
   padding: 80px 0;
+  background: #ddcaf3;
 }
 
 .ghostabsrow span {
@@ -3241,9 +3241,9 @@ div#swal2-html-container {
 .ctaGreen {
   background: url(../images/ctaGreenbg.webp) center right / cover no-repeat;
   padding: 36px 0;
-  border-bottom: 1px solid #fff;
-  box-shadow: 0px 7px 0px 0px #ffb603;
-  margin-bottom: 7px;
+  /* border-bottom: 1px solid #4f2c62;
+  box-shadow: 0px 7px 0px 0px #4f2c62;
+  margin-bottom: 7px; */
 }
 
 .ctaGreen .container {

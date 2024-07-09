@@ -140,7 +140,7 @@
                 <div class="row">
                     <div class="col-md-12 platformsTitle">
                         <span class="smallHeading">Your book will be available</span>
-                        <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                        <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
@@ -159,7 +159,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 reliable-agencyLeft">
-                        <div class="abtLeft">
+                        <div class="abtLeft-light">
                             <h2>Get Written Content in all Forms with Our Professional Ghostwriting!</h2>
                             <p>
                                 <b><a href="https://theuniversalwriters.com/ghostwriting-services/"
@@ -417,9 +417,14 @@
                             <div class="col-md-12 whychooeIconBox">
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/QuickDeliveries.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon></p>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Quick Deliveries</span>
@@ -436,9 +441,14 @@
                                 </div>
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/ContinuousAssistance.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon></p>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Continuous Assistance </span>
@@ -460,9 +470,14 @@
                             <div class="col-md-12 whychooeIconBox">
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/AffordableGhostwriting.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon></p>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Affordable Ghostwriting </span>
@@ -481,9 +496,14 @@
                                 </div>
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/StayIncognito.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon></p>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Stay Incognito</span>
@@ -576,11 +596,11 @@
                     <div class="col-md-6 ProContentLeft">
                         <div class="abtLeft">
                             <h4>Hire Affordable Ghostwriters and Change the World with Your Words </h4>
-                            <p>
+                            <p class="p-light">
                                 As the industry’s leading ghostwriting company, your privacy is predominantly our first
                                 priority; we make sure your name is displayed on all publishing sites to provide 100%
                                 encryption. We are just enablers who can turn your ideas into a reality. </p>
-                            <p>Through our expertise and your ideas, we offer you a smooth expedition of your project
+                            <p class="p-light">Through our expertise and your ideas, we offer you a smooth expedition of your project
                                 with
                                 every
                                 literary genre and non-fiction genre – with TUW, the possibilities are endless. Our
@@ -640,7 +660,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 serviceTitle">
-                        <span class="heading2">A Complete Spectrum of Ghostwriting Services</span>
+                        <span class="heading2-light">A Complete Spectrum of Ghostwriting Services</span>
                         <p>Ghostwriting services do not only stop at writing; first and foremost, it starts with
                             preliminary
                             research where our talented ghost writers brainstorm with their respective teams to do a
@@ -858,7 +878,7 @@
                 <div class="row">
                     <div class="col-md-12 processTitle whiteTitle">
                         <span class="smallHeading lineBar">Process We Follow</span>
-                        <span class="heading2">How We Create a Masterpiece</span>
+                        <span class="heading2-light">How We Create a Masterpiece</span>
                         <p>Let us take you on a step-by-step guide to our processes; we work through a chronology and
                             practice
                             timely submissions that are tweaked to your liking before the final publishing stage.</p>

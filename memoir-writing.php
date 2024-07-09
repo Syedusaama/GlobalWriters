@@ -247,9 +247,14 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/memoir-writing/IncludeMoreThanyourStory.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>
                                 </div>
                                 <div class="contentChoose">
                                     <span>Include More Than your Story</span>
@@ -260,9 +265,14 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/memoir-writing/MarketingPractices.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>
                                 </div>
                                 <div class="contentChoose">
                                     <span>Best Marketing Practices</span>
@@ -274,9 +284,14 @@
                         <div class="col-md-12 whychooeIconBox">
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/memoir-writing/PowerfulWriting.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>
                                 </div>
                                 <div class="contentChoose">
                                     <span>Powerful Writing</span>
@@ -287,9 +302,14 @@
                             </div>
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
-                                    <lottie-player
+                                    <!-- <lottie-player
                                             src="./assets/images/animations/memoir-writing/CompleteEncryption.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                                style="width:100px;height:100px">
+                                            </lord-icon>
                                 </div>
                                 <div class="contentChoose">
                                     <span>Complete Encryption</span>
