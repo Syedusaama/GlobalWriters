@@ -266,7 +266,7 @@
                         <div class="serviceBoxinner">
                             <!-- <lottie-player src="https://theuniversalwriters.com/assets/images/animations/Illustrations-and-Infographics.json"
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
-                                <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                            <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon src="https://cdn.lordicon.com/nvrrlies.json" trigger="loop" delay="2000"
                                 colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#7e489c,quinary:#6c16c7,senary:#6c16c7"
                                 style="width:150px;height:150px">
@@ -331,7 +331,7 @@
                         </div>
                     </div>
                     <div class="col-md-4 servicebox">
-                         <div class="serviceBoxinner">
+                        <div class="serviceBoxinner">
                             <!--<lottie-player
                                 src="https://theuniversalwriters.com/assets/images/animations/Video-Trailers-and-Teasers.json"
                                 background="transparent" speed="1" loop="" autoplay="">
@@ -561,13 +561,11 @@
                     </div>
                     <div class="col-md-12 Processimage">
                         <div class="proImag proDesktop">
-                            <lottie-player
-                                src="./assets/images/animations/our-process.json"
-                                background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                            <lottie-player src="./assets/images/animations/our-process.json" background="transparent"
+                                speed="1" loop="" autoplay=""></lottie-player>
                         </div>
                         <div class="proImag proMobile">
-                            <lottie-player
-                                src="./assets/images/animations/our-process-mobile.json"
+                            <lottie-player src="./assets/images/animations/our-process-mobile.json"
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                         </div>
                     </div>
@@ -595,7 +593,8 @@
                         <div class="abtLeft">
                             <span class="smallTitleLine">OUR PHILOSOPHY</span>
                             <h4>Have You Considered the Upcoming Best-Selling Idea?</h4>
-                            <p class="p-light">The Universal Writers (TUW) highly values your creativity and ideas. We invite you to
+                            <p class="p-light">The Universal Writers (TUW) highly values your creativity and ideas. We
+                                invite you to
                                 talk with our talented authors to ensure your novel uses your ideas. Our skilled ghost
                                 book writers pay special attention to detail and consider your point of view through
                                 selecting manuscripts.</p>
@@ -674,9 +673,14 @@
                             <div class="col-md-12 whychooeIconBox">
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Proven-Record.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Proven Record</span>
@@ -689,9 +693,14 @@
                                 </div>
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Exclusive-E-Book-Writing-Services.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Exclusive E-Book Writing Services </span>
@@ -708,9 +717,14 @@
                             <div class="col-md-12 whychooeIconBox">
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Ongoing-Support.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Ongoing Support </span>
@@ -724,9 +738,14 @@
                                 </div>
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
-                                        <lottie-player
+                                        <!-- <lottie-player
                                             src="https://theuniversalwriters.com/assets/images/animations/Standardized-Book-Publishing.json"
-                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                            background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
+                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
+                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            style="width:100px;height:100px">
+                                        </lord-icon>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Standardized Book Publishing </span>
@@ -931,13 +950,11 @@
                                 </div>
                             </div>
                             <div class="prevArrow">
-                                <img src="./assets/images/testarrowRight.webp"
-                                    alt="Test Arrow" />
+                                <img src="./assets/images/testarrowRight.webp" alt="Test Arrow" />
                                 <span>Prev</span>
                             </div>
                             <div class="nextArrow">
-                                <img src="./assets/images/testarrowRight.webp"
-                                    alt="Test Arrow" />
+                                <img src="./assets/images/testarrowRight.webp" alt="Test Arrow" />
                                 <span>Next</span>
                             </div>
                         </div>
