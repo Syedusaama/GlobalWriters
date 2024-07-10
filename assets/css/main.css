@@ -440,13 +440,17 @@ span.smalWhite::before {
   margin-top: 0;
 }
 
-.coreServices .aboutCta a.ctaLinePhone {
+/* .coreServices .aboutCta a.ctaLinePhone {
   color: var(--buton) !important;
-}
+} */
 
 .coreServices a.ctaLinePhone svg {
   background: var(--buton);
   color: var(--white);
+}
+.whiteCta a.ctaLinePhone svg {
+  background: var(--white);
+  color: var(--buton);
 }
 
 .coreServices span.smallTitleLine,

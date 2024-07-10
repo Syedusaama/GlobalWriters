@@ -138,7 +138,7 @@
                 </div>
             </div>
         </section>
-        <section class="sec3 abtSection coreServices">
+        <section class="sec3 abtSection coreServices whiteCta">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 abtLeft">
@@ -267,8 +267,8 @@
                             <!-- <lottie-player src="https://theuniversalwriters.com/assets/images/animations/Illustrations-and-Infographics.json"
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                            <lord-icon src="https://cdn.lordicon.com/nvrrlies.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#7e489c,quinary:#6c16c7,senary:#6c16c7"
+                            <lord-icon src="https://cdn.lordicon.com/xgzckrws.json" trigger="loop" delay="2000"
+                                colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Illustrations and Infographics</span>
@@ -549,7 +549,7 @@
             </div>
         </section>
 
-        <section class="sec7 processMain whiteCta">
+        <section class="sec7 processMain">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 processTitle whiteTitle">
@@ -570,7 +570,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 ctaWrap">
-                        <div class="aboutCta">
+                    <div class="aboutCta">
                             <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                             <a href="tel:2393009418" class="ctaLinePhone">

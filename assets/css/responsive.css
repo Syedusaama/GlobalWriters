@@ -602,8 +602,15 @@
     .abtLeft h2 {
         padding-right: 0;
     }
+    .abtLeft-light h2 {
+        padding-right: 0;
+    }
 
     .abtLeft h2 {
+        font-size: 24px;
+        line-height: 37px;
+    }
+    .abtLeft-light h2 {
         font-size: 24px;
         line-height: 37px;
     }
@@ -618,7 +625,9 @@
         margin-top: 5px;
         margin-bottom: 25px;
     }
-
+    .abtRight-light p{
+        margin-top: 0;
+    }
     .aboutCta {
         margin-top: 0px;
         flex-direction: column;
@@ -710,7 +719,14 @@
         font-size: 23px;
         line-height: 36px;
     }
-
+    .heading2-light {
+        margin-bottom: 30px;
+        font-size: 23px;
+        line-height: 36px;
+    }
+#lord-icon{
+    width: 50px !important;
+}
     .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
         padding: 0 30px;
     }
