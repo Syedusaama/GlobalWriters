@@ -1626,7 +1626,7 @@ a.btnSecondary svg {
 }
 
 .servingMainbox {
-  background: #d9e6d5;
+  background: var(--section_purple);
   padding: 0px 0px !important;
 }
 
@@ -1636,7 +1636,7 @@ a.btnSecondary svg {
 }
 
 .servingMainbox {
-  background: #d9e6d5;
+  background: var(--logo-section);
   padding: 60px 0px 0px !important;
 }
 
