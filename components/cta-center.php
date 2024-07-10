@@ -1,4 +1,4 @@
-<section class="sec9 ctaGreen">
+<section class="sec9 ctaGreen whiteCta">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 ctaTitleLeft">

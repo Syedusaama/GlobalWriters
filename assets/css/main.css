@@ -3363,6 +3363,14 @@ div#swal2-html-container {
   padding-left: 40px;
 }
 
+.ctaGreen a.btnPrimary
+{background: var(--white) !important;
+color: var(--primary_color) !important;
+}
+.ctaGreen a.btnPrimary:hover span {
+  color: var(--white) !important;
+}
+
 .ctaOrange a.btnPrimary {
   background: var(--white) !important;
   color: var(--primary_color) !important;
