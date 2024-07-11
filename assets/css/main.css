@@ -1867,7 +1867,7 @@ span.countHas b:last-child {
 
 .formField input,
 .formField textarea {
-  background: #7c5d8d;
+  background: var(--secondary_color);
   border: none;
   outline: none;
   width: 100%;
