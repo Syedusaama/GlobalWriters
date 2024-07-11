@@ -94,7 +94,7 @@
                     <input type="hidden" name="setURL" class="packname" value="">
                     <input type="hidden" name="pac" class="packp" value="">
                     <input type="hidden" id="location" name="locationURL"
-                           value="http://theuniversalwriters.com/contact-us/"/>
+                           value="./contact-us/"/>
                     <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
                 </div>
                         </form>
@@ -267,7 +267,7 @@
                     <input type="hidden" name="setURL" class="packname" value="">
                     <input type="hidden" name="pac" class="packp" value="">
                     <input type="hidden" id="location" name="locationURL"
-                           value="http://theuniversalwriters.com/"/>
+                           value="./"/>
                     <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
                 </div>
                 </form>

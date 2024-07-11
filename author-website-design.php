@@ -99,7 +99,7 @@
                                                     <input type="hidden" name="setURL" class="packname" value="">
                                                     <input type="hidden" name="pac" class="packp" value="">
                                                     <input type="hidden" id="location" name="locationURL"
-                                                        value="http://theuniversalwriters.com/author-website-design/" />
+                                                        value="./author-website-design/" />
                                                     <script
                                                         type="text/javascript">document.getElementById('location').value = window.location.href;</script>
                                                 </div>
