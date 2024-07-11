@@ -354,8 +354,8 @@
                                             src="./assets/images/animations/fiction-writing/CreativePlots.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                        <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -373,8 +373,8 @@
                                             src="./assets/images/animations/fiction-writing/SettheRightSetting.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                        <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
+                                            delay="2000"  colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -394,8 +394,8 @@
                                             src="./assets/images/animations/fiction-writing/TopRatedGhostwriters.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                        <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -414,8 +414,8 @@
                                             src="./assets/images/animations/fiction-writing/TargettheRightAudience.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                        <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
+                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
