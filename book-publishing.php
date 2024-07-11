@@ -188,8 +188,9 @@
                         </div>
                     </div>
                     <div class="col-md-6 reliable-agencyRight">
-                        <lottie-player src="./assets/images/animations/BookAnimationsLottie.json"
-                            background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                    <div class="col-md-7 reliable-agencyRight">
+                        <img src="./assets/images/bookmarketingmobilescreen.webp" alt="Mobile Images" />
+                    </div>
                     </div>
                 </div>
             </div>
