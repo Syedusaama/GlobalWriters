@@ -188,9 +188,9 @@
                         </div>
                     </div>
                     <div class="col-md-6 reliable-agencyRight">
-                    <div class="col-md-7 reliable-agencyRight">
-                        <img src="./assets/images/relaible-img.png" alt="Mobile Images" />
-                    </div>
+                        <div class="col-md-7 reliable-agencyRight">
+                            <img src="./assets/images/relaible-img.png" alt="Mobile Images" />
+                        </div>
                     </div>
                 </div>
             </div>
@@ -211,8 +211,8 @@
                                                 src="./assets/images/animations/book-publishing/CoverDesign.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
                                                 style="width:100px;height:100px">
                                             </lord-icon>
                                         </div>
@@ -233,8 +233,9 @@
                                                 src="./assets/images/animations/book-publishing/BookPromotion.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
+                                                delay="2000"
+                                                colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
                                                 style="width:100px;height:100px">
                                             </lord-icon>
                                         </div>
@@ -253,8 +254,9 @@
                                                 src="./assets/images/animations/book-publishing/EditorialReview.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
+                                                delay="2000"
+                                                colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
                                                 style="width:100px;height:100px">
                                             </lord-icon>
                                         </div>
@@ -273,8 +275,8 @@
                                                 src="./assets/images/animations/book-publishing/TopQualityProductionServices.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                            <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#d8bdf7"
                                                 style="width:100px;height:100px">
                                             </lord-icon>
                                         </div>
@@ -650,7 +652,8 @@
                                 This way, your word can reach out to more people, we help you out with self-publishing a
                                 book.
                             </p>
-                            <p class="p-light">While we take care of the technicalities you can work on your manuscripts and perfect
+                            <p class="p-light">While we take care of the technicalities you can work on your manuscripts
+                                and perfect
                                 them –
                                 as
                                 for publishing them, our top-notch book publishers who have worked on hundreds of books
