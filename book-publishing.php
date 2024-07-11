@@ -189,7 +189,7 @@
                     </div>
                     <div class="col-md-6 reliable-agencyRight">
                     <div class="col-md-7 reliable-agencyRight">
-                        <img src="./assets/images/bookmarketingmobilescreen.webp" alt="Mobile Images" />
+                        <img src="./assets/images/relaible-img.png" alt="Mobile Images" />
                     </div>
                     </div>
                 </div>
