@@ -137,7 +137,7 @@
                 <div class="row">
                     <div class="col-md-12 platformsTitle">
                         <span class="smallHeading">Your book will be available</span>
-                        <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                        <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
@@ -154,7 +154,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 reliable-agencyLeft">
-                        <div class="abtLeft">
+                        <div class="abtLeft-light">
                             <h4>The World Is Your Oyster, Market Your Books Globally! </h4>
                             <p>
                                 With The Universal Writers, you are never constrained; when it comes to our book
@@ -417,6 +417,13 @@
                 </div>
             </div>
         </section>
+
+        <!-- cta -->
+
+        <?php include "./components/cta-center.php" ?>
+
+        <!-- cta -->
+
         <section class="sec12 ghostagecnyContent">
             <div class="container">
                 <div class="row">
@@ -513,60 +520,13 @@
             </div>
         </section>
 
-        <section class="sec9 ctaGreen">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ctaTitleLeft">
-                        <span class="heading2 boldheading2">Reach your audience with our strategic book marketing
-                            plans!</span>
-                        <p>Connect with us now to get the best deals!</p>
-                    </div>
-                    <div class="col-md-6 ctaTitleRight">
-                        <div class="ctaTitleRightInnerLeft">
-                            <div class="ctaWrap">
-                                <div class="aboutCta">
-                                    <!--<a href="javascript:;" class="ctaLinePhone">-->
-                                    <!--    <i class="fa-solid fa-comment"></i>-->
-                                    <!--    <span>Chat With US</span>-->
-                                    <!--</a>-->
-                                    <a href="tel:2393009418" class="ctaLinePhone">
-                                        <i class="fa-solid fa-phone"></i>
-                                        <span class="smallTitleLine">We will be happy to assist you</span>
-                                        (239) 300-9418
-                                    </a>
-                                    <a href="javascript:;" class="btnPrimary openPopup">
-                                        <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>
-                                    </a>
-                                </div>
-                                <div class="ctabtnrightsocial">
-                                    <div class="trustpilotGoogleBox">
-                                        <div class="reviewBTn">
-                                            <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
-                                                target="_blank">
-                                                <img src="./assets/images/trustpilot.webp" alt="Trustpilot Images" />
-                                            </a>
-                                        </div>
-                                        <div class="reviewBTn">
-                                            <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                                <img src="./assets/images/google.webp" alt="Google Images" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="sec9 philMain ProContent">
+        <section class="sec9 philMain ProContent whiteCta">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 ProContentLeft">
                         <div class="abtLeft">
                             <h4>Marketing Your Books Has Never Been Easier </h4>
-                            <p>
+                            <p class="p-light">
                                 Maybe you have written a great book, but now what? Well, many authors tend to think that
                                 the
                                 secret behind every successful book is great literature. Although true, it is not the
@@ -628,12 +588,12 @@
             </div>
         </section>
 
-        <section class="sec7 processMain whiteCta">
+        <section class="sec7 processMain">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 processTitle whiteTitle">
                         <span class="smallHeading lineBar">Process We Follow</span>
-                        <span class="heading2">How We Create a Masterpiece</span>
+                        <span class="heading2-light">How We Create a Masterpiece</span>
                         <p>Let us take you on a step-by-step guide to our processes; we work through a chronology and
                             practice
                             timely submissions that are tweaked to your liking before the final publishing stage.</p>
@@ -666,7 +626,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 ProContentLeft">
-                        <div class="abtLeft">
+                        <div class="abtLeft-light">
                             <h4>Spread Your Word. Anywhere. Anytime.</h4>
                             <p>
                                 We offer custom bundles to our clients to fulfill all your marketing <br> needs. We
@@ -688,53 +648,12 @@
                 </div>
             </div>
         </section>
+        <!-- cta -->
 
-        <section class="sec9 ctaOrange">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ctaTitleLeft">
-                        <span class="heading2 boldheading2">Reach your audience with our strategic book marketing
-                            plans!</span>
-                        <p>Connect with us now to get the best deals!</p>
-                    </div>
-                    <div class="col-md-6 ctaTitleRight">
-                        <div class="ctaTitleRightInnerLeft">
-                            <div class="ctaWrap">
-                                <div class="aboutCta">
-                                    <!--<a href="javascript:;" class="ctaLinePhone">-->
-                                    <!--    <i class="fa-solid fa-comment"></i>-->
-                                    <!--    <span>Chat With US</span>-->
-                                    <!--</a>-->
-                                    <a href="tel:2393009418" class="ctaLinePhone">
-                                        <i class="fa-solid fa-phone"></i>
-                                        <span class="smallTitleLine">We will be happy to assist you</span>
-                                        (239) 300-9418
-                                    </a>
-                                    <a href="javascript:;" class="btnPrimary openPopup">
-                                        <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>
-                                    </a>
-                                </div>
-                                <div class="ctabtnrightsocial">
-                                    <div class="trustpilotGoogleBox">
-                                        <div class="reviewBTn">
-                                            <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
-                                                target="_blank">
-                                                <img src="./assets/images/trustpilot.webp" alt="Trustpilot Images" />
-                                            </a>
-                                        </div>
-                                        <div class="reviewBTn">
-                                            <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                                <img src="./assets/images/google.webp" alt="Google Images" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include "./components/cta-footer.php" ?>
+
+        <!-- cta -->
+
         <!-- footer -->
         <?php include "./components/footer.php" ?>
 
