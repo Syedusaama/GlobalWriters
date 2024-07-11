@@ -56,19 +56,19 @@
                                         <div class="BannerFields">
                                             <form action="/mail.php" method="post">
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/nameicon.svg"
+                                                    <img src="./assets/images/nameicon.svg"
                                                         alt="Icon" />
                                                     <input type="text" placeholder="Enter Your Name" name='Name'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/emailicon.svg"
+                                                    <img src="./assets/images/emailicon.svg"
                                                         alt="Icon" />
                                                     <input type="email" placeholder="Enter Your Email" name='Email'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/phoneicon.svg"
+                                                    <img src="./assets/images/phoneicon.svg"
                                                         alt="Icon" />
                                                     <input type="text" placeholder="Your Phone Number" name='Number'
                                                         required />
@@ -118,14 +118,14 @@
                             <div class="reviewLogos">
                                 <ul>
                                     <li><a href="javascript:;"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev1.webp"
+                                                src="./assets/images/rev1.webp"
                                                 alt="Review Images" /></a></li>
                                     <li><a target="_blank"
                                             href="https://www.trustpilot.com/review/theuniversalwriters.com"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev2.webp"
+                                                src="./assets/images/rev2.webp"
                                                 alt="Review Images" /></a></li>
                                     <li><a href="javascript:;"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev3.webp"
+                                                src="./assets/images/rev3.webp"
                                                 alt="Review Images" /></a></li>
                                 </ul>
                             </div>
@@ -144,11 +144,11 @@
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
-                            <img src="https://theuniversalwriters.com/assets/images/logoMain.webp"
+                            <img src="./assets/images/logoMain.webp"
                                 alt="Platform Images" />
                         </div>
                         <div class="platformsInner proMobile">
-                            <img src="https://theuniversalwriters.com/assets/images/logoMainMobile.webp"
+                            <img src="./assets/images/logoMainMobile.webp"
                                 alt="Platform Images" />
                         </div>
                     </div>
@@ -162,7 +162,7 @@
                         <div class="abtLeft-light">
                             <h2>Get Written Content in all Forms with Our Professional Ghostwriting!</h2>
                             <p>
-                                <b><a href="https://theuniversalwriters.com/ghostwriting-services/"
+                                <b><a href="./ghostwriting-services/"
                                         class="anchor-text">Ghostwriting services</a></b> are a new wave of writing,
                                 with multiple people getting more and more
                                 interested in putting their ideas in front of the world; many want to share stories that
@@ -194,7 +194,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 reliable-agencyRight">
-                        <img src="https://theuniversalwriters.com/assets/images/handBook.webp" alt="HandBook Images" />
+                        <img src="./assets/images/handBook.webp" alt="HandBook Images" />
                     </div>
                 </div>
             </div>
@@ -213,7 +213,7 @@
                                     <a href="javascript:;">
                                         <div class="tabsicon">
                                             <!-- <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/CreateAuthorWebsite.json"
+                                                src="./assets/images/animations/Ghostwriting/CreateAuthorWebsite.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                             <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -235,7 +235,7 @@
                                     <a href="javascript:;">
                                         <div class="tabsicon">
                                             <!-- <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/CompleteManuscriptFormatting.json"
+                                                src="./assets/images/animations/Ghostwriting/CompleteManuscriptFormatting.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                             <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -258,7 +258,7 @@
                                     <a href="javascript:;">
                                         <div class="tabsicon">
                                             <!-- <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/EditingandProofreading.json"
+                                                src="./assets/images/animations/Ghostwriting/EditingandProofreading.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                             <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -278,7 +278,7 @@
                                     <a href="javascript:;">
                                         <div class="tabsicon">
                                             <!-- <lottie-player
-                                                src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/PromotionsMarketing.json"
+                                                src="./assets/images/animations/Ghostwriting/PromotionsMarketing.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                             <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -302,7 +302,7 @@
                             <div class="tabCont">
                                 <p>
                                     <b>Craft Your Author Website With Us!</b>
-                                    Our <a href="https://theuniversalwriters.com/author-website-design"
+                                    Our <a href="./author-website-design"
                                         class="anchor-text">author website designers</a> and developers think of a
                                     layout that serves
                                     as the skin of the author’s website. At The Universal Writers, the professional
@@ -340,7 +340,7 @@
                                 <p>We take care of choosing the best fonts, aesthetic and correct picture allocation,
                                     cohesive
                                     paragraphs, and an overall organized manuscript. Be it a cookbook or novel; <a
-                                        href="https://theuniversalwriters.com/book-formatting-services"
+                                        href="./book-formatting-services"
                                         class="anchor-text">we originate a completely formatted book</a>; </p>
 
                                 <p>
@@ -361,12 +361,12 @@
                                     the
                                     world’s bestsellers. </p>
 
-                                <p>Our team of <a href="https://theuniversalwriters.com/"
+                                <p>Our team of <a href="./"
                                         class="anchor-text">professional ghostwriters</a> devises stellar editing and
                                     proofreading
                                     strategies to
                                     make your books look the most professional. <a
-                                        href="https://theuniversalwriters.com/book-editing-services/"
+                                        href="./book-editing-services/"
                                         class="anchor-text">Book editing</a> and proofreading is the most
                                     crucial part of publishing a manuscript. </p>
 
@@ -380,7 +380,7 @@
                         <div class="box-proofed">
                             <div class="tabCont">
                                 <p>
-                                    We have a few <a href="https://theuniversalwriters.com/book-marketing/"
+                                    We have a few <a href="./book-marketing/"
                                         class="anchor-text">book marketing</a> tricks up our sleeves to ensure your
                                     books are evenly marketed
                                     through omnichannel platforms. </p>
@@ -418,7 +418,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/QuickDeliveries.json"
+                                            src="./assets/images/animations/Ghostwriting/QuickDeliveries.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -442,7 +442,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/ContinuousAssistance.json"
+                                            src="./assets/images/animations/Ghostwriting/ContinuousAssistance.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -471,7 +471,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/AffordableGhostwriting.json"
+                                            src="./assets/images/animations/Ghostwriting/AffordableGhostwriting.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -497,7 +497,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/Ghostwriting/StayIncognito.json"
+                                            src="./assets/images/animations/Ghostwriting/StayIncognito.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -525,7 +525,7 @@
                     <div class="col-md-4 connectMain">
                         <div class="connectMainwrap">
                             <div class="connectMaininner">
-                                <img src="https://theuniversalwriters.com/assets/images/connectimage.webp"
+                                <img src="./assets/images/connectimage.webp"
                                     alt="Connact Image" />
                                 <div class="connectCOntent">
                                     <p>We provide tailored services to accomplish your goals, ensuring your contentment
@@ -547,7 +547,7 @@
 
         <!-- Footer -->
 
-        <section class="sec9 philMain ProContent">
+        <section class="sec9 philMain ProContent whiteCta">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 ProContentLeft">
@@ -607,7 +607,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 proconImageLeft">
-                        <img src="https://theuniversalwriters.com/assets/images/proImage.webp" alt="Platform Images" />
+                        <img src="./assets/images/proImage.webp" alt="Platform Images" />
                     </div>
                 </div>
             </div>
@@ -634,7 +634,7 @@
                             <span class="servTitle">Fiction</span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/Fiction.json"
+                                    src="./assets/images/animations/Fiction.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Dwell in the adventurous universe of fictitious story writing.</p>
                             </div>
@@ -645,7 +645,7 @@
                             <span class="servTitle">Non-Fiction</span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/Non-Fiction.json"
+                                    src="./assets/images/animations/Non-Fiction.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>We craft stories that are a reflection of your life. We convey your stories to the
                                     world!</p>
@@ -659,7 +659,7 @@
                             </span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/biography.json"
+                                    src="./assets/images/animations/biography.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Get in-depth and informative biographies for your target audience</p>
                             </div>
@@ -670,7 +670,7 @@
                             <span class="servTitle">Informative</span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/Informative.json"
+                                    src="./assets/images/animations/Informative.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Features stats, graphs, and infographics that our expert's fact-check.</p>
                             </div>
@@ -683,7 +683,7 @@
                             </span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/Autobiography.json"
+                                    src="./assets/images/animations/Autobiography.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>
                                     Our team deals with providing writing services for real-life, self-narrations.
@@ -698,7 +698,7 @@
                             </span>
                             <div class="sericoText">
                                 <lottie-player
-                                    src="https://theuniversalwriters.com/assets/images/animations/Memoir.json"
+                                    src="./assets/images/animations/Memoir.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Feature a heartfelt collection of your favorite memories for your loved ones.</p>
                             </div>
