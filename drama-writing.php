@@ -56,15 +56,15 @@
             <div class="BannerFields">
                 <form action="/mail.php" method="post">
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/nameicon.svg" alt="Icon"/>
+                        <img src="./assets/images/nameicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Enter Your Name" name='Name' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/emailicon.svg" alt="Icon"/>
+                        <img src="./assets/images/emailicon.svg" alt="Icon"/>
                         <input type="email" placeholder="Enter Your Email" name='Email' required/>
                     </div>
                     <div class="formFields">
-                        <img src="https://theuniversalwriters.com/assets/images/phoneicon.svg" alt="Icon"/>
+                        <img src="./assets/images/phoneicon.svg" alt="Icon"/>
                         <input type="text" placeholder="Your Phone Number" name='Number' required/>
                     </div>
                     <div class="formFields FieldButton">
@@ -109,9 +109,9 @@
             <div class="col-md-12">
                 <div class="reviewLogos">
                     <ul>
-                        <li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/rev1.webp" alt="Review Images"/></a></li>
-                        <li><a target="_blank" href="https://www.trustpilot.com/review/theuniversalwriters.com"><img src="https://theuniversalwriters.com/assets/images/rev2.webp" alt="Review Images"/></a></li>
-                        <li><a href="javascript:;"><img src="https://theuniversalwriters.com/assets/images/rev3.webp" alt="Review Images"/></a></li>
+                        <li><a href="javascript:;"><img src="./assets/images/rev1.webp" alt="Review Images"/></a></li>
+                        <li><a target="_blank" href="https://www.trustpilot.com/review/theuniversalwriters.com"><img src="./assets/images/rev2.webp" alt="Review Images"/></a></li>
+                        <li><a href="javascript:;"><img src="./assets/images/rev3.webp" alt="Review Images"/></a></li>
                     </ul>
                 </div>
             </div>
@@ -129,10 +129,10 @@
             </div>
             <div class="col-md-12 logoWrapPlatforms">
                 <div class="platformsInner proDesktop">
-                    <img src="https://theuniversalwriters.com/assets/images/logoMain.webp" alt="Platform Images"/>
+                    <img src="./assets/images/logoMain.webp" alt="Platform Images"/>
                 </div>
                 <div class="platformsInner proMobile">
-                    <img src="https://theuniversalwriters.com/assets/images/logoMainMobile.webp" alt="Platform Images"/>
+                    <img src="./assets/images/logoMainMobile.webp" alt="Platform Images"/>
                 </div>
             </div>
         </div>
@@ -188,7 +188,7 @@
                     </div>
                 </div>
                 <div class="col-md-5  reliable-agencyRight">
-                    <img src="https://theuniversalwriters.com/assets/images/dramaBookHand.webp" alt="HandBook Images"/>
+                    <img src="./assets/images/dramaBookHand.webp" alt="HandBook Images"/>
                 </div>
             </div>
         </div>
@@ -213,7 +213,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/drama-writing/CaptivatingWritingStyle.json"
+                                            src="./assets/images/animations/drama-writing/CaptivatingWritingStyle.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -234,7 +234,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/drama-writing/YourIdeasOurWords.json"
+                                            src="./assets/images/animations/drama-writing/YourIdeasOurWords.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -256,7 +256,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/drama-writing/TimelyDeliveries.json"
+                                            src="./assets/images/animations/drama-writing/TimelyDeliveries.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -277,7 +277,7 @@
                             <div class="whychooeIconBoxInner">
                                 <div class="iconChoose">
                                     <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/drama-writing/CostfreeRevisions.json"
+                                            src="./assets/images/animations/drama-writing/CostfreeRevisions.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -301,7 +301,7 @@
                 <div class="col-md-4 connectMain">
                     <div class="connectMainwrap">
     <div class="connectMaininner">
-        <img src="https://theuniversalwriters.com/assets/images/connectimage.webp" alt="Connact Image"/>
+        <img src="./assets/images/connectimage.webp" alt="Connact Image"/>
         <div class="connectCOntent">
             <p>We provide tailored services to accomplish your goals, ensuring your contentment and gratification. We do
                 not just write stories; we bring life to them.
@@ -338,7 +338,7 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog1.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog1.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span
@@ -350,7 +350,7 @@
                         </div>
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog2.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog2.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span
@@ -362,7 +362,7 @@
                         </div>
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog3.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog3.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span
@@ -374,7 +374,7 @@
                         </div>
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog1.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog1.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span
@@ -386,7 +386,7 @@
                         </div>
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog2.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog2.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span
@@ -398,7 +398,7 @@
                         </div>
                         <div class="swiper-slide blogMainBox">
                             <div class="blogImage">
-                                <img src="https://theuniversalwriters.com/assets/images/blog3.webp" alt="Book Image"/>
+                                <img src="./assets/images/blog3.webp" alt="Book Image"/>
                             </div>
                             <div class="blogContent">
                                 <span class="cateReadTime"><span><b>WRITING</b> - 12 MIN READ</span><span

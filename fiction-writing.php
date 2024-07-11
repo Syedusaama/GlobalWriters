@@ -59,19 +59,19 @@
                                         <div class="BannerFields">
                                             <form action="/mail.php" method="post">
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/nameicon.svg"
+                                                    <img src="./assets/images/nameicon.svg"
                                                         alt="Icon" />
                                                     <input type="text" placeholder="Enter Your Name" name='Name'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/emailicon.svg"
+                                                    <img src="./assets/images/emailicon.svg"
                                                         alt="Icon" />
                                                     <input type="email" placeholder="Enter Your Email" name='Email'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="https://theuniversalwriters.com/assets/images/phoneicon.svg"
+                                                    <img src="./assets/images/phoneicon.svg"
                                                         alt="Icon" />
                                                     <input type="text" placeholder="Your Phone Number" name='Number'
                                                         required />
@@ -121,14 +121,14 @@
                             <div class="reviewLogos">
                                 <ul>
                                     <li><a href="javascript:;"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev1.webp"
+                                                src="./assets/images/rev1.webp"
                                                 alt="Review Images" /></a></li>
                                     <li><a target="_blank"
                                             href="https://www.trustpilot.com/review/theuniversalwriters.com"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev2.webp"
+                                                src="./assets/images/rev2.webp"
                                                 alt="Review Images" /></a></li>
                                     <li><a href="javascript:;"><img
-                                                src="https://theuniversalwriters.com/assets/images/rev3.webp"
+                                                src="./assets/images/rev3.webp"
                                                 alt="Review Images" /></a></li>
                                 </ul>
                             </div>
@@ -147,11 +147,11 @@
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
-                            <img src="https://theuniversalwriters.com/assets/images/logoMain.webp"
+                            <img src="./assets/images/logoMain.webp"
                                 alt="Platform Images" />
                         </div>
                         <div class="platformsInner proMobile">
-                            <img src="https://theuniversalwriters.com/assets/images/logoMainMobile.webp"
+                            <img src="./assets/images/logoMainMobile.webp"
                                 alt="Platform Images" />
                         </div>
                     </div>
@@ -200,7 +200,7 @@
                         </div>
                     </div>
                     <div class="col-md-5  reliable-agencyRight">
-                        <img src="https://theuniversalwriters.com/assets/images/handBook.webp" alt="HandBook Images" />
+                        <img src="./assets/images/handBook.webp" alt="HandBook Images" />
                     </div>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg1.webp"
+                                        <img src="./assets/images/fictionimg1.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -236,7 +236,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg10.webp"
+                                        <img src="./assets/images/fictionimg10.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -247,7 +247,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg3.webp"
+                                        <img src="./assets/images/fictionimg3.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -258,7 +258,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg4.webp"
+                                        <img src="./assets/images/fictionimg4.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -269,7 +269,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg5.webp"
+                                        <img src="./assets/images/fictionimg5.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -280,7 +280,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg6.webp"
+                                        <img src="./assets/images/fictionimg6.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -291,7 +291,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg7.webp"
+                                        <img src="./assets/images/fictionimg7.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -302,7 +302,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg8.webp"
+                                        <img src="./assets/images/fictionimg8.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -313,7 +313,7 @@
                             <div class="col-md-4 fictionboxwrap">
                                 <div class="fictionboxinner">
                                     <div class="ficImage">
-                                        <img src="https://theuniversalwriters.com/assets/images/fictionimg9.webp"
+                                        <img src="./assets/images/fictionimg9.webp"
                                             alt="Fiction Images" />
                                     </div>
                                     <div class="ficTitle">
@@ -351,7 +351,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/fiction-writing/CreativePlots.json"
+                                            src="./assets/images/animations/fiction-writing/CreativePlots.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -370,7 +370,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/fiction-writing/SettheRightSetting.json"
+                                            src="./assets/images/animations/fiction-writing/SettheRightSetting.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -391,7 +391,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/fiction-writing/TopRatedGhostwriters.json"
+                                            src="./assets/images/animations/fiction-writing/TopRatedGhostwriters.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -411,7 +411,7 @@
                                 <div class="whychooeIconBoxInner">
                                     <div class="iconChoose">
                                         <!-- <lottie-player
-                                            src="https://theuniversalwriters.com/assets/images/animations/fiction-writing/TargettheRightAudience.json"
+                                            src="./assets/images/animations/fiction-writing/TargettheRightAudience.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
@@ -439,7 +439,7 @@
                     <div class="col-md-4 connectMain">
                         <div class="connectMainwrap">
                             <div class="connectMaininner">
-                                <img src="https://theuniversalwriters.com/assets/images/connectimage.webp"
+                                <img src="./assets/images/connectimage.webp"
                                     alt="Connact Image" />
                                 <div class="connectCOntent">
                                     <p>We provide tailored services to accomplish your goals, ensuring your contentment
