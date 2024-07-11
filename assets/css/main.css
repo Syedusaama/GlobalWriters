@@ -1774,7 +1774,7 @@ span.countHas b:last-child {
 }
 
 .scoreTitle {
-  color: #fff;
+  color: #d486ff;
   font-size: 55px;
   line-height: 74px;
   text-align: left;
@@ -1784,7 +1784,7 @@ span.countHas b:last-child {
 }
 
 .scoreTitle b {
-  color: #fdb607;
+  color: var(--white);
 }
 
 .scrowHas .ctaWrap {
@@ -2998,7 +2998,7 @@ span.ctatilefaq {
 }
 
 .scoreTitle {
-  color: #fff;
+  color: #d486ff;
   font-size: 55px;
   line-height: 74px;
   text-align: left;
@@ -3008,7 +3008,7 @@ span.ctatilefaq {
 }
 
 .scoreTitle b {
-  color: #fdb607;
+  color: var(--white);
 }
 
 .scrowHas .ctaWrap {

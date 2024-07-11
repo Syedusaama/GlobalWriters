@@ -141,7 +141,7 @@
                 <div class="row">
                     <div class="col-md-12 platformsTitle">
                         <span class="smallHeading">Your book will be available</span>
-                        <span class="heading2 boldheading2">Top Book Publishing Platforms</span>
+                        <span class="heading2-light boldheading2">Top Book Publishing Platforms</span>
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
@@ -158,7 +158,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 reliable-agencyLeft">
-                        <div class="abtLeft">
+                        <div class="abtLeft-light">
                             <h4>Publish Your Books on Top-Notch Sites with Our Book Publishing Services </h4>
                             <p>
                                 It is a pity when you put your heart out in a book but it is not published due to
@@ -528,124 +528,16 @@
             </div>
         </section>
 
-        <section class="sec9 ctaGreen">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ctaTitleLeft">
-                        <span class="heading2 boldheading2">Take the hassle out of book publishing with our
-                            comprehensive services</span>
-                        <p>Connect with us now to get the best deals!</p>
-                    </div>
-                    <div class="col-md-6 ctaTitleRight">
-                        <div class="ctaTitleRightInnerLeft">
-                            <div class="ctaWrap">
-                                <div class="aboutCta">
-                                    <!--<a href="javascript:;" class="ctaLinePhone">-->
-                                    <!--    <i class="fa-solid fa-comment"></i>-->
-                                    <!--    <span>Chat With US</span>-->
-                                    <!--</a>-->
-                                    <a href="tel:2393009418" class="ctaLinePhone">
-                                        <i class="fa-solid fa-phone"></i>
-                                        <span class="smallTitleLine">We will be happy to assist you</span>
-                                        (239) 300-9418
-                                    </a>
-                                    <a href="javascript:;" class="btnPrimary openPopup">
-                                        <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>
-                                    </a>
-                                </div>
-                                <div class="ctabtnrightsocial">
-                                    <div class="trustpilotGoogleBox">
-                                        <div class="reviewBTn">
-                                            <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
-                                                target="_blank">
-                                                <img src="./assets/images/trustpilot.webp" alt="Trustpilot Images" />
-                                            </a>
-                                        </div>
-                                        <div class="reviewBTn">
-                                            <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                                <img src="./assets/images/google.webp" alt="Google Images" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!-- cta -->
 
-        <section class="sec9 philMain ProContent">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ProContentLeft">
-                        <div class="abtLeft">
-                            <h4>Publish Your Books Worldwide and Become a Recognized Author!</h4>
-                            <p>
-                                Our publishing experts leave no page unturned, quite literally! Our team of professional
-                                editors
-                                and publishers work together as a collaborative unit. The Universal Writers, specialize
-                                in
-                                mastering all the formats to make your books compatible with multiple devices and
-                                platforms.
-                                This way, your word can reach out to more people, we help you out with self-publishing a
-                                book.
-                            </p>
-                            <p>While we take care of the technicalities you can work on your manuscripts and perfect
-                                them –
-                                as
-                                for publishing them, our top-notch book publishers who have worked on hundreds of books
-                                and
-                                precisely know where your niche and target audience lies. </p>
-                            <div class="makesContent">
-                                <ul>
-                                    <li>
-                                        <i class="fa-solid fa-right-long"></i>
-                                        Self-publishing
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-right-long"></i>
-                                        Paperback
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-right-long"></i>
-                                        Custom Covers
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-right-long"></i>
-                                        Editorial review
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-right-long"></i>
-                                        Multi-Platform Expertise
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="ctaWrap">
-                                <div class="aboutCta">
-                                    <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
-                                                class="fa-solid fa-arrow-right"></i></span></a>
-                                    <a href="tel:2393009418" class="ctaLinePhone">
-                                        <i class="fa-solid fa-phone"></i>
-                                        <span class="smallTitleLine">Call Us</span>
-                                        (239) 300-9418
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 proconImageLeft">
-                        <img src="./assets/images/proImage.webp" alt="Platform Images" />
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include "./components/cta-center.php" ?>
 
+        <!-- cta -->
         <section class="sec4 servicesMainboxes servicesMainboxesInner">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 serviceTitle">
-                        <span class="heading2">A Complete Spectrum of Ghostwriting Services</span>
+                        <span class="heading2-light">A Complete Spectrum of Ghostwriting Services</span>
                         <p>Ghostwriting services do not only stop at writing; first and foremost, it starts with
                             preliminary
                             research where our talented ghost writers brainstorm with their respective teams to do a
@@ -740,12 +632,80 @@
                 </div>
             </div>
         </section>
-        <section class="sec7 processMain whiteCta">
+
+        <section class="sec9 philMain ProContent whiteCta">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 ProContentLeft">
+                        <div class="abtLeft">
+                            <h4>Publish Your Books Worldwide and Become a Recognized Author!</h4>
+                            <p class="p-light">
+                                Our publishing experts leave no page unturned, quite literally! Our team of professional
+                                editors
+                                and publishers work together as a collaborative unit. The Universal Writers, specialize
+                                in
+                                mastering all the formats to make your books compatible with multiple devices and
+                                platforms.
+                                This way, your word can reach out to more people, we help you out with self-publishing a
+                                book.
+                            </p>
+                            <p class="p-light">While we take care of the technicalities you can work on your manuscripts and perfect
+                                them –
+                                as
+                                for publishing them, our top-notch book publishers who have worked on hundreds of books
+                                and
+                                precisely know where your niche and target audience lies. </p>
+                            <div class="makesContent">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-right-long"></i>
+                                        Self-publishing
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-right-long"></i>
+                                        Paperback
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-right-long"></i>
+                                        Custom Covers
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-right-long"></i>
+                                        Editorial review
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-right-long"></i>
+                                        Multi-Platform Expertise
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="ctaWrap">
+                                <div class="aboutCta">
+                                    <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
+                                                class="fa-solid fa-arrow-right"></i></span></a>
+                                    <a href="tel:2393009418" class="ctaLinePhone">
+                                        <i class="fa-solid fa-phone"></i>
+                                        <span class="smallTitleLine">Call Us</span>
+                                        (239) 300-9418
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 proconImageLeft">
+                        <img src="./assets/images/proImage.webp" alt="Platform Images" />
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="sec7 processMain">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 processTitle whiteTitle">
                         <span class="smallHeading lineBar">Process We Follow</span>
-                        <span class="heading2">How We Create a Masterpiece</span>
+                        <span class="heading2-light">How We Create a Masterpiece</span>
                         <p>Let us take you on a step-by-step guide to our processes; we work through a chronology and
                             practice
                             timely submissions that are tweaked to your liking before the final publishing stage.</p>
@@ -774,52 +734,11 @@
                 </div>
             </div>
         </section>
-        <section class="sec9 ctaOrange">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 ctaTitleLeft">
-                        <span class="heading2 boldheading2">Take the hassle out of book publishing with our
-                            comprehensive services</span>
-                        <p>Connect with us now to get the best deals!</p>
-                    </div>
-                    <div class="col-md-6 ctaTitleRight">
-                        <div class="ctaTitleRightInnerLeft">
-                            <div class="ctaWrap">
-                                <div class="aboutCta">
-                                    <!--<a href="javascript:;" class="ctaLinePhone">-->
-                                    <!--    <i class="fa-solid fa-comment"></i>-->
-                                    <!--    <span>Chat With US</span>-->
-                                    <!--</a>-->
-                                    <a href="tel:2393009418" class="ctaLinePhone">
-                                        <i class="fa-solid fa-phone"></i>
-                                        <span class="smallTitleLine">We will be happy to assist you</span>
-                                        (239) 300-9418
-                                    </a>
-                                    <a href="javascript:;" class="btnPrimary openPopup">
-                                        <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>
-                                    </a>
-                                </div>
-                                <div class="ctabtnrightsocial">
-                                    <div class="trustpilotGoogleBox">
-                                        <div class="reviewBTn">
-                                            <a href="https://www.trustpilot.com/review/theuniversalwriters.com"
-                                                target="_blank">
-                                                <img src="./assets/images/trustpilot.webp" alt="Trustpilot Images" />
-                                            </a>
-                                        </div>
-                                        <div class="reviewBTn">
-                                            <a href="https://goo.gl/maps/SLykFoQzEiTwNbHd9" target="_blank">
-                                                <img src="./assets/images/google.webp" alt="Google Images" />
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <!-- cta -->
+
+        <?php include "./components/cta-footer.php" ?>
+
+        <!-- cta -->
         <!-- footer -->
         <?php include "./components/footer.php" ?>
 
