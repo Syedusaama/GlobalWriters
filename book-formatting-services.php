@@ -99,30 +99,11 @@
                                                     <input type="hidden" name="pc" value="">
                                                     <input type="hidden" name="hiddencapcha" value="">
                                                     <input type="hidden" name="setCookie" value="setBannerCookie">
-                                                    <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                                    <lord-icon src="https://cdn.lordicon.com/veoexymv.json"
-                                                        trigger="loop" delay="2000"
-                                                        colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
-                                                        style="width:100px;height:100px">
-                                                    </lord-icon>
-                                                    <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                                    <lord-icon src="https://cdn.lordicon.com/lsrcesku.json"
-                                                        trigger="loop" delay="2000"
-                                                        colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
-                                                        style="width:100px;height:100px">
-                                                    </lord-icon>
-                                                    <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                                    <lord-icon src="https://cdn.lordicon.com/kiynvdns.json"
-                                                        trigger="loop" delay="2000"
-                                                        colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
-                                                        style="width:100px;height:100px">
-                                                    </lord-icon>
-                                                    <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                                    <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json"
-                                                        trigger="loop" delay="2000"
-                                                        colors="primary:#121331,secondary:#d8bdf7"
-                                                        style="width:100px;height:100px">
-                                                    </lord-icon>./book-formatting-services/" />
+                                                    <input type="hidden" name="pack_name" class="has-Pack" value="">
+                                                    <input type="hidden" name="setURL" class="packname" value="">
+                                                    <input type="hidden" name="pac" class="packp" value="">
+                                                    <input type="hidden" id="location" name="locationURL"
+                                                        value="./book-formatting-services/" />
                                                     <script
                                                         type="text/javascript">document.getElementById('location').value = window.location.href;</script>
                                                 </div>
@@ -265,23 +246,6 @@
                                             delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
                                             style="width:100px;height:100px">
                                         </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
                                     </div>
                                     <div class="contentChoose">
                                         <span>Publishing Manuscripts</span>
@@ -302,25 +266,8 @@
                                             src="./assets/images/animations/book-formatting-services/CompatibleFiles.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7"
+                                            delay="2000"  colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -346,25 +293,8 @@
                                             src="./assets/images/animations/book-formatting-services/LayoutsandStructures.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7"
+                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -383,23 +313,6 @@
                                         <!-- <lottie-player
                                             src="./assets/images/animations/book-formatting-services/AccurateFrontMatter.json"
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
-                                        <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                        <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000"
-                                            colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
-                                            style="width:100px;height:100px">
-                                        </lord-icon>
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
                                             delay="2000" colors="primary:#121331,secondary:#d8bdf7"
