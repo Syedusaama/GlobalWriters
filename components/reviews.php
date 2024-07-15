@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-md-4 whyChooseLeft">
                         <div class="abtLeft">
-                            <span class="smallTitleLine">Testimonials</span>
+                            <span class="smallTitleLine-light">Testimonials</span>
                             <h4 class="h4-darkback">Don't take our word for it; see for yourself!</h4>
                         </div>
                     </div>

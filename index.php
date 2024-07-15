@@ -591,7 +591,7 @@
                     </div>
                     <div class="col-md-6 philContentRight">
                         <div class="abtLeft">
-                            <span class="smallTitleLine">OUR PHILOSOPHY</span>
+                            <span class="smallTitleLine-light">OUR PHILOSOPHY</span>
                             <h4>Have You Considered the Upcoming Best-Selling Idea?</h4>
                             <p class="p-light">The Universal Writers (TUW) highly values your creativity and ideas. We
                                 invite you to

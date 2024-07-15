@@ -313,11 +313,11 @@
         </div>
     </section>
 
-        <!-- cta -->
+        <!-- reviews -->
 
         <?php include "./components/reviews.php" ?>
 
-        <!-- cta -->
+        <!-- reviews -->
 
     <section class="sec12 BlogMain">
     <div class="container-fluid">

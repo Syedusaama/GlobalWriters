@@ -1977,9 +1977,9 @@ span.contitle svg {
   background: var(--primary_color);
 }
 .testiMainBox {
-  background: #ddcaf37a;
+  background: var(--white);
   border-radius: 12px;
-  padding: 10px;
+  padding: 10px 20px;
 }
 .TestiSliderMain .container-fluid {
   max-width: 110%;
