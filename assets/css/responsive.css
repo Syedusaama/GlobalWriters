@@ -703,12 +703,16 @@
         font-size: 13px;
         line-height: 21px;
         min-height: 48px;
+        margin-top: 0px;
     }
 
     .serviceBoxinner svg {
         max-height: 65px;
     }
-
+    .lordicon-size {
+        width: 100px !important;
+        height: 100px !important;
+      }
     section.sec4.servicesMainboxes {
         background-position: bottom;
         padding: 50px 0;

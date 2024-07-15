@@ -227,7 +227,7 @@ span.smallTitleLine:before {
   top: 12px;
 }
 span.smallTitleLine-light {
-  color: var(--primary_color);
+  color: var(--white);
   font-size: 14px;
   line-height: 24px;
   font-weight: 700;
@@ -241,7 +241,7 @@ span.smallTitleLine-light:before {
   content: "";
   width: 35px;
   height: 2px;
-  background: var(--primary_color);
+  background: var(--white);
   position: absolute;
   left: 0;
   top: 12px;
@@ -3694,7 +3694,7 @@ span.popTitMainup {
 }
 
 .popuptitle p {
-  color: #9ab3ae;
+  color: var(--white);
   font-size: 18px;
   line-height: 20px;
   margin: 15px 0 0;
