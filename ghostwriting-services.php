@@ -56,20 +56,17 @@
                                         <div class="BannerFields">
                                             <form action="/mail.php" method="post">
                                                 <div class="formFields">
-                                                    <img src="./assets/images/nameicon.svg"
-                                                        alt="Icon" />
+                                                    <img src="./assets/images/nameicon.svg" alt="Icon" />
                                                     <input type="text" placeholder="Enter Your Name" name='Name'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="./assets/images/emailicon.svg"
-                                                        alt="Icon" />
+                                                    <img src="./assets/images/emailicon.svg" alt="Icon" />
                                                     <input type="email" placeholder="Enter Your Email" name='Email'
                                                         required />
                                                 </div>
                                                 <div class="formFields">
-                                                    <img src="./assets/images/phoneicon.svg"
-                                                        alt="Icon" />
+                                                    <img src="./assets/images/phoneicon.svg" alt="Icon" />
                                                     <input type="text" placeholder="Your Phone Number" name='Number'
                                                         required />
                                                 </div>
@@ -117,15 +114,12 @@
                         <div class="col-md-12">
                             <div class="reviewLogos">
                                 <ul>
-                                    <li><a href="javascript:;"><img
-                                                src="./assets/images/rev1.webp"
+                                    <li><a href="javascript:;"><img src="./assets/images/rev1.webp"
                                                 alt="Review Images" /></a></li>
                                     <li><a target="_blank"
                                             href="https://www.trustpilot.com/review/theuniversalwriters.com"><img
-                                                src="./assets/images/rev2.webp"
-                                                alt="Review Images" /></a></li>
-                                    <li><a href="javascript:;"><img
-                                                src="./assets/images/rev3.webp"
+                                                src="./assets/images/rev2.webp" alt="Review Images" /></a></li>
+                                    <li><a href="javascript:;"><img src="./assets/images/rev3.webp"
                                                 alt="Review Images" /></a></li>
                                 </ul>
                             </div>
@@ -144,12 +138,10 @@
                     </div>
                     <div class="col-md-12 logoWrapPlatforms">
                         <div class="platformsInner proDesktop">
-                            <img src="./assets/images/logoMain.webp"
-                                alt="Platform Images" />
+                            <img src="./assets/images/logoMain.webp" alt="Platform Images" />
                         </div>
                         <div class="platformsInner proMobile">
-                            <img src="./assets/images/logoMainMobile.webp"
-                                alt="Platform Images" />
+                            <img src="./assets/images/logoMainMobile.webp" alt="Platform Images" />
                         </div>
                     </div>
                 </div>
@@ -162,8 +154,8 @@
                         <div class="abtLeft-light">
                             <h2>Get Written Content in all Forms with Our Professional Ghostwriting!</h2>
                             <p>
-                                <b><a href="./ghostwriting-services/"
-                                        class="anchor-text">Ghostwriting services</a></b> are a new wave of writing,
+                                <b><a href="./ghostwriting-services/" class="anchor-text">Ghostwriting services</a></b>
+                                are a new wave of writing,
                                 with multiple people getting more and more
                                 interested in putting their ideas in front of the world; many want to share stories that
                                 have
@@ -216,9 +208,9 @@
                                                 src="./assets/images/animations/Ghostwriting/CreateAuthorWebsite.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                                style="width:100px;height:100px">
+                                            <lord-icon src="https://cdn.lordicon.com/veoexymv.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#471758"
+                                                style="width:80px;height:80px">
                                             </lord-icon>
                                         </div>
                                         <div class="tabsContent">
@@ -238,9 +230,10 @@
                                                 src="./assets/images/animations/Ghostwriting/CompleteManuscriptFormatting.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                                style="width:100px;height:100px">
+                                            <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
+                                                delay="2000"
+                                                colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
+                                                style="width:80px;height:80px">
                                             </lord-icon>
                                         </div>
                                         <div class="tabsContent">
@@ -261,9 +254,10 @@
                                                 src="./assets/images/animations/Ghostwriting/EditingandProofreading.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                                style="width:100px;height:100px">
+                                            <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
+                                                delay="2000"
+                                                colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
+                                                style="width:80px;height:80px">
                                             </lord-icon>
                                         </div>
                                         <div class="tabsContent">
@@ -281,9 +275,9 @@
                                                 src="./assets/images/animations/Ghostwriting/PromotionsMarketing.json"
                                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
-                                            <lord-icon src="https://cdn.lordicon.com/jtiihjyw.json" trigger="loop"
-                                                delay="2000" colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
-                                                style="width:100px;height:100px">
+                                            <lord-icon src="https://cdn.lordicon.com/ujxzdfjx.json" trigger="loop"
+                                                delay="2000" colors="primary:#121331,secondary:#d8bdf7"
+                                                style="width:80px;height:80px">
                                             </lord-icon>
                                         </div>
                                         <div class="tabsContent">
@@ -302,8 +296,8 @@
                             <div class="tabCont">
                                 <p>
                                     <b>Craft Your Author Website With Us!</b>
-                                    Our <a href="./author-website-design"
-                                        class="anchor-text">author website designers</a> and developers think of a
+                                    Our <a href="./author-website-design" class="anchor-text">author website
+                                        designers</a> and developers think of a
                                     layout that serves
                                     as the skin of the author’s website. At The Universal Writers, the professional
                                     <b>ghostwriting team</b> with the designers combines elements such as colors,
@@ -340,8 +334,8 @@
                                 <p>We take care of choosing the best fonts, aesthetic and correct picture allocation,
                                     cohesive
                                     paragraphs, and an overall organized manuscript. Be it a cookbook or novel; <a
-                                        href="./book-formatting-services"
-                                        class="anchor-text">we originate a completely formatted book</a>; </p>
+                                        href="./book-formatting-services" class="anchor-text">we originate a completely
+                                        formatted book</a>; </p>
 
                                 <p>
                                 <ul>
@@ -361,12 +355,11 @@
                                     the
                                     world’s bestsellers. </p>
 
-                                <p>Our team of <a href="./"
-                                        class="anchor-text">professional ghostwriters</a> devises stellar editing and
+                                <p>Our team of <a href="./" class="anchor-text">professional ghostwriters</a> devises
+                                    stellar editing and
                                     proofreading
                                     strategies to
-                                    make your books look the most professional. <a
-                                        href="./book-editing-services/"
+                                    make your books look the most professional. <a href="./book-editing-services/"
                                         class="anchor-text">Book editing</a> and proofreading is the most
                                     crucial part of publishing a manuscript. </p>
 
@@ -380,8 +373,8 @@
                         <div class="box-proofed">
                             <div class="tabCont">
                                 <p>
-                                    We have a few <a href="./book-marketing/"
-                                        class="anchor-text">book marketing</a> tricks up our sleeves to ensure your
+                                    We have a few <a href="./book-marketing/" class="anchor-text">book marketing</a>
+                                    tricks up our sleeves to ensure your
                                     books are evenly marketed
                                     through omnichannel platforms. </p>
 
@@ -446,7 +439,8 @@
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"  colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
+                                            delay="2000"
+                                            colors="primary:#000000,secondary:#471758,tertiary:#d8bdf7,quaternary:#d8bdf7"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -475,7 +469,8 @@
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000" colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
+                                            delay="2000"
+                                            colors="primary:#121331,secondary:#d8bdf7,tertiary:#d8bdf7,quaternary:#c69cf4,quinary:#c69cf4"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -525,8 +520,7 @@
                     <div class="col-md-4 connectMain">
                         <div class="connectMainwrap">
                             <div class="connectMaininner">
-                                <img src="./assets/images/connectimage.webp"
-                                    alt="Connact Image" />
+                                <img src="./assets/images/connectimage.webp" alt="Connact Image" />
                                 <div class="connectCOntent">
                                     <p>We provide tailored services to accomplish your goals, ensuring your contentment
                                         and gratification. We do
@@ -557,7 +551,8 @@
                                 As the industry’s leading ghostwriting company, your privacy is predominantly our first
                                 priority; we make sure your name is displayed on all publishing sites to provide 100%
                                 encryption. We are just enablers who can turn your ideas into a reality. </p>
-                            <p class="p-light">Through our expertise and your ideas, we offer you a smooth expedition of your project
+                            <p class="p-light">Through our expertise and your ideas, we offer you a smooth expedition of
+                                your project
                                 with
                                 every
                                 literary genre and non-fiction genre – with TUW, the possibilities are endless. Our
@@ -633,9 +628,8 @@
                         <div class="serviceBoxinner">
                             <span class="servTitle">Fiction</span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/Fiction.json"
-                                    background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                <lottie-player src="./assets/images/animations/Fiction.json" background="transparent"
+                                    speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Dwell in the adventurous universe of fictitious story writing.</p>
                             </div>
                         </div>
@@ -644,8 +638,7 @@
                         <div class="serviceBoxinner">
                             <span class="servTitle">Non-Fiction</span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/Non-Fiction.json"
+                                <lottie-player src="./assets/images/animations/Non-Fiction.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>We craft stories that are a reflection of your life. We convey your stories to the
                                     world!</p>
@@ -658,9 +651,8 @@
                                 Biography
                             </span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/biography.json"
-                                    background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                <lottie-player src="./assets/images/animations/biography.json" background="transparent"
+                                    speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Get in-depth and informative biographies for your target audience</p>
                             </div>
                         </div>
@@ -669,8 +661,7 @@
                         <div class="serviceBoxinner">
                             <span class="servTitle">Informative</span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/Informative.json"
+                                <lottie-player src="./assets/images/animations/Informative.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Features stats, graphs, and infographics that our expert's fact-check.</p>
                             </div>
@@ -682,8 +673,7 @@
                                 Autobiography
                             </span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/Autobiography.json"
+                                <lottie-player src="./assets/images/animations/Autobiography.json"
                                     background="transparent" speed="1" loop="" autoplay=""></lottie-player>
                                 <p>
                                     Our team deals with providing writing services for real-life, self-narrations.
@@ -697,9 +687,8 @@
                                 Memoir
                             </span>
                             <div class="sericoText">
-                                <lottie-player
-                                    src="./assets/images/animations/Memoir.json"
-                                    background="transparent" speed="1" loop="" autoplay=""></lottie-player>
+                                <lottie-player src="./assets/images/animations/Memoir.json" background="transparent"
+                                    speed="1" loop="" autoplay=""></lottie-player>
                                 <p>Feature a heartfelt collection of your favorite memories for your loved ones.</p>
                             </div>
                         </div>
@@ -851,7 +840,7 @@
                         </div>
                     </div>
                     <div class="col-md-12 ctaWrap">
-                    <div class="aboutCta">
+                        <div class="aboutCta">
                             <a href="javascript:;" class="btnPrimary openPopup"><span>Request A Quote <i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                             <a href="tel:2393009418" class="ctaLinePhone">
