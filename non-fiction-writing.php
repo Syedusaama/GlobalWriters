@@ -443,7 +443,11 @@
                 </div>
             </div>
         </section>
+        <!-- reviews -->
 
+        <?php include "./components/reviews.php" ?>
+
+        <!-- reviews -->
         <section class="sec7 processMain">
             <div class="container">
                 <div class="row">
