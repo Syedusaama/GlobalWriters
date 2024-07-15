@@ -548,7 +548,7 @@ section.sec4.servicesMainboxes {
 }
 
 .serviceBoxinner {
-  background: var(--secondary_color);
+  background: #9d6eb7;
   display: flex;
   align-items: center;
   justify-content: center;
