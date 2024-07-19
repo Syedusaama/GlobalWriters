@@ -49,11 +49,12 @@ a {
   --buton: transparent linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0% no-repeat padding-box;
   --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
   --section_purple: #fff;
+  --logo-section:linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
   --black: #000;  
   --white: #fff;
   --primary_color: #005d56;
   --secondary_color: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0% no-repeat padding-box;
-  --header: #471758;
+  --header: #005851;
   --text_color: #141414;
   --hover_color: #723DD2;
 }
@@ -509,7 +510,7 @@ span.smalWhite::before {
 }
 
 .tabCont .heading3 {
-  color: var(--buton);
+  color: #00312d;
   font-size: 28px;
   line-height: 38px;
   margin-bottom: 15px;
@@ -547,7 +548,7 @@ section.sec4.servicesMainboxes {
 }
 
 .serviceBoxinner {
-  background: #9d6eb7;
+  background: var(--secondary_color);
   display: flex;
   align-items: center;
   justify-content: center;
