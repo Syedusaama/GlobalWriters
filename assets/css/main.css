@@ -46,7 +46,7 @@ a {
 /*start home css*/
 
 :root {
-  --buton: transparent linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0% no-repeat padding-box;
+  --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box;
   --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
   --section_purple: #fff;
   --logo-section:linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
@@ -450,7 +450,7 @@ span.smalWhite::before {
 }
 .whiteCta a.ctaLinePhone svg {
   background: var(--white);
-  color: var(--buton);
+  color: #005d56 ;
 }
 
 .coreServices span.smallTitleLine,
@@ -3395,7 +3395,7 @@ footer {
 
 .footerLeft {
   padding: 80px 0;
-  border-right: 1px solid var(--light_purple);
+  border-right: 1px solid #ffffff4d;
   padding-right: 50px;
   height: 100%;
 }
@@ -3615,7 +3615,7 @@ footer .container-fluid .col-md-8 {
 }
 
 .copyRighgtBottom {
-  border-top: 1px solid var(--light_purple);
+  border-top: 1px solid #ffffff4d;
   margin-top: 30px !important;
   padding-top: 40px;
 }
@@ -3853,7 +3853,8 @@ button.btnPrimary span svg {
 }
 
 .headerMenuWrap ul.dropDown li:hover a {
-  background: #d7c2ee;
+  background: #20b2aa;
+  color: #fff !important;
 }
 
 .headerMenuWrap ul.dropDown > li + li {

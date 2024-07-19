@@ -268,7 +268,7 @@
                                 background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/xgzckrws.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#e5d1fa,tertiary:#7e489c"
+                                 colors="primary:#005d56,secondary:#20b2aa,tertiary:#ffffff"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Illustrations and Infographics</span>
@@ -282,7 +282,7 @@
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/svsiboke.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#ebe6ef,tertiary:#7e489c,quaternary:#e5d1fa,quinary:#7e489c,senary:#7e489c"
+                                colors="primary:#005d56,secondary:#10857e,tertiary:#ffffff,quaternary:#20b2aa,quinary:#ffffff,senary:#20b2aa"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Book Cover Designs</span>
@@ -296,7 +296,7 @@
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/nvrrlies.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#7e489c,quinary:#6c16c7,senary:#6c16c7"
+                                colors="primary:#005d56,secondary:#20b2aa,tertiary:#10857e,quaternary:#ffffff,quinary:#ffffff,senary:#ffffff"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Author Website</span>
@@ -310,7 +310,7 @@
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/ciqqqyun.json" trigger="loop" delay="2000"
-                                colors="primary:#000000,secondary:#c69cf4,tertiary:#e5d1fa"
+                                colors="primary:#005d56,secondary:#ffffff,tertiary:#20b2aa"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Audio Book Services</span>
@@ -324,7 +324,7 @@
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/rymzvwiu.json" trigger="loop" delay="2000"
-                                colors="primary:#121331,secondary:#a866ee,tertiary:#e5d1fa,quaternary:#c69cf4,quinary:#a866ee,senary:#8930e8,septenary:#8930e8,octonary:#c69cf4,nonary:#a866ee"
+                                colors="primary:#005d56,secondary:#20b2aa,tertiary:#10857e,quaternary:#ffffff,quinary:#20b2aa,senary:#ffffff,septenary:#ffffff,octonary:#10857e,nonary:#20b2aa"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Article and Blog Writing</span>
@@ -338,7 +338,7 @@
                             </lottie-player> -->
                             <script src="https://cdn.lordicon.com/lordicon.js"></script>
                             <lord-icon class="lordicon-size" src="https://cdn.lordicon.com/hdublzcw.json" trigger="loop" delay="2000"
-                                colors="primary:#000000,secondary:#c69cf4,tertiary:#8930e8,quaternary:#b4b4b4"
+                                colors="primary:#005d56,secondary:#20b2aa,tertiary:#10857e,quaternary:#ffffff"
                                 style="width:150px;height:150px">
                             </lord-icon>
                             <span class="servTitle">Video Trailers and Teasers</span>
