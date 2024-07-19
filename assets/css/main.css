@@ -2809,14 +2809,14 @@ span.ghostTitleheading {
 }
 
 .connectMainwrap {
-  background: var(--logo-section);
+  background: #1ca79f8a;
   padding: 25px;
   border-radius: 25px;
 }
 
 .connectMaininner {
-  background: var(--buton);
-  background: linear-gradient(0deg, #cfa5e7 0%, var(--buton) 100%);
+
+  background: var(--secondary_color);
   padding: 25px;
   border-radius: 25px;
 }

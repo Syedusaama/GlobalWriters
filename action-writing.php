@@ -324,7 +324,7 @@
                     <div class="col-md-4 connectMain">
                         <div class="connectMainwrap">
                             <div class="connectMaininner">
-                                <img src="./assets/images/connectimage.webp" alt="Connact Image" />
+                                <img src="./assets/images/connectimage.jpg" alt="Connact Image" />
                                 <div class="connectCOntent">
                                     <p>We are so much more than just a ghostwriting firm. We are a team of industry
                                         professionals offering comprehensive and tailored services designed to help you
