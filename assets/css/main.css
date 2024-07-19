@@ -46,13 +46,13 @@ a {
 /*start home css*/
 
 :root {
-  --buton: #7e489c;
-  --light_purple: #8b3fb5;
-  --section_purple: #f8f2ff;
+  --buton: transparent linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0% no-repeat padding-box;
+  --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
+  --section_purple: #fff;
   --black: #000;  
   --white: #fff;
-  --primary_color: #542a74;
-  --secondary_color: #4f2c62;
+  --primary_color: #005d56;
+  --secondary_color: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0% no-repeat padding-box;
   --header: #471758;
   --text_color: #141414;
   --hover_color: #723DD2;
@@ -602,7 +602,7 @@ section.sec4.servicesMainboxes {
 .servicesMainboxesContent {
   /*background: url('../images/contentbg.webp') bottom right/cover no-repeat;*/
   padding: 90px 0;
-  background-color: var(--secondary_color);
+  background: var(--secondary_color);
 }
 
 p {
@@ -985,7 +985,7 @@ span.nameClient {
   /*background: url('../images/yellowBg.webp') center top/cover no-repeat;*/
   /* border-top: 2px solid #fff; */
   border-bottom: 2px solid var(--primary_color);
-  background-color: var(--secondary_color);
+  background: var(--secondary_color);
 }
 
 .philImageLeft img,
