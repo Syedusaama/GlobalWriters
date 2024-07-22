@@ -2395,7 +2395,9 @@ span.BootAuthorName {
 .lpsliderTestMain .swiper {
   padding-bottom: 50px;
 }
-
+.contactFormleftwrp input::-webkit-input-placeholder, textarea::-webkit-input-placeholder{
+  color: #000;
+}
 .contactFormBottom input::-webkit-input-placeholder,
 .contactFormBottom textarea::-webkit-input-placeholder {
   /* Edge */
