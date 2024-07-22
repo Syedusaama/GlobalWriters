@@ -404,22 +404,7 @@
                 </div>
             </div>
         </section>
-        <section class="sec15 scroreBig">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 scrowHas">
-                        <span class="scoreTitle"><b>Score Big Savings <br> 50% Off</b> Your Purchase!</span>
-                        <div class="ctaWrap">
-                            <div class="aboutCta">
-                                <a href="javascript:;" class="btnPrimary openPopup">
-                                    <span>Request A Quote <i class="fa-solid fa-arrow-right"></i></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section class="sec12 ghostagecnyContent">
             <div class="container">
                 <div class="row">
