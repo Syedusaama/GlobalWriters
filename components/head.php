@@ -5,7 +5,7 @@
 <meta name="page_url" content="">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<link rel="icon" href="https://theuniversalwriters.com/assets/images/favicon.png" type="image/gif" sizes="16x16">
+<link rel="icon" href="./assets/images/favicon.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" href="./assets/css/layout.css" />
 <link rel="stylesheet" href="./assets/css/main.css" />
 <link rel="stylesheet" href="./assets/css/responsive.css" />

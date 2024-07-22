@@ -5,7 +5,7 @@
                 <div class="col-md-2 logoMainWrap">
                     <div class="logoMain">
                         <a href="https://theuniversalwriters.com/">
-                            <img src="./assets/images/logo.webp" alt="Logo"/>
+                            <img src="./assets/images/logo.png" alt="Logo"/>
                         </a>
                         <div class="mobileMenuIcon">
                             <img src="./assets/images/menuIcon.svg" alt="MenuIcon"/>
