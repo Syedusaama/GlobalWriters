@@ -49,7 +49,7 @@ a {
   --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box;
   --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
   --section_purple: #fff;
-  --logo-section:linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
+  --logo-section: #f0fffe;
   --black: #000;  
   --white: #fff;
   --primary_color: #005d56;
@@ -548,7 +548,7 @@ section.sec4.servicesMainboxes {
 }
 
 .serviceBoxinner {
-  background: var(--secondary_color);
+  background: #d2f8e8;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -559,7 +559,7 @@ section.sec4.servicesMainboxes {
 
 .serviceBoxinner span.servTitle {
   margin-top: 20px;
-  color: #fff;
+  color: var(--primary_color);
   font-size: 22px;
   font-weight: 700;
   line-height: 28px;
