@@ -348,7 +348,7 @@
                     <div class="col-md-4 connectMain">
                         <div class="connectMainwrap">
                             <div class="connectMaininner">
-                                <img src="./assets/images/connectimage.jpg"
+                                <img src="./assets/images/connectimage.webp"
                                     alt="Connact Image" />
                                 <div class="connectCOntent">
                                     <p>We provide tailored services to accomplish your goals, ensuring your contentment

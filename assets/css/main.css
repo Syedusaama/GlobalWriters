@@ -1532,7 +1532,7 @@ a.btnSecondary svg {
   text-align: center;
 }
 .bookContentmain p {
-  color: var(--white) !important;
+  color: var(--black) !important;
 }
 .aboutSec2Content .row {
   display: flex;
@@ -3110,7 +3110,7 @@ span.sepTitle {
 span.offertitle {
   display: block;
   text-align: center;
-  color: #d17cff;
+  color: #2cfff3;
   font-size: 28px;
   font-weight: 600;
   line-height: 40px;
@@ -3307,7 +3307,7 @@ div#swal2-html-container {
 }
 
 .ctaTitleRight {
-  border-left: 1px solid #eef4d1;
+  border-left: 1px solid #2cfff3;
   padding-left: 40px;
 }
 
@@ -3361,7 +3361,7 @@ div#swal2-html-container {
 }
 
 .ctaOrange .ctaTitleRight {
-  border-left: 1px solid #ca8100;
+  border-left: 1px solid #2cfff3;
   padding-left: 40px;
 }
 
@@ -4036,7 +4036,7 @@ header {
 }
 
 .HederCtaRight a svg {
-  color: var(--light_purple);
+  color: #2cfff3;
   margin-right: 10px;
 }
 

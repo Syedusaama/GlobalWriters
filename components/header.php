@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-2 logoMainWrap">
                     <div class="logoMain">
-                        <a href="https://theuniversalwriters.com/">
+                        <a href="https://ghostwritingmuser.com/">
                             <img src="./assets/images/logo.png" alt="Logo"/>
                         </a>
                         <div class="mobileMenuIcon">
@@ -18,7 +18,7 @@
                     </div>
                     <div class="headerMenuWrap">
                         <ul>
-                            <li><a href="/about-us/">ABOUT US</a></li>
+                            <li><a href="/about-us.php">ABOUT US</a></li>
                             <li class="hasChild parentMenu">
                     <span><a href="javascript:;">Ghostwriting <i class="fa-solid fa-chevron-down"></i></a>
                             <ul class="dropDown">
