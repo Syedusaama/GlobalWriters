@@ -1866,15 +1866,17 @@ span.countHas b:last-child {
 }
 
 .childernBanner {
-  background: url("../images/childernBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/childernBanner.webp") bottom center / cover
+    no-repeat; */
     background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/childernBanner.webp") ;
 }
 
 .contactUsBanner {
-  background: url("../images/contactBg.webp") center center / cover no-repeat;
-  padding: 250px 0 100px;
+  /* background: url("../images/contactBg.webp") center center / cover no-repeat;
+  padding: 250px 0 100px; */
   background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/contactBg.webp");
+  padding: 350px 0px 150px;
+
 }
 
 .contactUsBanner .bannerTextInner {
@@ -1970,7 +1972,8 @@ span.contitle svg {
 }
 
 .crimeBanner {
-  background: url("../images/crimeBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/crimeBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/crimeBanner.webp");
 }
 
 .innerPageDefaultContent h3.heading2 {
@@ -1984,7 +1987,8 @@ span.contitle svg {
 }
 
 .dramaBanner {
-  background: url("../images/dramaBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/dramaBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/dramaBanner.webp");
 }
 
 .TestiSliderMain {
@@ -2487,17 +2491,20 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .ebookBanner {
-  background: url("../images/ebookBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/ebookBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/ebookBanner.webp");
 }
 
 .fantasyBanner {
-  background: url("../images/fantasyBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/fantasyBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/fantasyBanner.webp");
 }
 
 .fictionBanner {
-  background: url("../images/fictionBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/fictionBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/fictionBanner.webp");
 }
 
 .fictionInnerCate {
@@ -2607,7 +2614,8 @@ a.btnSecondary.lpbtn svg.fa-phone {
 }
 
 .ghostbanner {
-  background: url("../images/ghostBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/ghostBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/ghostBanner.webp");
 }
 
 .bannerTextInner h1 {
@@ -3003,16 +3011,19 @@ span.ctatilefaq {
 }
 
 .horroBanner {
-  background: url("../images/horrorBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/horrorBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/horrorBanner.webp");
 }
 
 .memoireBanner {
-  background: url("../images/memoire.webp") bottom center / cover no-repeat;
+  /* background: url("../images/memoire.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/memoire.webp");
 }
 
 .nonfictionBanner {
-  background: url("../images/nonfictionBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/nonfictionBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/nonfictionBanner.webp");
 }
 
 .scoreTitle {
@@ -3073,17 +3084,20 @@ section.notfoundMain img {
 }
 
 .romanceBanner {
-  background: url("../images/romanceBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/romanceBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/romanceBanner.webp");
 }
 
 .scifiBanner {
-  background: url("../images/scifiBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/scifiBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/scifiBanner.webp");
 }
 
 .suspenseBanner {
-  background: url("../images/suspenseBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/suspenseBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/suspenseBanner.webp");
 }
 
 .innerPageDefaultContent h4.heading4 {
@@ -4318,8 +4332,9 @@ a.btnPrimary span svg {
 /*Book Printing*/
 
 .bookprintingBanner {
-  background: url("../../assets/images/book-printing-bg.webp") bottom center /
-    cover no-repeat;
+  /* background: url("../../assets/images/book-printing-bg.webp") bottom center /
+    cover no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../../assets/images/book-printing-bg.webp";
 }
 section.sec13.bookmarketMobile {
   background: url("../../assets/images/processBG.webp") center center / cover
