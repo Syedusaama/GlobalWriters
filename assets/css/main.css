@@ -1619,7 +1619,7 @@ a.btnSecondary svg {
   background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bio-ban.webp");
 }
 
-.bookmarketingBanner {
+.bookMarketingBanner {
   /* background: url("../images/bookMarketing.webp") center right / cover
     no-repeat !important; */
     background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bookMarketing.webp");
@@ -4334,7 +4334,7 @@ a.btnPrimary span svg {
 .bookprintingBanner {
   /* background: url("../../assets/images/book-printing-bg.webp") bottom center /
     cover no-repeat; */
-    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../../assets/images/book-printing-bg.webp";
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../../assets/images/book-printing-bg.webp");
 }
 section.sec13.bookmarketMobile {
   background: url("../../assets/images/processBG.webp") center center / cover

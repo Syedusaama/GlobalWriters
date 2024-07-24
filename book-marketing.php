@@ -21,7 +21,7 @@
 
         <!-- header -->
 
-        <section class="sec1 innerBanner bookmarketingBanner">
+        <section class="sec1 innerBanner bookMarketingBanner">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7 bannertextLeft">
