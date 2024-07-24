@@ -71,7 +71,7 @@ a {
 }
 
 .BannerHome {
-  background: url("../images/banner.jpg") bottom center/cover no-repeat;
+  background: url("../images/banner.jpg") center right/cover no-repeat;
   height: auto;
   overflow: hidden;
   position: relative;
@@ -4039,6 +4039,7 @@ header {
 
 .headerMain {
   position: relative;
+  background: linear-gradient(100deg, rgb(0 76 72 / 78%) 10%, rgb(161 175 82 / 0%) 23%);
 }
 
 .headerMain:after {
