@@ -161,7 +161,7 @@
                             paranormal,
                             zombie, psychological-horror, ghost stories, horror comedies and much more! The
                             possibilities
-                            are endless with the Universal Writers, TUW, and we let readers escape reality by
+                            are endless with Ghostwritingmuser, TUW, and we let readers escape reality by
                             captivating
                             their attention with several twists and turns and "uh-oh" moments!
                         </p>
@@ -228,8 +228,7 @@
                                         You
                                         need professional help from ghostwriters with multiple best-selling books on
                                         their
-                                        record. The best way to hire them is through a company like The Universal
-                                        Writers,
+                                        record. The best way to hire them is through a company like Ghostwritingmuser,
                                         TUW, where you can easily connect with a team of experts who are best at their
                                         jobs!
                                     </p>
@@ -277,8 +276,7 @@
                                     <span>Master The Horror Genre  </span>
                                     <p>
                                         A stimulating horror story is what is craved by so many fans around the globe!
-                                        The
-                                        Universal Writers, helps close the gap between the global audience and you, so
+                                        Ghostwritingmuser, helps close the gap between the global audience and you, so
                                         your
                                         stories are broadcasted everywhere in the world! Many horror authors stick to
                                         this

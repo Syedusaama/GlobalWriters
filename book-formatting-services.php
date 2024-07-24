@@ -186,9 +186,7 @@
                             <p>Formatting a book is not easy; it really comes down to a professional who has the
                                 experience
                                 to
-                                follow correct book formatting guidelines, considering all the crucial elements. The
-                                Universal
-                                Writers facilitates authors who find it difficult to publish their books because of
+                                follow correct book formatting guidelines, considering all the crucial elements. Ghostwritingmuser facilitates authors who find it difficult to publish their books because of
                                 formatting
                                 issues. Our team of editors formats books of all genres, like poetry, cookbooks, a
                                 compilation

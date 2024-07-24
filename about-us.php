@@ -51,8 +51,7 @@
                         formatting, and publishing, and we are committed to delivering
                         top-quality work that meets our client’s expectations. We have
                         experience in a wide range of topics, including self-help,
-                        business, health, lifestyle, and fiction, among others. At “The
-                        Universal Writers,” we value quality, professionalism, and
+                        business, health, lifestyle, and fiction, among others. At “Ghostwritingmuser,” we value quality, professionalism, and
                         reliability, and we always prioritize the satisfaction of our
                         clients. We believe that actual communication is the key to
                         success, and we are dedicated to building long-term

@@ -184,8 +184,7 @@
                                 era,
                                 either Victorian or futuristic, and write with such scrutiny that no plot holes exist.
                                 We at
-                                The
-                                Universal Writers ensure that your imagination is put into words in the best way
+                                Ghostwritingmuser ensure that your imagination is put into words in the best way
                                 possible;
                                 in
                                 the fantasy world, we make all your dreams come. The continuous process of tapping into

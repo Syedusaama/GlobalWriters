@@ -29,8 +29,7 @@
                             <p>Are you finding <b>ghostwriting services</b> in your local area? The literary world is
                                 filled with
                                 exciting genres and provides an exceptional outlet for your imagination to run without
-                                boundaries. Craft your stories and tell them to the whole world! Hire The Universal
-                                Writers
+                                boundaries. Craft your stories and tell them to the whole world! Hire Ghostwritingmuser
                                 to
                                 achieve your dreams as a successful author.</p>
                             <div class="btnBanner">
@@ -401,7 +400,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 ghostTitleagency">
-                        <span class="ghostTitleheading">Why Choose the Universal Writers <br> as Your Ghostwriting
+                        <span class="ghostTitleheading">Why Choose Ghostwritingmuser <br> as Your Ghostwriting
                             Partners!
                         </span>
                     </div>
@@ -505,9 +504,7 @@
                                         <p>
                                             The first and foremost priority of any ghostwriting agency is to secure the
                                             trust of
-                                            our clients. As a leading ghostwriting service company in the USA, The
-                                            Universal
-                                            Writers follow strict guidelines to keep your personal information and
+                                            our clients. As a leading ghostwriting service company in the USA, Ghostwritingmuser follow strict guidelines to keep your personal information and
                                             identity
                                             private unless you want us to reveal it.
                                         </p>

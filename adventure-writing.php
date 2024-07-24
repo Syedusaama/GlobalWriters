@@ -216,8 +216,7 @@
                                     <span>We Ace the Pace of Epic Adventure Tales </span>
                                     <p>
                                         The constant pace of drama, suspense, and air of uncertainty keep the readers on
-                                        edge; they can’t help but flip the pages until they reach the end. The Universal
-                                        Writers have aced this crucial key of adventure stories.
+                                        edge; they can’t help but flip the pages until they reach the end. Ghostwritingmuser have aced this crucial key of adventure stories.
                                     </p>
                                 </div>
                             </div>

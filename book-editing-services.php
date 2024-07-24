@@ -507,9 +507,7 @@
                                     <div class="contentChoose">
                                         <span>Affordable Book Editing</span>
                                         <p>
-                                            Book editing services can cost you a hefty amount; however, with The
-                                            Universal
-                                            Writers, you do not need to worry about that. We design cost-effective plans
+                                            Book editing services can cost you a hefty amount; however, with Ghostwritingmuser, you do not need to worry about that. We design cost-effective plans
                                             for
                                             our
                                             client's convenience.

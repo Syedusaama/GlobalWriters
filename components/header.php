@@ -82,9 +82,9 @@
                                         class="fa-solid fa-arrow-right-long"></i></a>
                         </div>
                         <div class="HeaderCtaPhoneEmail">
-                            <a href="tel:2393009418"><i class="fa-solid fa-phone"></i> (239) 300-9418</a>
-                            <a href="mailto:hello@theuniversalwriters.com"><i class="fa-solid fa-envelope"></i>
-                                hello@theuniversalwriters.com</a>
+                            <a href="tel:13074615192"><i class="fa-solid fa-phone"></i> +1 (307) 4615192</a>
+                            <a href="mailto:info@ghostwritingmuser.com"><i class="fa-solid fa-envelope"></i>
+                            info@ghostwritingmuser.com</a>
                         </div>
                     </div>
                 </div>

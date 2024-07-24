@@ -289,7 +289,7 @@
                                     <div class="contentChoose">
                                         <span>Professional Bio Writers</span>
                                         <p>
-                                            When you hire a biographer from the Universal Writers, they know how to
+                                            When you hire a biographer from Ghostwritingmuser, they know how to
                                             structure a
                                             narration of a subject’s story. Adding scholarly connections, history, and
                                             intellectual insight to the manuscript.

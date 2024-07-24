@@ -156,9 +156,7 @@
                         <p>Romance is the only genre where readers know they will read a love story. Romance novels are
                             a
                             saturated genre; every story that you can read has already been written. It is our job as
-                            professionals to write a novel that has all the ingredients of a sweet romance. The
-                            Universal
-                            Writers, TUW, have the expertise to stir up your emotions and write a book that is truly
+                            professionals to write a novel that has all the ingredients of a sweet romance. Ghostwritingmuser, TUW, have the expertise to stir up your emotions and write a book that is truly
                             transformative in nature. Not just any romance novel, but one that excites and leaves you in
                             awe. Our best lot of romance novel writers excel in making specific guidelines and designing
                             either a central love story between a couple or a story that results in heartbreak or a
@@ -215,8 +213,7 @@
                                 <div class="contentChoose">
                                     <span>No Genre Is Impossible For Ghostwritingmuser </span>
                                     <p>
-                                        We have established that the romance genre is vast, but it doesn’t stop The
-                                        Universal Writers, TUW, from mastering scripts that are customized to the
+                                        We have established that the romance genre is vast, but it doesn’t stop Ghostwritingmuser, TUW, from mastering scripts that are customized to the
                                         client’s
                                         preference. Through years of experience, our seasoned professionals know exactly
                                         what it takes to set a manuscript apart.
@@ -263,8 +260,7 @@
                                 <div class="contentChoose">
                                     <span>Timely Deliveries </span>
                                     <p>
-                                        Tired of miscommunication and not meeting deadlines? We at The Universal
-                                        Writers,
+                                        Tired of miscommunication and not meeting deadlines? We at Ghostwritingmuser,
                                         TUW, take strict measures to ensure we meet our deadlines at all costs. We make
                                         sure
                                         we complete tasks on a timely basis and encourage a culture of punctuality in

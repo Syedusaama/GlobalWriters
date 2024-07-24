@@ -112,10 +112,8 @@
                     <div class="conRightDetails">
                         <span class="contitle"><i class="fa-solid fa-phone"></i> Contact info</span>
                         <ul>
-                            <li>Phone: (239) 300-9418</li>
-                            <li>Phone: (239) 610-3060</li>
-                            <li>Phone: (239) 610-3033</li>
-                            <li><a href="mailto:hello@theuniversalwriters.com">Email : hello@theuniversalwriters.com</a>
+                            <li>Phone: +1 (307) 4615192</li>
+                            <li><a href="mailto:info@ghostwritingmuser.com">Email : info@ghostwritingmuser.com</a>
                             </li>
                         </ul>
                     </div>
