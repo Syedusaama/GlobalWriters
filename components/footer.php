@@ -73,10 +73,10 @@
                 </div>
                 <div class="ctaWrap">
                     <div class="aboutCta">
-                        <a href="tel:2393009418" class="ctaLinePhone">
+                        <a href="tel:13074615192" class="ctaLinePhone">
                             <i class="fa-solid fa-phone"></i>
                             <span class="smallTitleLine">We will be happy to assist you</span>
-                                (239) 300-9418
+                            +1 (307) 4615192
                         </a>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                     <input type="hidden" name="setURL" class="packname" value="">
                     <input type="hidden" name="pac" class="packp" value="">
                     <input type="hidden" id="location" name="locationURL"
-                           value="http://theuniversalwriters.com/"/>
+                           value="http://ghostwritingmuser.com/"/>
                     <script type="text/javascript">document.getElementById('location').value = window.location.href;</script>
                 </div>
                     </form>
@@ -141,8 +141,8 @@
                   Now Just a Click 
                     Away </span>
                     <ul class='footerContactDetails'>
-                        <li><a href="mailto:hello@theuniversalwriters.com">hello@theuniversalwriters.com</a></li>
-                        <li><a href="tel:2393009418">(239) 300-9418</a></li>
+                        <li><a href="mailto:info@ghostwritingmuser.com">info@ghostwritingmuser.com</a></li>
+                        <li><a href="tel:13074615192">+1 (307) 4615192</a></li>
                     </ul>
                     <ul class='socialFooter'>
                         <li><a href="#" target="_blank"><span>Facebook</span></a></li>
@@ -196,7 +196,7 @@
                         </p>
                     </div>
                     <div class='copyRightContent'>
-                        <p>© 2024 Global Writers. All Rights Reserved</p>
+                        <p>© 2024 Ghost Writing Muser. All Rights Reserved</p>
                         
                     </div>
                 </div>
@@ -208,7 +208,7 @@
     <div class="StickeyCtaInner">
         <ul>
             <li><a href="javascript:;" class="openPopup"><img src="./assets/images/ctaFormfixed.png" alt="Sticky Cta"/></a></li>
-            <li><a href="tel:2393009418"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
+            <li><a href="tel:13074615192"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
             <!--<li><a href="javascript:;"><img src="./assets/images/ctaChatfixed.png" alt="Sticky Cta"/></a>-->
             <!--</li>-->
         </ul>

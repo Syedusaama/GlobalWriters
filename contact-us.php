@@ -138,7 +138,7 @@
                     Away </span>
                     <ul class='footerContactDetails'>
                         <li><a href="mailto:hello@theuniversalwriters.com">hello@theuniversalwriters.com</a></li>
-                        <li><a href="tel:2393009418">(239) 300-9418</a></li>
+                        <li><a href="tel:13074615192">1 (307) 4615192</a></li>
                     </ul>
                     <ul class='socialFooter'>
                         <li><a href="#" target="_blank"><span>Facebook</span></a></li>
@@ -204,7 +204,7 @@
     <div class="StickeyCtaInner">
         <ul>
             <li><a href="javascript:;" class="openPopup"><img src="./assets/images/ctaFormfixed.png" alt="Sticky Cta"/></a></li>
-            <li><a href="tel:2393009418"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
+            <li><a href="tel:13074615192"><img src="./assets/images/ctaCallfixed.png" alt="Sticky Cta"/></a></li>
             <!--<li><a href="javascript:;"><img src="./assets/images/ctaChatfixed.png" alt="Sticky Cta"/></a>-->
             <!--</li>-->
         </ul>
