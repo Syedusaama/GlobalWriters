@@ -186,7 +186,7 @@
                                 famous people but for those who want to pay tribute to beautiful people and beautiful
                                 stories.
                             </p>
-                            <p>The Universal Writers believe in sharing stories with a global audience that would
+                            <p>Ghostwritingmuser believe in sharing stories with a global audience that would
                                 inspire,
                                 make
                                 aware, and act as a tell-all for your audience. Our expert biography writers do in-depth

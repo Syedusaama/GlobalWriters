@@ -151,7 +151,7 @@
                             so
                             exciting is the constant suspense and curiosity of a scene. Be it a jumpscare or set up of
                             an
-                            eerie setting, our expert horror book writers at The Universal Writers, TUW, ensure that
+                            eerie setting, our expert horror book writers at Ghostwritingmuser, TUW, ensure that
                             they
                             provide your audience with exactly what they crave in the horror genre. </p>
 

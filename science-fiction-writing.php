@@ -30,7 +30,7 @@
                                 Unleash Your Inner Geek with Extraordinary Sci-Fi Writing Services
                             </h1>
                             <p>
-                                At The Universal Writers, TUW science fiction writing services are curated to perfect
+                                At Ghostwritingmuser, TUW science fiction writing services are curated to perfect
                                 the
                                 techniques of science realism and fiction writing to make your books seem out of the
                                 ordinary.
@@ -171,7 +171,7 @@
                                 Our
                                 talented science fiction writers amaze readers with countless scenarios be it an
                                 intergalactic
-                                mystery or a thought-provoking futuristic story. The Universal Writers, TUW ensures that
+                                mystery or a thought-provoking futuristic story. Ghostwritingmuser, TUW ensures that
                                 your
                                 manuscript would definitely churn their brain engines! </p>
 
@@ -185,7 +185,7 @@
                             </p>
                             <p>We offer an array of services that are designed to help you become the next best-selling
                                 author,
-                                The Universal Writers make no compromises on providing professional science fiction
+                                Ghostwritingmuser make no compromises on providing professional science fiction
                                 services
                                 for
                                 all the geeks of science fiction genre! </p>
@@ -241,7 +241,7 @@
                                     <div class="contentChoose">
                                         <span>Top-Notch Sci-Fi Writers in USA</span>
                                         <p>
-                                            The Universal Writers aka TUW is a hub of expert writers who specialize in
+                                            Ghostwritingmuser aka TUW is a hub of expert writers who specialize in
                                             specific
                                             genres as per our clients’ requirements. We only provide our clients with a
                                             team
@@ -297,7 +297,7 @@
                                     <div class="contentChoose">
                                         <span>On-Time Deliveries </span>
                                         <p>
-                                            The Universal Writers know the importance and value of your time, we make no
+                                            Ghostwritingmuser know the importance and value of your time, we make no
                                             hesitations in communicating and designing a time-frame that gives our
                                             writers
                                             ample
@@ -359,7 +359,7 @@
                     </div>
                     <div class="col-md-6 contentMain contentLeft">
                         <p>
-                            The Universal Writers offers a range of writing science fiction to meet the needs of our
+                            Ghostwritingmuser offers a range of writing science fiction to meet the needs of our
                             customers. Be it you as an author who wants ghostwriting of Sci-Fi books or an organization
                             that wants original content for the customers, our experience sci-fi writers will craft the
                             best seller!

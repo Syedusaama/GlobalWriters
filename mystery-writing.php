@@ -144,7 +144,7 @@
                         <h4>Get the Most Professional Mystery Writers in the USA </h4>
                         <p>
                             Penning down a good mystery requires a lot of expertise and brains; a good mystery revolves
-                            around multiple layers and is never boring! At The Universal Writers, we have a wide range
+                            around multiple layers and is never boring! At Ghostwritingmuser, we have a wide range
                             of
                             creative and top-of-the-line authors who are well-equipped to write mind-bending mysteries,
                             be
@@ -282,7 +282,7 @@
                                     <p>
                                         Through our creative outlets, our writers can explore different genres and tap
                                         into
-                                        a world that you want to create for your readers! At, The Universal Writers, we
+                                        a world that you want to create for your readers! At, Ghostwritingmuser, we
                                         take
                                         leverage from the academics and experience acquired from our best-selling line
                                         of

@@ -19,7 +19,7 @@
                 <div class="row">
                     <div class="col-md-7 bannertextLeft">
                         <div class="bannerTextInner">
-                            <h1> Transform Your Content Marketing with The Universal Writers</h1>
+                            <h1> Transform Your Content Marketing with Ghostwritingmuser</h1>
                             <p>Your Trusted Source for Professional E-Book Writing Services. Get High-Quality, Engaging
                                 E-Books That Showcase Your Expertise and Drive Result</p>
                             <div class="btnBanner">
@@ -238,7 +238,7 @@
                                     </div>
                                     <div class="contentChoose">
                                         <span>Customized approach</span>
-                                        <p> Every e-book is unique, and "The Universal Writers" understands that. They
+                                        <p> Every e-book is unique, and "Ghostwritingmuser" understands that. They
                                             work
                                             closely with you to understand your goals, your audience, and your brand
                                             voice
@@ -261,7 +261,7 @@
                                     </div>
                                     <div class="contentChoose">
                                         <span>Affordable rates</span>
-                                        <p>Writing a high-quality e-book can be expensive, but The Universal Writers
+                                        <p>Writing a high-quality e-book can be expensive, but Ghostwritingmuser
                                             offers
                                             competitive rates to make it affordable for businesses of all sizes. They
                                             believe that every brand should have access to high-quality content, no
@@ -283,7 +283,7 @@
                                     </div>
                                     <div class="contentChoose">
                                         <span>Fast turnaround </span>
-                                        <p>Time is money, and The Universal Writers values time. We work quickly to
+                                        <p>Time is money, and Ghostwritingmuser values time. We work quickly to
                                             deliver
                                             your e-book on time, without sacrificing quality. You can count on us to
                                             meet

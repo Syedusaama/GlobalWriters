@@ -213,7 +213,7 @@
                                         </lord-icon>                                
                                             </div>
                                 <div class="contentChoose">
-                                    <span>No Genre Is Impossible For The Universal Writers </span>
+                                    <span>No Genre Is Impossible For Ghostwritingmuser </span>
                                     <p>
                                         We have established that the romance genre is vast, but it doesn’t stop The
                                         Universal Writers, TUW, from mastering scripts that are customized to the
@@ -288,7 +288,7 @@
                                     <span>Free Consultation </span>
                                     <p>
                                         Sometimes deciding to put your story in front of the world can make you a little
-                                        nervous. The Universal Writers, TUW, offer free consultancy services to bring
+                                        nervous. Ghostwritingmuser, TUW, offer free consultancy services to bring
                                         clarity and transparency so you can make better decisions!
                                     </p>
                                 </div>

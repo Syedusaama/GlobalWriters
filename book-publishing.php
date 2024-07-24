@@ -262,7 +262,7 @@
                                         </div>
                                         <div class="tabsContent">
                                             <span class="tabTitle">Editorial Review </span>
-                                            <p>The Universal Writers offer dexterous editorial services to proofread and
+                                            <p>Ghostwritingmuser offer dexterous editorial services to proofread and
                                                 edit
                                                 your complete manuscript for publishing. </p>
                                         </div>
@@ -638,7 +638,7 @@
                             <p class="p-light">
                                 Our publishing experts leave no page unturned, quite literally! Our team of professional
                                 editors
-                                and publishers work together as a collaborative unit. The Universal Writers, specialize
+                                and publishers work together as a collaborative unit. Ghostwritingmuser, specialize
                                 in
                                 mastering all the formats to make your books compatible with multiple devices and
                                 platforms.

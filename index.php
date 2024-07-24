@@ -108,7 +108,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 abtLeft-light">
-                        <span class="smallTitleLine-light">The Universal Writers</span>
+                        <span class="smallTitleLine-light">Ghostwritingmuser</span>
                         <h2>
                             Hire Top-Notch Book Ghostwriters to Write Inspiring Tales!
                         </h2>
@@ -151,7 +151,7 @@
                         <p>
                             Writing a book is a procedure that must be carried out step-by-step; it is more complex than
                             purely conscripting a manuscript. A wide range of subjects, including ghostwriting, editing,
-                            publishing, and marketing, form the substance of book writing. The Universal Writers
+                            publishing, and marketing, form the substance of book writing. Ghostwritingmuser
                             provides <b>ghostwriters for hire</b> with a laser-like focus that collaborates with eminent
                             ghostwriters who are extremely skilled in their profession!
                         </p>
@@ -227,7 +227,7 @@
                                 <span class="heading3">
                                     Feature Your Books on Leading Sites
                                 </span>
-                                <p>The Universal Writers is on a mission to combine cutting-edge printing technology
+                                <p>Ghostwritingmuser is on a mission to combine cutting-edge printing technology
                                     with a historical legacy, putting more than a century of experience to work on every
                                     book we print. </p>
                                 <a href="https://theuniversalwriters.com/book-publishing/">MORE ABOUT Publishing</a>
@@ -433,7 +433,7 @@
                                 new products or adjustments. The technology-based companies trust us to write technical
                                 content to attract relevant customers!</p>
                             <h3>Augmented Reality</h3>
-                            <p>The Universal Writers employs excellent ghostwriters to write about businesses that
+                            <p>Ghostwritingmuser employs excellent ghostwriters to write about businesses that
                                 engage in augmented reality. Our staff of accomplished writers, editors, and business
                                 professionals is qualified to produce articles on augmented reality. While you
                                 concentrate on other things, let professionals handle your writing.</p>
@@ -593,7 +593,7 @@
                         <div class="abtLeft">
                             <span class="smallTitleLine-light">OUR PHILOSOPHY</span>
                             <h4>Have You Considered the Upcoming Best-Selling Idea?</h4>
-                            <p class="p-light">The Universal Writers (TUW) highly values your creativity and ideas. We
+                            <p class="p-light">Ghostwritingmuser (TUW) highly values your creativity and ideas. We
                                 invite you to
                                 talk with our talented authors to ensure your novel uses your ideas. Our skilled ghost
                                 book writers pay special attention to detail and consider your point of view through
@@ -750,7 +750,7 @@
                                     <div class="contentChoose">
                                         <span>Standardized Book Publishing </span>
                                         <p>
-                                            At The Universal Writers, we prioritize maintaining the
+                                            At Ghostwritingmuser, we prioritize maintaining the
                                             standards and guidelines to make your books just as
                                             professional as any other best-seller. Our expert
                                             marketing connoisseurs and publishers have all the
@@ -849,7 +849,7 @@
                                             <div class="mainCOntentSlider">
                                                 <div class="testCon">
                                                     <p>
-                                                        The Universal Writers is the best choice for people who want to
+                                                        Ghostwritingmuser is the best choice for people who want to
                                                         accomplish their dream as an Author. I got my book edited and
                                                         published
                                                         by them and undoubtedly one of the best service providers out
@@ -882,7 +882,7 @@
                                         <div class="swiper-slide">
                                             <div class="mainCOntentSlider">
                                                 <div class="testCon">
-                                                    <p>The Universal Writers were most instrumental in the writing and
+                                                    <p>Ghostwritingmuser were most instrumental in the writing and
                                                         publishing of my book, <b>"Un Trentino in America"</b>. They
                                                         provided me
                                                         with the needed direction on how to start, and organize, and
@@ -919,7 +919,7 @@
                                                         Very
                                                         helpful! Got my book <b>"The Triumph of the Human Spirit"</b>
                                                         published
-                                                        and printed from The Universal Writers.</p>
+                                                        and printed from Ghostwritingmuser.</p>
                                                 </div>
                                                 <div class="testImageName">
                                                     <div class="video-img">

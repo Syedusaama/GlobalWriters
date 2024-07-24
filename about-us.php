@@ -35,7 +35,7 @@
                 <div class="col-md-12 bookContentmain">
                     <h3 class="heading2-light">Who are we?</h3>
                     <p>
-                        &quot;The Universal Writers&quot; is an eBook writing service
+                        &quot;Ghostwritingmuser&quot; is an eBook writing service
                         that specializes in providing high-quality and custom-written
                         eBooks to clients across various genres and industries. We are a
                         team of experienced and talented writers who are passionate
@@ -60,7 +60,7 @@
                         respect. If you’re looking for high-quality eBook writing
                         services that can help you achieve your goals and stand out in
                         the packed digital marketplace, look no further than
-                        <br>“The Universal Writers.”
+                        <br>“Ghostwritingmuser.”
                     </p>
                 </div>
             </div>

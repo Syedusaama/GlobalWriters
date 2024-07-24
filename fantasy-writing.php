@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>About Us | The Universal Writers | We Craft a Clear Sketch of Your Thoughts</title>
+    <title>About Us | Ghostwritingmuser | We Craft a Clear Sketch of Your Thoughts</title>
     <!-- head -->
     <?php include "./components/head.php" ?>
 
@@ -226,7 +226,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 ghostTitleagency">
-                        <span class="ghostTitleheading">Why is The Universal Writers Best <br> for you? Let us
+                        <span class="ghostTitleheading">Why is Ghostwritingmuser Best <br> for you? Let us
                             Explain</span>
                     </div>
                     <div class="col-md-8 whychooseRight ghostContentagency">
@@ -295,7 +295,7 @@
                                     <div class="contentChoose">
                                         <span>Personalized Assistance </span>
                                         <p>
-                                            With The Universal Writers, you can trust us for continuous support
+                                            With Ghostwritingmuser, you can trust us for continuous support
                                             throughout
                                             your
                                             journey, from writing the first draft to completing the book; we take you on
@@ -487,7 +487,7 @@
                             </h2>
                             <h3>Arrive At The Experts' Booking, And Let’s Get To Work!
                             </h3>
-                            <p>You've come to The Universal Writers since, as we are aware, you're looking for
+                            <p>You've come to Ghostwritingmuser since, as we are aware, you're looking for
                                 expertise. Why wait until we can be reached by text? Contact us immediately.
 
                             </p>

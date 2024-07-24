@@ -30,7 +30,7 @@
                                 Explore Our Professional Book Formatting Services
                             </h1>
                             <p>
-                                The Universal Writers provides multiple book formatting services; our company ensures
+                                Ghostwritingmuser provides multiple book formatting services; our company ensures
                                 any
                                 published book follows standardized ways of formatting a book to give your readers a
                                 manuscript
@@ -250,7 +250,7 @@
                                     <div class="contentChoose">
                                         <span>Publishing Manuscripts</span>
                                         <p>
-                                            The Universal Writers provide an affordable means of book formatting; our
+                                            Ghostwritingmuser provide an affordable means of book formatting; our
                                             team
                                             of
                                             experts not only helps you identify incompetent formatting errors but also

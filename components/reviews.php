@@ -30,14 +30,14 @@
                                             </div>
                                         </div>
                                         <div class="blogContent">
-                                            <p>The Universal Writers wasn’t my first choice when it comes to
+                                            <p>Ghostwritingmuser wasn’t my first choice when it comes to
                                                 ghostwriting, I had
                                                 a
                                                 very bad
                                                 experience with my previous book writing agency, but things took a turn
                                                 when I
                                                 stumbled upon
-                                                the website of The Universal Writers; they helped me throughout my
+                                                the website of Ghostwritingmuser; they helped me throughout my
                                                 journey,
                                                 their
                                                 professionalism and their commitment towards my project really made this
@@ -197,7 +197,7 @@
                                             </div>
                                         </div>
                                         <div class="blogContent">
-                                            <p>Working with The Universal Writers was a game changer for my business
+                                            <p>Working with Ghostwritingmuser was a game changer for my business
                                                 book. Their
                                                 team of
                                                 writers truly understood the messaging and tone I was going for, and
@@ -228,7 +228,7 @@
                                             </div>
                                         </div>
                                         <div class="blogContent">
-                                            <p>I recently used The Universal Writers for my romance novel, and I am
+                                            <p>I recently used Ghostwritingmuser for my romance novel, and I am
                                                 extremely
                                                 satisfied with
                                                 the results. The team of writers was professional, responsive, and easy

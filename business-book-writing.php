@@ -190,9 +190,9 @@
                                 online business book ghostwriter. These eBooks can help in the expansion and promotion
                                 of
                                 your
-                                company. The Universal Writers offer a variety of writing services for your company. Our
+                                company. Ghostwritingmuser offer a variety of writing services for your company. Our
                                 team of
-                                business book ghostwriters at The Universal Writers uses strong business language that
+                                business book ghostwriters at Ghostwritingmuser uses strong business language that
                                 is
                                 simple
                                 to comprehend and has a significant impact. Because of their extensive knowledge and
@@ -201,7 +201,7 @@
                                 while
                                 adhering to your detailed specifications and spending limits. Professional business book
                                 writing
-                                is not as simple as you might think, but at The Universal Writers, our writers have a
+                                is not as simple as you might think, but at Ghostwritingmuser, our writers have a
                                 great
                                 grip
                                 over making the entire writing process hassle-free. Hire a business ghostwriter right
@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 ghostTitleagency">
-                        <span class="ghostTitleheading">Why hire The Universal Writers <br> for your business
+                        <span class="ghostTitleheading">Why hire Ghostwritingmuser <br> for your business
                             book?</span>
                     </div>
                     <div class="col-md-8 whychooseRight ghostContentagency">
@@ -331,7 +331,7 @@
                                     <div class="contentChoose">
                                         <span>Book cover designs</span>
                                         <p>
-                                            The Universal Writers focuses on providing clients with distinctive and
+                                            Ghostwritingmuser focuses on providing clients with distinctive and
                                             intriguing
                                             book covers. Profound readers may be drawn in by the book covers.
                                             Professional

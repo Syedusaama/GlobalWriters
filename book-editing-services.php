@@ -157,7 +157,7 @@
                         <div class="abtLeft-light">
                             <h4>Transforming Your Books Into Professional Manuscripts </h4>
                             <p>
-                                The Universal Writers are a one-stop solution for all your books; we polish rough drafts
+                                Ghostwritingmuser are a one-stop solution for all your books; we polish rough drafts
                                 and
                                 ensure you get your book's final versions ready to publish and put out in the world. Our
                                 proofreading and editing services are the industry's most sought-after services, as we
@@ -167,7 +167,7 @@
                             <p>Any published book needs to be error-free and proofread to ensure that the readers enjoy
                                 the
                                 book
-                                and appreciate the syntax accuracy, so no confusions occur. The Universal Writers take
+                                and appreciate the syntax accuracy, so no confusions occur. Ghostwritingmuser take
                                 charge of
                                 your project and provide a hassle-free process. </p>
                             <p>Our professional ebook formatters and editors put in real talent and hardwork to make
@@ -441,7 +441,7 @@
                                     <div class="contentChoose">
                                         <span>Choose your Editor </span>
                                         <p>
-                                            With The Universal Writers, we treat you like partners; you can choose from
+                                            With Ghostwritingmuser, we treat you like partners; you can choose from
                                             a
                                             pool
                                             of editors through initial drafts and find the best one for your genre!
@@ -551,11 +551,11 @@
                                 information?
                                 Or worse, finding loopholes in your storyline? All of this can go away with one click;
                                 choose
-                                The Universal Writers to help you maintain a correct flow throughout your book. We cover
+                                Ghostwritingmuser to help you maintain a correct flow throughout your book. We cover
                                 all
                                 aspects of book editing, from line-by-line editing to structured reviews of your
                                 manuscripts.
-                                The Universal Writers have got your back! Your story can also be the next best-selling
+                                Ghostwritingmuser have got your back! Your story can also be the next best-selling
                                 book
                                 with
                                 a touch of our proofreading and editing service. We leave no room for errors; you get

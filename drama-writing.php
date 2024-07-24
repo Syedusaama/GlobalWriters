@@ -29,7 +29,7 @@
                             Create History With Our Fascinating Drama Writing Services!
                         </h1>
                         <p>
-                            The Universal Writers help you create exceptional dramas through our top-tier ghostwriting
+                            Ghostwritingmuser help you create exceptional dramas through our top-tier ghostwriting
                             services. We help you create masterpieces that can be turned into plays and movies; get our
                             drama writing services and start your journey with us!
                         </p>

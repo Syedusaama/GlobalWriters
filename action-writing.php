@@ -158,7 +158,7 @@
                         <div class="abtLeft-light">
                             <h4>Hiring Action Writers Has Never Been Easier!</h4>
                             <p>
-                                With The Universal Writers, TUW, you do not have to worry about getting all the
+                                With Ghostwritingmuser, TUW, you do not have to worry about getting all the
                                 life-threatening
                                 events, dangerous characters, antagonists, and the perfect revenge or summary to any of
                                 your
@@ -235,7 +235,7 @@
                                     <div class="contentChoose">
                                         <span>Crafting Stories, Not Just Words </span>
                                         <p>
-                                            At The Universal Writers, TUW, we don't just write books for the sake of
+                                            At Ghostwritingmuser, TUW, we don't just write books for the sake of
                                             business;
                                             we write them to take your stories to new heights! With our expertise, you
                                             can

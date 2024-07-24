@@ -162,7 +162,7 @@
                                 A
                                 well-designed author website is a powerful tool for establishing your online presence
                                 and
-                                connecting with your readers. At The Universal Writers, our team of experienced website
+                                connecting with your readers. At Ghostwritingmuser, our team of experienced website
                                 designers specializes in creating custom author websites that are tailored to your
                                 specific
                                 needs. From design to content, we work closely with you to create a website that
@@ -187,7 +187,7 @@
                                 why
                                 wait? Invest in your online presence and take your author career to the next level with
                                 a
-                                professional author website from The Universal Writers. Get started today and reach more
+                                professional author website from Ghostwritingmuser. Get started today and reach more
                                 readers
                                 with the power of a well-designed author webs
                             </p>

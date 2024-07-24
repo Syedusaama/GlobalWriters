@@ -30,7 +30,7 @@
                                 Top Children’s Book Ghostwriters in USA
                             </h1>
                             <p>
-                                Get the best children’s book ghostwriters from The Universal Writers for excellent
+                                Get the best children’s book ghostwriters from Ghostwritingmuser for excellent
                                 quality work.
                                 Contact us now for further details.
                             </p>
@@ -190,14 +190,14 @@
                                 If
                                 you have an idea that is just waiting to be told, or if you want to turn your story into
                                 a
-                                best-seller, let the team at The Universal Writers help you out.</p>
+                                best-seller, let the team at Ghostwritingmuser help you out.</p>
 
                             <p>Screenwriters and producers are just a few of the professionals who trust our work to
                                 provide
                                 them with quality writing services. If you have an idea that is just waiting to be told,
                                 or
                                 if
-                                you want to turn your story into a best-seller, let the team at The Universal Writers
+                                you want to turn your story into a best-seller, let the team at Ghostwritingmuser
                                 help you
                                 out.
                             </p>
@@ -232,7 +232,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 ghostTitleagency">
-                        <span class="ghostTitleheading">Why Hire The Universal Writers <br> Ghostwriting Agency?</span>
+                        <span class="ghostTitleheading">Why Hire Ghostwritingmuser <br> Ghostwriting Agency?</span>
                     </div>
                     <div class="col-md-8 whychooseRight ghostContentagency">
                         <div class="row">

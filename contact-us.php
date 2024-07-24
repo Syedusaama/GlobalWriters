@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Contact The Universal Writers for More Details</title>
+    <title>Contact Ghostwritingmuser for More Details</title>
     <!-- head -->
     <?php include "./components/head.php" ?>
 

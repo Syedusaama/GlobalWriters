@@ -1,5 +1,5 @@
 <meta name="description"
-          content="Ghostwriters for hire services at The Universal Writers! The ghostwriting team initiates and brings you the best form of your ideas in writing! Hire our professional ghost writers for your business book, eBook, Autobiography or memoir.">
+          content="Ghostwriters for hire services at Ghostwritingmuser! The ghostwriting team initiates and brings you the best form of your ideas in writing! Hire our professional ghost writers for your business book, eBook, Autobiography or memoir.">
         <meta name="ip2loc" content="">
 <meta name="ip2loc" content="101.53.226.166">
 <meta name="page_url" content="">

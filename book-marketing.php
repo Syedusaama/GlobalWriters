@@ -30,7 +30,7 @@
                                 Get Industry-Leading Book Marketing Services with Our Company
                             </h1>
                             <p>
-                                The Universal Writers are leaders in the industry; with years of experience, we make
+                                Ghostwritingmuser are leaders in the industry; with years of experience, we make
                                 sure we
                                 provide top-quality services to our clients. Our marketing experts are trained
                                 professionally
@@ -157,7 +157,7 @@
                         <div class="abtLeft-light">
                             <h4>The World Is Your Oyster, Market Your Books Globally! </h4>
                             <p>
-                                With The Universal Writers, you are never constrained; when it comes to our book
+                                With Ghostwritingmuser, you are never constrained; when it comes to our book
                                 marketing
                                 services, we enable every individual to expand their audience. Our marketing experts
                                 perform
@@ -170,7 +170,7 @@
                             <p>Our marketing experts help you sell your books and reach more readers; of course, not
                                 everything
                                 can be centered down to numbers. However, being an author is a career choice for many
-                                individuals, and The Universal Writers believe in making you a successful, best-selling
+                                individuals, and Ghostwritingmuser believe in making you a successful, best-selling
                                 author. </p>
                             <p>Our expert’s marketers ensure to showcase a book, lay out an online presence and provide
                                 an
@@ -266,7 +266,7 @@
                                         </div>
                                         <div class="tabsContent">
                                             <span class="tabTitle">Book Distribution and Publication</span>
-                                            <p>When you hire The Universal Writers, you trust us to market and publish
+                                            <p>When you hire Ghostwritingmuser, you trust us to market and publish
                                                 your
                                                 books that can be converted into leads. </p>
                                         </div>
@@ -307,7 +307,7 @@
                                     best
                                     chance to publish and market your books!
                                 </p>
-                                <p> There are bunches of ways The Universal Writers help you gather an online-based
+                                <p> There are bunches of ways Ghostwritingmuser help you gather an online-based
                                     presence:</p>
                                 <ul>
                                     <li>Make an author’s site.</li>

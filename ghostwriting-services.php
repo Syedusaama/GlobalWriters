@@ -166,7 +166,7 @@
                                 properly
                                 formulate a chapter.
                             </p>
-                            <p>Don’t worry; that’s why we are here; at The Universal Writers, we offer a wide range of
+                            <p>Don’t worry; that’s why we are here; at Ghostwritingmuser, we offer a wide range of
                                 <i>ghostwriting
                                     services</i> to you – from start to finish. We know how much each story matters, and
                                 we take
@@ -238,7 +238,7 @@
                                         </div>
                                         <div class="tabsContent">
                                             <span class="tabTitle">Complete Manuscript Formatting </span>
-                                            <p>Formatting is no easy task; The Universal Writers use standardized
+                                            <p>Formatting is no easy task; Ghostwritingmuser use standardized
                                                 processes
                                                 to
                                                 format each book with precision and follow guidelines of top sites like
@@ -299,7 +299,7 @@
                                     Our <a href="./author-website-design" class="anchor-text">author website
                                         designers</a> and developers think of a
                                     layout that serves
-                                    as the skin of the author’s website. At The Universal Writers, the professional
+                                    as the skin of the author’s website. At Ghostwritingmuser, the professional
                                     <b>ghostwriting team</b> with the designers combines elements such as colors,
                                     fonts, styles, images, graphics, animations, and content to define the website's
                                     aesthetics. The visuals we use on the website tie to the work you want to display to
@@ -422,7 +422,7 @@
                                     <div class="contentChoose">
                                         <span>Quick Deliveries</span>
                                         <p>
-                                            Time stops for nobody, so The Universal Writers, TUW, make it their priority
+                                            Time stops for nobody, so Ghostwritingmuser, TUW, make it their priority
                                             to
                                             always complete their deliverables before deadlines. Trust us if you are on
                                             a
@@ -763,7 +763,7 @@
                         <div class="SEO-content">
                             <h3>Locate A Reliable, Experienced Ghostwriter.</h3>
                             <p>Finding a trustworthy, capable ghostwriter shouldn't stand in the way of you getting
-                                published. At The Universal Writers, we make it simple to contact the right author. Your
+                                published. At Ghostwritingmuser, we make it simple to contact the right author. Your
                                 area of expertise is that; ours is figuring out how to put your ideas on paper. Our
                                 skilled writers, literary magicians, have perfected the ability to transform hazy
                                 concepts into written words.</p>
