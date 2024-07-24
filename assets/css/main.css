@@ -1594,35 +1594,46 @@ a.btnSecondary svg {
 }
 
 .actionBanner {
-  background: url("../images/actionBanner.webp") bottom center / cover no-repeat;
+  /* background: url("../images/actionBanner.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/actionBanner.webp");
 }
 
 .adventureBanner {
-  background: url("../images/adventureBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/adventureBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/adventureBanner.webp");
 }
 
 .audiobookBanner {
-  background: url("../images/audiobookBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/audiobookBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/audiobookBanner.webp");
 }
 
 .authorBanner {
-  background: url("../images/authorban.webp") bottom center / cover no-repeat;
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url(../images/authorban.webp);
 }
 
 .bioBanner {
-  background: url("../images/bio-ban.webp") bottom center / cover no-repeat;
+  /* background: url("../images/bio-ban.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bio-ban.webp");
 }
 
 .bookmarketingBanner {
-  background: url("../images/bookeditingBanner.webp") center right / cover
-    no-repeat !important;
+  /* background: url("../images/bookMarketing.webp") center right / cover
+    no-repeat !important; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bookMarketing.webp");
+}
+.bookeditingBanner {
+  /* background: url("../images/bookeditingBanner.webp") center right / cover
+    no-repeat !important; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bookeditingBanner.webp");
 }
 
 .bookFormattingBanner {
-  background: url("../images/bookformattingBanner.webp") bottom center / cover
-    no-repeat;
+  /* background: url("../images/bookformattingBanner.webp") bottom center / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bookformattingBanner.webp");
 }
 
 .servingMainbox {
@@ -1654,8 +1665,9 @@ a.btnSecondary svg {
 }
 
 .bookmarketingBanner {
-  background: url(../../assets/images/bookformattingBanner.webp) bottom center /
-    cover no-repeat;
+  /* background: url(../../assets/images/bookformattingBanner.webp) bottom center /
+    cover no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url(../../assets/images/bookformattingBanner.webp);
 }
 
 section.sec13.bookmarketMobile {
@@ -1758,8 +1770,9 @@ span.countHas b:last-child {
 }
 
 .bookpublishingBanner {
-  background: url("../images/bookpublishingBanner.webp") center right / cover
-    no-repeat;
+  /* background: url("../images/bookpublishingBanner.webp") center right / cover
+    no-repeat; */
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/bookpublishingBanner.webp");
 }
 
 .bookPubsec3 {
@@ -1794,7 +1807,8 @@ span.countHas b:last-child {
 }
 
 .businessBanner {
-  background: url("../images/business-ban.webp") bottom center / cover no-repeat;
+  /* background: url("../images/business-ban.webp") bottom center / cover no-repeat; */
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/business-ban.webp");
 }
 
 .mainboxpayment {
@@ -1854,11 +1868,13 @@ span.countHas b:last-child {
 .childernBanner {
   background: url("../images/childernBanner.webp") bottom center / cover
     no-repeat;
+    background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/childernBanner.webp") ;
 }
 
 .contactUsBanner {
   background: url("../images/contactBg.webp") center center / cover no-repeat;
   padding: 250px 0 100px;
+  background-image: linear-gradient(to bottom, rgb(78 86 86 / 22%), #015d57), url("../images/contactBg.webp");
 }
 
 .contactUsBanner .bannerTextInner {
