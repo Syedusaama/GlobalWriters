@@ -66,10 +66,7 @@
                                                 stories is a
                                                 different ball
                                                 game altogether. After my consultation session with them, I decided to
-                                                opt for
-                                                The
-                                                Universal
-                                                Writers. The service and time management are great here.</p>
+                                                opt for Ghostwritingmuser. The service and time management are great here.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -113,9 +110,7 @@
                                             </div>
                                         </div>
                                         <div class="blogContent">
-                                            <p>The Mystery is hard to write, even for authors who are not rookies. The
-                                                Universal
-                                                Writers helped
+                                            <p>The Mystery is hard to write, even for authors who are not rookies. Ghostwritingmuser helped
                                                 me with all the nitty gritty details of fiction and created a piece of
                                                 heart!
                                                 This
@@ -140,8 +135,7 @@
                                             </div>
                                         </div>
                                         <div class="blogContent">
-                                            <p>I wanted my fiction book to be filled with action; through The Universal
-                                                Writers
+                                            <p>I wanted my fiction book to be filled with action; through Ghostwritingmuser
                                                 and
                                                 their action
                                                 writing services, I was able to find a good mix of these two genres.

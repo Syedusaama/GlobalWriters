@@ -447,8 +447,7 @@
                                     <div class="contentChoose">
                                         <span>Premium Marketing Services </span>
                                         <p>
-                                            It's pretty straightforward; we have the expertise while you have ideas! The
-                                            Universal Writers treat their clients like family and co-partners.
+                                            It's pretty straightforward; we have the expertise while you have ideas! Ghostwritingmuser treat their clients like family and co-partners.
                                         </p>
                                     </div>
                                 </div>
@@ -543,8 +542,7 @@
                                 only
                                 thing
                                 that sets your book apart from others. You need experienced book marketing experts like
-                                The
-                                Universal Writers to establish which strategy will work out the best for you! From
+                               Ghostwritingmuser to establish which strategy will work out the best for you! From
                                 professional
                                 book writers to ebook social media marketing experts, we have it all to make your books
                                 a

@@ -293,7 +293,8 @@
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/lsrcesku.json" trigger="loop"
-                                            delay="2000"  colors="primary:#005d56,secondary:#20b2aa,tertiary:#ffffff,quaternary:#10857e"
+                                            delay="2000"
+                                            colors="primary:#005d56,secondary:#20b2aa,tertiary:#ffffff,quaternary:#10857e"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -322,7 +323,8 @@
                                             background="transparent" speed="1" loop="" autoplay=""></lottie-player> -->
                                         <script src="https://cdn.lordicon.com/lordicon.js"></script>
                                         <lord-icon src="https://cdn.lordicon.com/kiynvdns.json" trigger="loop"
-                                            delay="2000" colors="primary:#005d56,secondary:#10857e,tertiary:#10857e,quaternary:#20b2aa,quinary:#20b2aa"
+                                            delay="2000"
+                                            colors="primary:#005d56,secondary:#10857e,tertiary:#10857e,quaternary:#20b2aa,quinary:#20b2aa"
                                             style="width:100px;height:100px">
                                         </lord-icon>
                                     </div>
@@ -360,8 +362,7 @@
                                             Our professional audiobook services mainly focus on and take pride in not
                                             only
                                             writing but also crafting beautiful narrations for your stories. We at TUW,
-                                            The
-                                            Universal Writers, would always place our bets on our team of experts to
+Ghostwritingmuser, would always place our bets on our team of experts to
                                             provide
                                             the
                                             top-most audio narrations for your novels.

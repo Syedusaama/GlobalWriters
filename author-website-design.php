@@ -221,7 +221,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 ghostTitleagency">
-                        <span class="ghostTitleheading">Reasons to Choose the Universal Writers <br> for Your
+                        <span class="ghostTitleheading">Reasons to Choose Ghostwritingmuser <br> for Your
                             Professional Author Website Design
                         </span>
                     </div>

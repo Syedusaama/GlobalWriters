@@ -310,8 +310,7 @@
                                     your
                                     book. Look for publishers with a good reputation, strong distribution channels, and
                                     a
-                                    successful track record in your field of interest. This is where The Universal
-                                    Writers
+                                    successful track record in your field of interest. This is where Ghostwritingmuser
                                     come
                                     in, where you can find track records of reputable clients and make your decision
                                     after a
