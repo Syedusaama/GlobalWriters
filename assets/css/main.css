@@ -4070,7 +4070,7 @@ header {
 }
 
 .HederCtaRight a svg {
-  color: #2cfff3;
+  color: var(--buton);
   margin-right: 10px;
 }
 
