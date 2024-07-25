@@ -43,10 +43,11 @@ a {
   text-decoration: underline;
 }
 
-/*start home css*/
+/*start home css*/.BookTitle a.btnYellow
 
 :root {
-  --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box;
+  /* --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box; */
+  --buton:#ffb700;
   --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
   --section_purple: #fff;
   --logo-section: #f0fffe;
@@ -106,7 +107,7 @@ a {
 
 a.btnPrimary,
 a.btnSecondary {
-  color: var(--white) !important;
+  color: #000 !important;
   display: inline-block;
   border-radius: 50px;
   font-size: 14px;
@@ -155,7 +156,7 @@ a.btnSecondary {
 }
 
 a.btnPrimary {
-  background: var(--buton);
+  background: #ffb700;
   padding: 15px 60px 15px 30px;
 }
 
@@ -163,7 +164,7 @@ a.btnPrimary:after {
   content: "";
   width: 28px;
   height: 28px;
-  background: var(--primary_color) !important;
+  background: #a77904 !important;
   position: absolute;
   border-radius: 100%;
   right: 12px;
@@ -178,6 +179,7 @@ a.btnPrimary:hover:after {
   border-radius: 0;
   right: -5px;
   bottom: -5px;
+  color: var(--white);
 }
 
 .whiteCta .aboutCta a.ctaLinePhone,
@@ -188,6 +190,7 @@ a.btnPrimary:hover {
 a.btnPrimary span {
   position: relative;
   z-index: 9;
+  /* color: #000; */
 }
 
 a.btnSecondary {
@@ -449,7 +452,7 @@ span.smalWhite::before {
   color: var(--white);
 }
 .whiteCta a.ctaLinePhone svg {
-  background: var(--white);
+  background: #ffb700;
   color: #005d56 ;
 }
 
@@ -826,8 +829,8 @@ span.nameClient {
 }
 
 .BookTitle a.btnYellow {
-  background: var(--primary_color);
-  color: var(--white) !important;
+  /* background: var(--primary_color);
+  color: var(--white) !important; */
 }
 
 .BookTitle:before {
@@ -3568,7 +3571,7 @@ ul.FooterMenu.lightMenu li {
 
 ul.FooterMenu.lightMenu li a:before {
   content: "";
-  background: var(--light_purple) !important;
+  background: var(--buton) !important;
   width: 12px;
   height: 1px;
   position: absolute;
@@ -3777,7 +3780,7 @@ button.btnPrimary {
 
 button.btnPrimary span {
   position: relative;
-  color: var(--white);
+  color: var(--black);
   z-index: 9;
 }
 

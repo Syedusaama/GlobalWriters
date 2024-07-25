@@ -1,5 +1,6 @@
 :root {
-    --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box;
+    /* --buton: transparent linear-gradient(98deg, #005d56 0%, #20b2aa  100%) 0% 0% no-repeat padding-box; */
+    --buton:#ffb700;
     --light_purple: linear-gradient(98deg, #20b2aa 0%, #005d56 100%) 0% 0%;
     --section_purple: #fff;
     --logo-section: #f0fffe;
